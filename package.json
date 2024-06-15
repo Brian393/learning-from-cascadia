@@ -1,0 +1,67 @@
+{
+  "name": "ecotopia-today",
+  "version": "0.0.1",
+  "author": "edwardsharp",
+  "description": "ecotopia.today openlayers component prototype",
+  "repository": "github:edwardsharp/ecotopia-today",
+  "private": true,
+  "scripts": {
+    "start": "vue-cli-service serve",
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build && ./util/minify_dist_geojson.js",
+    "lint": "vue-cli-service lint",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+  },
+  "dependencies": {
+    "colormap": "^2.3.2",
+    "core-js": "^3.8.3",
+    "jquery": "^3.7.1",
+    "location": "^0.0.1",
+    "material-design-icons": "^3.0.1",
+    "mediabox": "^1.1.3",
+    "mitt": "^3.0.1",
+    "navigator": "^1.0.1",
+    "net-browserify": "^0.2.4",
+    "node-polyfill-webpack-plugin": "^4.0.0",
+    "ol": "^9.2.4",
+    "simplify-geojson": "^1.0.5",
+    "vue": "^3.2.13",
+    "vue-gallery": "^2.0.5",
+    "vue-image-lightbox": "^7.2.0",
+    "vue-lazyload": "^3.0.0",
+    "vue-router": "^4.3.3",
+    "vuex": "^4.1.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.16",
+    "@babel/eslint-parser": "^7.12.16",
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-eslint": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "eslint": "^7.32.0",
+    "eslint-plugin-vue": "^8.0.3",
+    "gh-pages": "^6.1.1",
+    "vue-template-compiler": "^2.7.16"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/vue3-essential",
+      "eslint:recommended"
+    ],
+    "parserOptions": {
+      "parser": "@babel/eslint-parser"
+    },
+    "rules": {}
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead",
+    "not ie 11"
+  ]
+}

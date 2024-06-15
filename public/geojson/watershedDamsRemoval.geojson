@@ -1,0 +1,1776 @@
+{
+  "type": "FeatureCollection",
+  "name": "watershedDamsRemoval",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 0,
+        "key2": "Three Bears Lake-East Dam",
+        "date": "undated",
+        "City_County": "Glacier County",
+        "River": "",
+        "State": "MT",
+        "Dam_Height_ft": "10",
+        "Dam_Length_ft": "",
+        "Year_Built": "",
+        "Original_Use": "",
+        "Type_Material": "",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-113.36, 48.32526]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "key2": "Three Bears Lake-West Dam",
+        "date": "undated",
+        "City_County": "Glacier County",
+        "River": "Bear Creek",
+        "State": "MT",
+        "Dam_Height_ft": "20",
+        "Dam_Length_ft": "",
+        "Year_Built": "",
+        "Original_Use": "",
+        "Type_Material": "",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-113.366, 48.32313]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "key2": "Wind River Dam",
+        "date": "undated",
+        "City_County": "Carson",
+        "River": "Wind River",
+        "State": "WA",
+        "Dam_Height_ft": "20",
+        "Dam_Length_ft": "",
+        "Year_Built": "1905",
+        "Original_Use": "",
+        "Type_Material": "",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.94, 45.83346]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "key2": "Black Mud Waste Pond A Dam",
+        "date": "undated",
+        "City_County": "Longview",
+        "River": "Tributary to Columbia River",
+        "State": "WA",
+        "Dam_Height_ft": "15",
+        "Dam_Length_ft": "",
+        "Year_Built": "",
+        "Original_Use": "",
+        "Type_Material": "",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.011, 46.13982]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "key2": "Black Mud Waste Pond B Dam",
+        "date": "undated",
+        "City_County": "Longview",
+        "River": "Tributary to Columbia River",
+        "State": "WA",
+        "Dam_Height_ft": "15",
+        "Dam_Length_ft": "",
+        "Year_Built": "",
+        "Original_Use": "",
+        "Type_Material": "",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.011, 46.13982]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "key2": "Black Mud Waste Pond C Dam",
+        "date": "undated",
+        "City_County": "Longview",
+        "River": "Tributary to Columbia River",
+        "State": "WA",
+        "Dam_Height_ft": "15",
+        "Dam_Length_ft": "",
+        "Year_Built": "",
+        "Original_Use": "",
+        "Type_Material": "",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.011, 46.13982]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "key2": "Lane Dam",
+        "date": "",
+        "City_County": "Boundary County",
+        "River": "Elkhorn Gulch",
+        "State": "ID",
+        "Dam_Height_ft": "",
+        "Dam_Length_ft": "",
+        "Year_Built": "",
+        "Original_Use": "",
+        "Type_Material": "",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-116.297, 48.6632]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7,
+        "key2": "Browns Pond - Cruzen",
+        "date": "undated",
+        "City_County": "McCall",
+        "River": "Lake Fork",
+        "State": "ID",
+        "Dam_Height_ft": "25",
+        "Dam_Length_ft": "",
+        "Year_Built": "",
+        "Original_Use": "",
+        "Type_Material": "",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-115.9799143, 44.9143769]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8,
+        "key2": "Hunters Dam",
+        "date": "undated",
+        "City_County": "Hunters",
+        "River": "Hunters Creek",
+        "State": "WA",
+        "Dam_Height_ft": "65",
+        "Dam_Length_ft": "",
+        "Year_Built": "",
+        "Original_Use": "",
+        "Type_Material": "",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.158, 48.12287]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9,
+        "key2": "Dip Creek Dam",
+        "date": "",
+        "City_County": "Ketchum",
+        "River": "Dip Creek",
+        "State": "ID",
+        "Dam_Height_ft": "",
+        "Dam_Length_ft": "",
+        "Year_Built": "",
+        "Original_Use": "",
+        "Type_Material": "",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-114.382, 43.75396]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10,
+        "key2": "Lindernam Dam",
+        "date": "undated",
+        "City_County": "Fremont County",
+        "River": "Milk Creek",
+        "State": "ID",
+        "Dam_Height_ft": "26",
+        "Dam_Length_ft": "",
+        "Year_Built": "",
+        "Original_Use": "",
+        "Type_Material": "",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-116.46005, 43.762194]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11,
+        "key2": "Watts Lake Dam",
+        "date": "",
+        "City_County": "Nez Perce County",
+        "River": "Hatwai Creek",
+        "State": "ID",
+        "Dam_Height_ft": "",
+        "Dam_Length_ft": "",
+        "Year_Built": "",
+        "Original_Use": "",
+        "Type_Material": "",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.385851, 43.927736]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12,
+        "key2": "Buster Lake Dam",
+        "date": "undated",
+        "City_County": "Challis",
+        "River": "Garden Creek",
+        "State": "ID",
+        "Dam_Height_ft": "29",
+        "Dam_Length_ft": "",
+        "Year_Built": "1935",
+        "Original_Use": "",
+        "Type_Material": "",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-114.417, 44.43871]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13,
+        "key2": "Packsaddle Dam",
+        "date": "1916",
+        "City_County": "Tetonia",
+        "River": "North Fork Packsaddle Creek",
+        "State": "ID",
+        "Dam_Height_ft": "40",
+        "Dam_Length_ft": "1000",
+        "Year_Built": "1905",
+        "Original_Use": "",
+        "Type_Material": "",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.339443, 43.770399]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 14,
+        "key2": "Sunbeam Dam",
+        "date": "1931",
+        "City_County": "Salmon - Challis National Forest, Stanley",
+        "River": "Salmon River",
+        "State": "ID",
+        "Dam_Height_ft": "",
+        "Dam_Length_ft": "",
+        "Year_Built": "",
+        "Original_Use": "",
+        "Type_Material": "",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-114.736197, 44.270556]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 15,
+        "key2": "Lafayette Locks Dam",
+        "date": "1963",
+        "City_County": "Dayton",
+        "River": "Yamhill Basin",
+        "State": "OR",
+        "Dam_Height_ft": "25",
+        "Dam_Length_ft": "125",
+        "Year_Built": "1900",
+        "Original_Use": "",
+        "Type_Material": "",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.104, 45.23082]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 16,
+        "key2": "Timber Creek Dam",
+        "date": "1970",
+        "City_County": "Leadore",
+        "River": "Middle Fork Little Timber Creek",
+        "State": "ID",
+        "Dam_Height_ft": "",
+        "Dam_Length_ft": "",
+        "Year_Built": "",
+        "Original_Use": "",
+        "Type_Material": "",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-113.466527, 44.580543]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 17,
+        "key2": "Lewiston Dam",
+        "date": "1973",
+        "City_County": "Lewiston",
+        "River": "Clearwater River",
+        "State": "ID",
+        "Dam_Height_ft": "45",
+        "Dam_Length_ft": "1060",
+        "Year_Built": "1927",
+        "Original_Use": "",
+        "Type_Material": "",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-116.959, 46.43346]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 18,
+        "key2": "Catching Dam",
+        "date": "1994",
+        "City_County": "Westfir",
+        "River": "North Fork Middle Fork Willamette River",
+        "State": "OR",
+        "Dam_Height_ft": "28",
+        "Dam_Length_ft": "225",
+        "Year_Built": "",
+        "Original_Use": "",
+        "Type_Material": "",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.499, 43.75717]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 19,
+        "key2": "Kunkel Dam",
+        "date": "1994",
+        "City_County": "Twin Falls",
+        "River": "Soldier Creek",
+        "State": "ID",
+        "Dam_Height_ft": "",
+        "Dam_Length_ft": "",
+        "Year_Built": "",
+        "Original_Use": "",
+        "Type_Material": "",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-114.524136, 42.226577]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 20,
+        "key2": "Marie Dorian Dam",
+        "date": "1997",
+        "City_County": "Milton-Freewater",
+        "River": "Walla Walla River",
+        "State": "OR",
+        "Dam_Height_ft": "8",
+        "Dam_Length_ft": "100",
+        "Year_Built": "",
+        "Original_Use": "",
+        "Type_Material": "",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.366, 45.90616]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 21,
+        "key2": "Wallace Creek Dam",
+        "date": "1997",
+        "City_County": "Clinton",
+        "River": "Wallace Creek",
+        "State": "MT",
+        "Dam_Height_ft": "29",
+        "Dam_Length_ft": "720",
+        "Year_Built": "",
+        "Original_Use": "",
+        "Type_Material": "",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-113.671, 46.77995]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 22,
+        "key2": "Maiden Dam",
+        "date": "1998",
+        "City_County": "Touchet",
+        "River": "Touchet River",
+        "State": "WA",
+        "Dam_Height_ft": "",
+        "Dam_Length_ft": "",
+        "Year_Built": "",
+        "Original_Use": "",
+        "Type_Material": "",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.663, 46.1015]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 23,
+        "key2": "Colburn Mill Pond Dam",
+        "date": "1999",
+        "City_County": "Sandpoint",
+        "River": "Colburn Creek",
+        "State": "ID",
+        "Dam_Height_ft": "12",
+        "Dam_Length_ft": "35",
+        "Year_Built": "",
+        "Original_Use": "",
+        "Type_Material": "",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-116.529, 48.40681]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 24,
+        "key2": "Hogan Cedars Dam",
+        "date": "2001",
+        "City_County": "Gresham",
+        "River": "Johnson Creek",
+        "State": "OR",
+        "Dam_Height_ft": "4",
+        "Dam_Length_ft": "",
+        "Year_Built": "",
+        "Original_Use": "",
+        "Type_Material": "",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.410543, 45.477467]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25,
+        "key2": "Rock Creek Dam",
+        "date": "2002",
+        "City_County": "Haines",
+        "River": "Tributary to the Powder River",
+        "State": "OR",
+        "Dam_Height_ft": "13",
+        "Dam_Length_ft": "",
+        "Year_Built": "",
+        "Original_Use": "",
+        "Type_Material": "",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.068178, 44.904014]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 26,
+        "key2": "Unnamed Blockage #2 (Diffusion Dam 3)",
+        "date": "2003",
+        "City_County": "Leavenworth",
+        "River": "Icicle Creek",
+        "State": "WA",
+        "Dam_Height_ft": "",
+        "Dam_Length_ft": "",
+        "Year_Built": "1940",
+        "Original_Use": "",
+        "Type_Material": "",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-120.675, 47.54896]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 27,
+        "key2": "Unnamed Blockage #1 (Diffusion Dam 2)",
+        "date": "2003",
+        "City_County": "Leavenworth",
+        "River": "Icicle Creek",
+        "State": "WA",
+        "Dam_Height_ft": "",
+        "Dam_Length_ft": "",
+        "Year_Built": "1940",
+        "Original_Use": "",
+        "Type_Material": "",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-120.678, 47.54868]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28,
+        "key2": "Cedar Creek Dam",
+        "date": "2005",
+        "City_County": "Ione",
+        "River": "Cedar Creek",
+        "State": "WA",
+        "Dam_Height_ft": "19",
+        "Dam_Length_ft": "95",
+        "Year_Built": "1950",
+        "Original_Use": "Water supply",
+        "Type_Material": "Concrete",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.4423, 48.75396]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 29,
+        "key2": "Stimson Dam (AKA Bonner Dam)",
+        "date": "2005",
+        "City_County": "Bonner",
+        "River": "Blackfoot River",
+        "State": "MT",
+        "Dam_Height_ft": "",
+        "Dam_Length_ft": "",
+        "Year_Built": "",
+        "Original_Use": "",
+        "Type_Material": "",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-113.868, 46.87613]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 30,
+        "key2": "Unnamed Blockage #3 (Diffusion Dam 4)",
+        "date": "2005",
+        "City_County": "Leavenworth",
+        "River": "Icicle Creek",
+        "State": "WA ",
+        "Dam_Height_ft": "",
+        "Dam_Length_ft": "",
+        "Year_Built": "1940",
+        "Original_Use": "",
+        "Type_Material": "",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-120.669, 47.55497]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 31,
+        "key2": "Lower Currier Creek Fish Passage and Habitat Restoration",
+        "date": "2007",
+        "City_County": "Ellensburg",
+        "River": "Yakima River Basin",
+        "State": "WA",
+        "Dam_Height_ft": "",
+        "Dam_Length_ft": "",
+        "Year_Built": "",
+        "Original_Use": "",
+        "Type_Material": "",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-120.582, 47.00497]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 32,
+        "key2": "Brownsville Dam",
+        "date": "2007",
+        "City_County": "Brownsville",
+        "River": "Calapooia River",
+        "State": "OR",
+        "Dam_Height_ft": "5",
+        "Dam_Length_ft": "",
+        "Year_Built": "1858",
+        "Original_Use": "",
+        "Type_Material": "",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.933, 44.38784]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 33,
+        "key2": "Marmot Dam",
+        "date": "2007",
+        "City_County": "Sandy",
+        "River": "Sandy River",
+        "State": "OR",
+        "Dam_Height_ft": "47",
+        "Dam_Length_ft": "",
+        "Year_Built": "1912",
+        "Original_Use": "Originally part of the Bull Run hydropower project.",
+        "Type_Material": "Hydropower",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.133, 45.39956]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 35,
+        "key2": "Little Sandy River Dam",
+        "date": "2008",
+        "City_County": "Clackamas County",
+        "River": "Little Sandy River",
+        "State": "OR",
+        "Dam_Height_ft": "16",
+        "Dam_Length_ft": "",
+        "Year_Built": "",
+        "Original_Use": "Hydropower",
+        "Type_Material": "",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.178, 45.41476]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 36,
+        "key2": "Milltown Dam",
+        "date": "2008",
+        "City_County": "Missoula",
+        "River": "Clark Fork River",
+        "State": "MT",
+        "Dam_Height_ft": "",
+        "Dam_Length_ft": "",
+        "Year_Built": "1908",
+        "Original_Use": "",
+        "Type_Material": "",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-113.893, 46.87163]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 37,
+        "key2": "Unnamed ford (Road 5440)",
+        "date": "2009",
+        "City_County": "Clearwater National Forest",
+        "River": "Independence Creek",
+        "State": "ID",
+        "Dam_Height_ft": "",
+        "Dam_Length_ft": "",
+        "Year_Built": "",
+        "Original_Use": "",
+        "Type_Material": "",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-115.087, 46.7633]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 38,
+        "key2": "Hemlock Dam",
+        "date": "2009",
+        "City_County": "Carson",
+        "River": "Trout Creek",
+        "State": "WA",
+        "Dam_Height_ft": "25",
+        "Dam_Length_ft": "",
+        "Year_Built": "1935",
+        "Original_Use": "Hydropower ",
+        "Type_Material": "Concrete",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.933, 45.80214]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 39,
+        "key2": "Bruton Dam",
+        "date": "2009",
+        "City_County": "Thorp",
+        "River": "Taneum Creek",
+        "State": "WA",
+        "Dam_Height_ft": "8",
+        "Dam_Length_ft": "",
+        "Year_Built": "1965",
+        "Original_Use": "Irrigation diversion",
+        "Type_Material": "Concrete",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-120.734, 47.0818]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 40,
+        "key2": "Growden Dam",
+        "date": "2009",
+        "City_County": "Coleville National Forest",
+        "River": "Sherman Creek",
+        "State": "WA",
+        "Dam_Height_ft": "20",
+        "Dam_Length_ft": "100",
+        "Year_Built": "1937",
+        "Original_Use": "Recreation",
+        "Type_Material": "",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.306, 48.58515]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 41,
+        "key2": "Pancheri Diversion Dam",
+        "date": "2010",
+        "City_County": "Howe",
+        "River": "Little Lost River",
+        "State": "ID",
+        "Dam_Height_ft": "",
+        "Dam_Length_ft": "",
+        "Year_Built": "",
+        "Original_Use": "",
+        "Type_Material": "",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-113.247, 44.11935]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 42,
+        "key2": "Powerdale Dam",
+        "date": "2010",
+        "City_County": "Near Hood River, OR",
+        "River": "Hood River",
+        "State": "OR",
+        "Dam_Height_ft": "10",
+        "Dam_Length_ft": "206",
+        "Year_Built": "1923",
+        "Original_Use": "Hydropower ",
+        "Type_Material": "Concrete",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.524, 45.66498]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 43,
+        "key2": "Condit Dam",
+        "date": "2011",
+        "City_County": "Klickitat and Skamania counties",
+        "River": "White Salmon River",
+        "State": "WA",
+        "Dam_Height_ft": "125",
+        "Dam_Length_ft": "471",
+        "Year_Built": "1913",
+        "Original_Use": "Hydropower ",
+        "Type_Material": "Concrete",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.538, 45.76742]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 44,
+        "key2": "Spread Creek Dam ",
+        "date": "2011",
+        "City_County": "Moose",
+        "River": "Spread Creek",
+        "State": "WY",
+        "Dam_Height_ft": "",
+        "Dam_Length_ft": "",
+        "Year_Built": "",
+        "Original_Use": "",
+        "Type_Material": "",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-110.474, 43.78842]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 45,
+        "key2": "Shear Dam",
+        "date": "2011",
+        "City_County": "Shedd ",
+        "River": "",
+        "State": "OR",
+        "Dam_Height_ft": "",
+        "Dam_Length_ft": "",
+        "Year_Built": "",
+        "Original_Use": "",
+        "Type_Material": "",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.045, 44.40985]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 46,
+        "key2": "Sodom Dam",
+        "date": "2011",
+        "City_County": "Shedd, Oregon",
+        "River": "Calapooia River",
+        "State": "OR",
+        "Dam_Height_ft": "11",
+        "Dam_Length_ft": "85",
+        "Year_Built": "1858",
+        "Original_Use": "Water for historic Thompson Mill",
+        "Type_Material": "Originally: pushup/timber; later: concrete",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.045, 44.40967]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47,
+        "key2": "Martha Creek Dam",
+        "date": "2012",
+        "City_County": "Gifford Pinchot National Forest",
+        "River": "Martha Creek",
+        "State": "WA",
+        "Dam_Height_ft": "7",
+        "Dam_Length_ft": "40",
+        "Year_Built": "1924",
+        "Original_Use": "Water supply for nearby nursery",
+        "Type_Material": "Concrete/Stone",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.9394482, 45.789129]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 48,
+        "key2": "Durham Dam",
+        "date": "2012",
+        "City_County": "Toppenish ",
+        "River": "Toppenish Creek",
+        "State": "WA",
+        "Dam_Height_ft": "",
+        "Dam_Length_ft": "",
+        "Year_Built": "",
+        "Original_Use": "Irrigation diversion",
+        "Type_Material": "",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-120.235197, 46.315632]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 49,
+        "key2": "Taylor Dam ",
+        "date": "2012",
+        "City_County": "Pendleton/Reith, Umatilla County",
+        "River": "Birch Creek",
+        "State": "OR",
+        "Dam_Height_ft": "8",
+        "Dam_Length_ft": "50",
+        "Year_Built": "",
+        "Original_Use": "Irrigation Diversion",
+        "Type_Material": "concrete",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.879, 45.65192]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 50,
+        "key2": "Low Dam Removal",
+        "date": "2012",
+        "City_County": "Pilot Rock, Umatilla County",
+        "River": "Birch Creek",
+        "State": "OR",
+        "Dam_Height_ft": "3",
+        "Dam_Length_ft": "25",
+        "Year_Built": "",
+        "Original_Use": "Irrigation Diversion",
+        "Type_Material": "Concrete",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.534, 45.2581]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 51,
+        "key2": "Sisters Dam Removal (Leithauser Dam)",
+        "date": "2012",
+        "City_County": "Sisters, Jefferson County",
+        "River": "Wychus Creek",
+        "State": "OR",
+        "Dam_Height_ft": "",
+        "Dam_Length_ft": "",
+        "Year_Built": "",
+        "Original_Use": "Irrigation Dam",
+        "Type_Material": "Wood & Stanchions",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.548, 44.2857]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 52,
+        "key2": "Cox Creek Dam ",
+        "date": "2013",
+        "City_County": "Albany",
+        "River": "Cox Creek",
+        "State": "OR",
+        "Dam_Height_ft": "6",
+        "Dam_Length_ft": "120",
+        "Year_Built": "1932",
+        "Original_Use": "",
+        "Type_Material": "Concrete",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.072, 44.64355]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 53,
+        "key2": "Newbold Diversion Dam",
+        "date": "2013",
+        "City_County": "Kelly",
+        "River": "Gros Ventre River",
+        "State": "WY",
+        "Dam_Height_ft": "",
+        "Dam_Length_ft": "",
+        "Year_Built": "",
+        "Original_Use": "Irrigation diversion",
+        "Type_Material": "Log/Rock",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-110.625, 43.62001]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 54,
+        "key2": "Dutch Flat Dam",
+        "date": "2013",
+        "City_County": "Troy",
+        "River": "West Fork of Little Bear Creek",
+        "State": "ID",
+        "Dam_Height_ft": "10",
+        "Dam_Length_ft": "175",
+        "Year_Built": "1919",
+        "Original_Use": "Drinking Water Reservoir",
+        "Type_Material": "Concrete",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-116.785, 46.74278]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 55,
+        "key2": "Stearns Dam",
+        "date": "2013",
+        "City_County": "Prineville",
+        "River": "Crooked River",
+        "State": "OR",
+        "Dam_Height_ft": "6",
+        "Dam_Length_ft": "150",
+        "Year_Built": "1934",
+        "Original_Use": "Irrigation diversion",
+        "Type_Material": "Concrete",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-120.875, 44.20394]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 56,
+        "key2": "Corral Creek Dam",
+        "date": "2013",
+        "City_County": "Sherwood",
+        "River": "Corral Creek",
+        "State": "OR",
+        "Dam_Height_ft": "4",
+        "Dam_Length_ft": "35",
+        "Year_Built": "1945",
+        "Original_Use": "Irrigation diversion",
+        "Type_Material": "Concrete",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.506, 45.17544]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 57,
+        "key2": "High Plains Estates",
+        "date": "2013",
+        "City_County": "Eagle",
+        "River": "Farmers Union Canal Tributary",
+        "State": "ID",
+        "Dam_Height_ft": "16",
+        "Dam_Length_ft": "",
+        "Year_Built": "",
+        "Original_Use": "",
+        "Type_Material": "",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-116.4592974, 43.7691176]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 58,
+        "key2": "Hamby Dam ",
+        "date": "2013",
+        "City_County": "Pilot Rock",
+        "River": "Birch Creek",
+        "State": "OR",
+        "Dam_Height_ft": "",
+        "Dam_Length_ft": "",
+        "Year_Built": "",
+        "Original_Use": "Irrigation diversion",
+        "Type_Material": "Concrete",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.858, 45.4691]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 59,
+        "key2": "Sandy River Delta Dam ",
+        "date": "2013",
+        "City_County": "Troutdale",
+        "River": "Sandy River",
+        "State": "OR",
+        "Dam_Height_ft": "8",
+        "Dam_Length_ft": "750",
+        "Year_Built": "1930",
+        "Original_Use": "Originally intended to improve fish habitat",
+        "Type_Material": "Timber piles, with boulders and gravel ",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.378, 45.55352]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 60,
+        "key2": "Wright Dam",
+        "date": "2013",
+        "City_County": "The Dalles",
+        "River": "Mill Creek",
+        "State": "OR",
+        "Dam_Height_ft": "4",
+        "Dam_Length_ft": "65",
+        "Year_Built": "",
+        "Original_Use": "Irrigation diversion",
+        "Type_Material": "Concrete",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.237, 45.5758]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 61,
+        "key2": "Zell Dam",
+        "date": "2013",
+        "City_County": "Milton-Freewater",
+        "River": "Walla Walla",
+        "State": "OR",
+        "Dam_Height_ft": "3",
+        "Dam_Length_ft": "60",
+        "Year_Built": "",
+        "Original_Use": "Irrigation diversion",
+        "Type_Material": "Rock push-up",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.358, 45.90259]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 62,
+        "key2": "Hoffman Duffy Dam",
+        "date": "2014",
+        "City_County": "Mountain Home",
+        "River": "Unnamed trib to Rattlesnake Creek",
+        "State": "ID",
+        "Dam_Height_ft": "9.5",
+        "Dam_Length_ft": "570",
+        "Year_Built": "1915",
+        "Original_Use": "Livestock pond",
+        "Type_Material": "Earthen",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-115.589, 43.18655]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 63,
+        "key2": "Hoeft Dam",
+        "date": "2014",
+        "City_County": "Pilot Rock",
+        "River": "Birch Creek",
+        "State": "OR",
+        "Dam_Height_ft": "5",
+        "Dam_Length_ft": "",
+        "Year_Built": "",
+        "Original_Use": "Irrigation",
+        "Type_Material": "Concrete",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.82, 45.50523]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 64,
+        "key2": "Pine Meadow Ranch Dam ",
+        "date": "2014",
+        "City_County": "Sisters ",
+        "River": "Whychus Creek",
+        "State": "OR",
+        "Dam_Height_ft": "6",
+        "Dam_Length_ft": "",
+        "Year_Built": "Late 1980s (replaced earthen structures from 1800s)",
+        "Original_Use": "Irrigation",
+        "Type_Material": "Concrete",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.558, 44.26825]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 65,
+        "key2": "Mike Horse Dam",
+        "date": "2015",
+        "City_County": "East of Lincoln",
+        "River": "Beartrap Creek",
+        "State": "MT",
+        "Dam_Height_ft": "65",
+        "Dam_Length_ft": "",
+        "Year_Built": "",
+        "Original_Use": "",
+        "Type_Material": "Earthen",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-112.353929, 47.028118]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 66,
+        "key2": "Canyon Creek Meadows Dam",
+        "date": "2015",
+        "City_County": "John Day/Grant County",
+        "River": "Canyon Creek",
+        "State": "OR",
+        "Dam_Height_ft": "53",
+        "Dam_Length_ft": "165",
+        "Year_Built": "1963",
+        "Original_Use": "Recreation",
+        "Type_Material": "Earthen",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.7719, 44.2368]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 67,
+        "key2": "Odell Dam",
+        "date": "2016",
+        "City_County": "Hood River County",
+        "River": "Hood River",
+        "State": "OR",
+        "Dam_Height_ft": "12",
+        "Dam_Length_ft": "30",
+        "Year_Built": "1983",
+        "Original_Use": "Microhydro electricity generating facility",
+        "Type_Material": "Concrete",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.542716, 45.650955]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 68,
+        "key2": "Reed Diversion Dam",
+        "date": "2016",
+        "City_County": "Kittitas County",
+        "River": "Manashtash Creek",
+        "State": "WA",
+        "Dam_Height_ft": "10",
+        "Dam_Length_ft": "",
+        "Year_Built": "",
+        "Original_Use": "",
+        "Type_Material": "",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-120.664, 46.9722]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 69,
+        "key2": "Dillon Diversion Dam ",
+        "date": "2017",
+        "City_County": "Pendleton",
+        "River": "Umatilla River",
+        "State": "OR",
+        "Dam_Height_ft": "16",
+        "Dam_Length_ft": "200",
+        "Year_Built": "1915",
+        "Original_Use": "",
+        "Type_Material": "",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.215925, 45.758197]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 70,
+        "key2": "Mill Pond Dam ",
+        "date": "2017",
+        "City_County": "Pend Oreille County",
+        "River": "Sullivan Creek",
+        "State": "WA",
+        "Dam_Height_ft": "55",
+        "Dam_Length_ft": "134",
+        "Year_Built": "1909",
+        "Original_Use": "Hydropower",
+        "Type_Material": "Cement",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.302977, 48.858628]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 71,
+        "key2": "Jones Creek Dam",
+        "date": "2018",
+        "City_County": "Teton County",
+        "River": "Gros Ventre River",
+        "State": "WY",
+        "Dam_Height_ft": "",
+        "Dam_Length_ft": "",
+        "Year_Built": "",
+        "Original_Use": "",
+        "Type_Material": "",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-110.1772003, 43.4632988]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 72,
+        "key2": "Unnamed Dam",
+        "date": "2018",
+        "City_County": "Teton County",
+        "River": "Lafferty Creek",
+        "State": "WY",
+        "Dam_Height_ft": "",
+        "Dam_Length_ft": "",
+        "Year_Built": "",
+        "Original_Use": "Agriculture",
+        "Type_Material": "",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-110.1886368, 43.4670067]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 73,
+        "key2": "Lloyd Creek Dam",
+        "date": "2018",
+        "City_County": "Teton County",
+        "River": "Lloyd Creek",
+        "State": "WY",
+        "Dam_Height_ft": "",
+        "Dam_Length_ft": "",
+        "Year_Built": "",
+        "Original_Use": "",
+        "Type_Material": "",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-110.197403, 43.4706001]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 74,
+        "key2": "Unnamed Dam",
+        "date": "2018",
+        "City_County": "Teton County",
+        "River": "LLoyd Creek",
+        "State": "WY",
+        "Dam_Height_ft": "",
+        "Dam_Length_ft": "",
+        "Year_Built": "",
+        "Original_Use": "",
+        "Type_Material": "",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-110.2080994, 43.4768982]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 75,
+        "key2": "Hoback River Dam",
+        "date": "2019",
+        "City_County": "Bondurant",
+        "River": "Hoback River",
+        "State": "WY",
+        "Dam_Height_ft": "",
+        "Dam_Length_ft": "",
+        "Year_Built": "",
+        "Original_Use": "",
+        "Type_Material": "",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-110.382893, 43.140171]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 76,
+        "key2": "Rattlesnake Creek Dam",
+        "date": "2020",
+        "City_County": "Missoula",
+        "River": "Rattlesnake Creek",
+        "State": "MT",
+        "Dam_Height_ft": "10",
+        "Dam_Length_ft": "65",
+        "Year_Built": "1904",
+        "Original_Use": "Water Supply",
+        "Type_Material": "Concrete",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-113.963841, 46.914964]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 77,
+        "key2": "Unnamed Dam",
+        "date": "2020",
+        "City_County": "Flathead",
+        "River": "Teppe Creek",
+        "State": "MT",
+        "Dam_Height_ft": "~4",
+        "Dam_Length_ft": "~20",
+        "Year_Built": "pre-2018",
+        "Original_Use": "Stream crossing",
+        "Type_Material": "Logs/slash",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-114.55, 48.88]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 80,
+        "key2": "Kelley Creek Dam",
+        "date": "2020",
+        "City_County": "Gresham/Multnomah County",
+        "River": "Kelley Creek, tributary to Johnson Creek",
+        "State": "OR",
+        "Dam_Height_ft": "6",
+        "Dam_Length_ft": "20",
+        "Year_Built": "1989",
+        "Original_Use": "Provide gravity flow to a water right for an offline pond",
+        "Type_Material": "Concrete/Steel I-beams",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.49294, 45.46596]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 81,
+        "key2": "Red Ives Dam",
+        "date": "2021",
+        "City_County": "Shoshone County",
+        "River": "Red Ives Creek",
+        "State": "ID",
+        "Dam_Height_ft": "5",
+        "Dam_Length_ft": "25",
+        "Year_Built": "1935",
+        "Original_Use": "Hydropower for Ranger Station",
+        "Type_Material": "Concrete",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-115.342133, 47.057681]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 82,
+        "key2": "Hall Creek Barrier Dam",
+        "date": "2021",
+        "City_County": "Lake County",
+        "River": "Hall Creek",
+        "State": "MT",
+        "Dam_Height_ft": "5",
+        "Dam_Length_ft": "2",
+        "Year_Built": "1989",
+        "Original_Use": "Intentional Fish Barrier",
+        "Type_Material": "Concrete",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-113.850322, 47.933625]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 83,
+        "key2": "Nelson Dam",
+        "date": "2021",
+        "City_County": "Yakima",
+        "River": "Naches River",
+        "State": "WA",
+        "Dam_Height_ft": "8",
+        "Dam_Length_ft": "",
+        "Year_Built": "1920s",
+        "Original_Use": "Irrigation diversion",
+        "Type_Material": "Concrete",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-120.5872, 46.6316]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 84,
+        "key2": "Eagle Fern Dam",
+        "date": "2021",
+        "City_County": "Clackamas County",
+        "River": "North Fork Eagle Creek",
+        "State": "OR",
+        "Dam_Height_ft": "4",
+        "Dam_Length_ft": "105",
+        "Year_Built": "",
+        "Original_Use": "Recreation",
+        "Type_Material": "Concrete",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.289144, 45.324142]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 85,
+        "key2": "Breitenbush Diversion Dam",
+        "date": "2021",
+        "City_County": "Detroit/Marion",
+        "River": "Breitenbush Creek",
+        "State": "OR",
+        "Dam_Height_ft": "2.5",
+        "Dam_Length_ft": "80",
+        "Year_Built": "",
+        "Original_Use": "Diversion Dam",
+        "Type_Material": "Concrete",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.97365, 44.78169]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 86,
+        "key2": "South Fork Fish Lake Creek Passage Weirs 1 & 2",
+        "date": "2021",
+        "City_County": "Jefferson County",
+        "River": "Lake Creek, tributary to Metolius River",
+        "State": "OR",
+        "Dam_Height_ft": "2",
+        "Dam_Length_ft": "20",
+        "Year_Built": "",
+        "Original_Use": "Irrigation Diversion",
+        "Type_Material": "Rock/Boards",
+        "icon": "/icons/undammed.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.673803, 44.435612]
+      }
+    }
+  ]
+}
