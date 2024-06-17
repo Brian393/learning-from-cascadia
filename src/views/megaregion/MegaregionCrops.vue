@@ -9,7 +9,7 @@
     <div class="title">
       <div class="tighter"><h1>Water to the desert of the real</h1></div>
     </div>
-    <img src="/images/Irrigation.jpg" class="fullwidth" />
+    <img src="images/Irrigation.jpg" class="fullwidth" />
     <div class="caption">Center-pivot irrigation on the Columbia Plateau</div>
     <br />
 
@@ -17,7 +17,7 @@
       <h3 slot="header">legends</h3>
       <div class="flex">
         <h3>Crops by frequency</h3>
-        <img src="/images/CropKey.png" class="fullwidth" />
+        <img src="images/CropKey.png" class="fullwidth" />
       </div>
     </Accordion>
 

@@ -55,7 +55,7 @@
           things, for whenever they are looking at her those large eyes are
           watching them.</em
         ><br /><br />
-        <img src="/images/Tsagaglalal.png" class="fullwidth" />
+        <img src="images/Tsagaglalal.png" class="fullwidth" />
       </div>
     </Accordion>
 
@@ -207,7 +207,7 @@ export default {
     return {
       megaImages: [
         {
-          src: "/images/CascadiaMegaregionFullsize.jpg",
+          src: "images/CascadiaMegaregionFullsize.jpg",
         },
       ],
     };

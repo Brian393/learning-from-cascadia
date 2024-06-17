@@ -1,7 +1,7 @@
 const { defineConfig } = require("@vue/cli-service");
 const NodePolyfillPlugin = require("node-polyfill-webpack-plugin");
 module.exports = defineConfig({
-  publicPath: '/cascadia.ecotopia.today/',
+  publicPath: "./",
   transpileDependencies: true,
   lintOnSave: false,
   configureWebpack: {

@@ -11,7 +11,7 @@
       "properties": {
         "Country": "Canada",
         "title": "Parkland Fuel Refinery",
-        "image": "<img src='/cascadia/images/Refineries/ParklandFuelRefinery.jpg'>",
+        "image": "<img src='cascadia/images/Refineries/ParklandFuelRefinery.jpg'>",
         "Owner": "Parkland Fuel Corp",
         "Latitude": 49.28889,
         "Longitude": -123.006,
@@ -50,7 +50,7 @@
       "properties": {
         "Country": "Canada",
         "title": "Prince George Refinery",
-        "image": "<img src='/cascadia/images/Refineries/PrinceGeorgeRefinery.jpg'>",
+        "image": "<img src='cascadia/images/Refineries/PrinceGeorgeRefinery.jpg'>",
         "Owner": "Husky Energy",
         "Latitude": 53.927345,
         "Longitude": -122.698191,
@@ -89,7 +89,7 @@
       "properties": {
         "Country": "United States",
         "title": "Cherry Point Refinery",
-        "image": "<img src='/cascadia/images/Refineries/CherryPointRefinery.jpg'>",
+        "image": "<img src='cascadia/images/Refineries/CherryPointRefinery.jpg'>",
         "Owner": "BP West Coast Products LLC",
         "Latitude": 48.884624,
         "Longitude": -122.734766,
@@ -128,7 +128,7 @@
       "properties": {
         "Country": "United States",
         "title": "Andeavor Anacortes Refinery",
-        "image": "<img src='/cascadia/images/Refineries/AndeavorAnacortesRefinery.jpg'>",
+        "image": "<img src='cascadia/images/Refineries/AndeavorAnacortesRefinery.jpg'>",
         "Owner": "Andeavor West Coast",
         "Latitude": 48.494369,
         "Longitude": -122.562522,
@@ -167,7 +167,7 @@
       "properties": {
         "Country": "United States",
         "title": "Puget Sound Refinery",
-        "image": "<img src='/cascadia/images/Refineries/PugetSoundRefinery.jpg'>",
+        "image": "<img src='cascadia/images/Refineries/PugetSoundRefinery.jpg'>",
         "Owner": "Shell Oil Products US",
         "Latitude": 48.470693,
         "Longitude": -122.556244,
@@ -206,7 +206,7 @@
       "properties": {
         "Country": "United States",
         "title": "US Oil & Refining Co",
-        "image": "<img src='/cascadia/images/Refineries/USOil&RefiningCo.jpg'>",
+        "image": "<img src='cascadia/images/Refineries/USOil&RefiningCo.jpg'>",
         "Owner": "US Oil & Refining Co",
         "Latitude": 47.255786,
         "Longitude": -122.397126,
@@ -245,7 +245,7 @@
       "properties": {
         "Country": "United States",
         "title": "Ferndale Refinery",
-        "image": "<img src='/cascadia/images/Refineries/FerndaleRefinery.jpg'>",
+        "image": "<img src='cascadia/images/Refineries/FerndaleRefinery.jpg'>",
         "Owner": "Phillips 66 Company",
         "Latitude": 48.830501,
         "Longitude": -122.696618,

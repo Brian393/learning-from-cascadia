@@ -1,4 +1,4 @@
-import { createWebHistory, createRouter } from "vue-router";
+import { createRouter, createWebHashHistory } from "vue-router";
 import WatershedAcknowledgement from "./views/watershed/WatershedAcknowledgement.vue";
 import MapWatershed from "./components/MapWatershed.vue";
 import MapMegaregion from "./components/MapMegaregion.vue";
@@ -256,7 +256,7 @@ const routes = [
 ];
 
 const router = createRouter({
-  history: createWebHistory(),
+  history: createWebHashHistory(),
   routes,
 });
 

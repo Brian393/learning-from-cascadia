@@ -9,7 +9,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>North Fork Stillaguamish River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>North Fork Stillaguamish River",
         "orig_ogc_fid": 1067,
         "orig_ogc_fid_1": null
       },
@@ -37,7 +37,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
         "orig_ogc_fid": 1070,
         "orig_ogc_fid_1": null
       },
@@ -74,7 +74,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>McLeod Slough",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>McLeod Slough",
         "orig_ogc_fid": 1071,
         "orig_ogc_fid_1": null
       },
@@ -130,7 +130,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Illabot Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Illabot Creek",
         "orig_ogc_fid": 1073,
         "orig_ogc_fid_1": null
       },
@@ -248,7 +248,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>White River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>White River",
         "orig_ogc_fid": 1074,
         "orig_ogc_fid_1": null
       },
@@ -266,7 +266,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Okanogan River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Okanogan River",
         "orig_ogc_fid": 1075,
         "orig_ogc_fid_1": null
       },
@@ -315,7 +315,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Redfish Lake Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Redfish Lake Creek",
         "orig_ogc_fid": 1296,
         "orig_ogc_fid_1": null
       },
@@ -344,7 +344,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Soleduck River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Soleduck River",
         "orig_ogc_fid": 1299,
         "orig_ogc_fid_1": null
       },
@@ -906,7 +906,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>South Fork Calawah River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>South Fork Calawah River",
         "orig_ogc_fid": 1302,
         "orig_ogc_fid_1": null
       },
@@ -943,7 +943,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Ziegler Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Ziegler Creek",
         "orig_ogc_fid": 1304,
         "orig_ogc_fid_1": null
       },
@@ -990,7 +990,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Fox Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Fox Creek",
         "orig_ogc_fid": 1308,
         "orig_ogc_fid_1": null
       },
@@ -1009,7 +1009,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Barnes Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Barnes Creek",
         "orig_ogc_fid": 1309,
         "orig_ogc_fid_1": null
       },
@@ -1031,7 +1031,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Skagit River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Skagit River",
         "orig_ogc_fid": 1311,
         "orig_ogc_fid_1": null
       },
@@ -1359,7 +1359,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Snohomish River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Snohomish River",
         "orig_ogc_fid": 1313,
         "orig_ogc_fid_1": null
       },
@@ -1536,7 +1536,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Mercer Slough",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Mercer Slough",
         "orig_ogc_fid": 1315,
         "orig_ogc_fid_1": null
       },
@@ -1592,7 +1592,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Mackey Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Mackey Creek",
         "orig_ogc_fid": 1318,
         "orig_ogc_fid_1": null
       },
@@ -1619,7 +1619,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Rock Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Rock Creek",
         "orig_ogc_fid": 1319,
         "orig_ogc_fid_1": null
       },
@@ -1656,7 +1656,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Baker River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Baker River",
         "orig_ogc_fid": 1320,
         "orig_ogc_fid_1": null
       },
@@ -1766,7 +1766,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Indian Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Indian Creek",
         "orig_ogc_fid": 1321,
         "orig_ogc_fid_1": null
       },
@@ -1812,7 +1812,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
         "orig_ogc_fid": 1329,
         "orig_ogc_fid_1": null
       },
@@ -1844,7 +1844,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Umbrella Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Umbrella Creek",
         "orig_ogc_fid": 1895,
         "orig_ogc_fid_1": null
       },
@@ -1901,7 +1901,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Big River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Big River",
         "orig_ogc_fid": 1896,
         "orig_ogc_fid_1": null
       },
@@ -1921,7 +1921,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Elk Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Elk Creek",
         "orig_ogc_fid": 1913,
         "orig_ogc_fid_1": null
       },
@@ -1945,7 +1945,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Columbia River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Columbia River",
         "orig_ogc_fid": 1914,
         "orig_ogc_fid_1": null
       },
@@ -2083,7 +2083,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Satsop River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Satsop River",
         "orig_ogc_fid": 1919,
         "orig_ogc_fid_1": null
       },
@@ -2135,7 +2135,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
         "orig_ogc_fid": 1924,
         "orig_ogc_fid_1": null
       },
@@ -2161,7 +2161,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Sammamish River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Sammamish River",
         "orig_ogc_fid": 1931,
         "orig_ogc_fid_1": null
       },
@@ -2403,7 +2403,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Swamp Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Swamp Creek",
         "orig_ogc_fid": 1933,
         "orig_ogc_fid_1": null
       },
@@ -2431,7 +2431,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Bear Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Bear Creek",
         "orig_ogc_fid": 1939,
         "orig_ogc_fid_1": null
       },
@@ -2539,7 +2539,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Struve Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Struve Creek",
         "orig_ogc_fid": 1943,
         "orig_ogc_fid_1": null
       },
@@ -2560,7 +2560,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
         "orig_ogc_fid": 1946,
         "orig_ogc_fid_1": null
       },
@@ -2578,7 +2578,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Swift Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Swift Creek",
         "orig_ogc_fid": 1950,
         "orig_ogc_fid_1": null
       },
@@ -2596,7 +2596,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
         "orig_ogc_fid": 1958,
         "orig_ogc_fid_1": null
       },
@@ -2624,7 +2624,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>White River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>White River",
         "orig_ogc_fid": 1959,
         "orig_ogc_fid_1": null
       },
@@ -2958,7 +2958,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Methow River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Methow River",
         "orig_ogc_fid": 1962,
         "orig_ogc_fid_1": null
       },
@@ -3886,7 +3886,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Umbrella Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Umbrella Creek",
         "orig_ogc_fid": 2614,
         "orig_ogc_fid_1": null
       },
@@ -3965,7 +3965,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>South Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>South Creek",
         "orig_ogc_fid": 2615,
         "orig_ogc_fid_1": null
       },
@@ -3991,7 +3991,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>North Fork Moclips River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>North Fork Moclips River",
         "orig_ogc_fid": 2616,
         "orig_ogc_fid_1": null
       },
@@ -4023,7 +4023,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Columbia River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Columbia River",
         "orig_ogc_fid": 2617,
         "orig_ogc_fid_1": null
       },
@@ -4079,7 +4079,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Satsop River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Satsop River",
         "orig_ogc_fid": 2618,
         "orig_ogc_fid_1": null
       },
@@ -4211,7 +4211,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>North Fork Skagit River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>North Fork Skagit River",
         "orig_ogc_fid": 2619,
         "orig_ogc_fid_1": null
       },
@@ -4282,7 +4282,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Cedar River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Cedar River",
         "orig_ogc_fid": 2620,
         "orig_ogc_fid_1": null
       },
@@ -4631,7 +4631,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Carbon River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Carbon River",
         "orig_ogc_fid": 2621,
         "orig_ogc_fid_1": null
       },
@@ -4752,7 +4752,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Bear Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Bear Creek",
         "orig_ogc_fid": 2622,
         "orig_ogc_fid_1": null
       },
@@ -4769,7 +4769,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
         "orig_ogc_fid": 5523,
         "orig_ogc_fid_1": null
       },
@@ -4789,7 +4789,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>South Fork Stillaguamish River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>South Fork Stillaguamish River",
         "orig_ogc_fid": 5524,
         "orig_ogc_fid_1": null
       },
@@ -4868,7 +4868,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Pilchuck River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Pilchuck River",
         "orig_ogc_fid": 5525,
         "orig_ogc_fid_1": null
       },
@@ -5054,7 +5054,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Rock Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Rock Creek",
         "orig_ogc_fid": 5526,
         "orig_ogc_fid_1": null
       },
@@ -5081,7 +5081,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Baker River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Baker River",
         "orig_ogc_fid": 5527,
         "orig_ogc_fid_1": null
       },
@@ -5238,7 +5238,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Chilliwack River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Chilliwack River",
         "orig_ogc_fid": 5528,
         "orig_ogc_fid_1": null
       },
@@ -5385,7 +5385,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Lime Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Lime Creek",
         "orig_ogc_fid": 5529,
         "orig_ogc_fid_1": null
       },
@@ -5404,7 +5404,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Salmon River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Salmon River",
         "orig_ogc_fid": 5665,
         "orig_ogc_fid_1": null
       },
@@ -6676,7 +6676,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
         "orig_ogc_fid": 5689,
         "orig_ogc_fid_1": null
       },
@@ -6693,7 +6693,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Bogachiel River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Bogachiel River",
         "orig_ogc_fid": 5691,
         "orig_ogc_fid_1": null
       },
@@ -6795,7 +6795,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Canoe Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Canoe Creek",
         "orig_ogc_fid": 5721,
         "orig_ogc_fid_1": null
       },
@@ -6813,7 +6813,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Skagit River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Skagit River",
         "orig_ogc_fid": 5723,
         "orig_ogc_fid_1": null
       },
@@ -6931,7 +6931,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>South Fork Calawah River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>South Fork Calawah River",
         "orig_ogc_fid": 5738,
         "orig_ogc_fid_1": null
       },
@@ -6953,7 +6953,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
         "orig_ogc_fid": 5741,
         "orig_ogc_fid_1": null
       },
@@ -6979,7 +6979,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Salmon River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Salmon River",
         "orig_ogc_fid": 6121,
         "orig_ogc_fid_1": null
       },
@@ -8872,7 +8872,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
         "orig_ogc_fid": 6122,
         "orig_ogc_fid_1": null
       },
@@ -8890,7 +8890,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
         "orig_ogc_fid": 6123,
         "orig_ogc_fid_1": null
       },
@@ -8923,7 +8923,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Gatton Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Gatton Creek",
         "orig_ogc_fid": 6124,
         "orig_ogc_fid_1": null
       },
@@ -8955,7 +8955,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Quillayute River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Quillayute River",
         "orig_ogc_fid": 6748,
         "orig_ogc_fid_1": null
       },
@@ -9047,7 +9047,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Big River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Big River",
         "orig_ogc_fid": 6749,
         "orig_ogc_fid_1": null
       },
@@ -9075,7 +9075,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Moclips River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Moclips River",
         "orig_ogc_fid": 6750,
         "orig_ogc_fid_1": null
       },
@@ -9195,7 +9195,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Columbia River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Columbia River",
         "orig_ogc_fid": 6751,
         "orig_ogc_fid_1": null
       },
@@ -9312,7 +9312,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Satsop River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Satsop River",
         "orig_ogc_fid": 6752,
         "orig_ogc_fid_1": null
       },
@@ -9357,7 +9357,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Chambers Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Chambers Creek",
         "orig_ogc_fid": 6753,
         "orig_ogc_fid_1": null
       },
@@ -9384,7 +9384,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>McAleer Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>McAleer Creek",
         "orig_ogc_fid": 6754,
         "orig_ogc_fid_1": null
       },
@@ -9423,7 +9423,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
         "orig_ogc_fid": 6755,
         "orig_ogc_fid_1": null
       },
@@ -9444,7 +9444,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Bear Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Bear Creek",
         "orig_ogc_fid": 6756,
         "orig_ogc_fid_1": null
       },
@@ -9509,7 +9509,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Seidel Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Seidel Creek",
         "orig_ogc_fid": 6757,
         "orig_ogc_fid_1": null
       },
@@ -9533,7 +9533,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>North Fork Issaquah Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>North Fork Issaquah Creek",
         "orig_ogc_fid": 6758,
         "orig_ogc_fid_1": null
       },
@@ -9561,7 +9561,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Swift Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Swift Creek",
         "orig_ogc_fid": 6759,
         "orig_ogc_fid_1": null
       },
@@ -9585,7 +9585,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Blum Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Blum Creek",
         "orig_ogc_fid": 6760,
         "orig_ogc_fid_1": null
       },
@@ -9604,7 +9604,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Little Wenatchee River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Little Wenatchee River",
         "orig_ogc_fid": 6761,
         "orig_ogc_fid_1": null
       },
@@ -9769,7 +9769,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Chelan River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Chelan River",
         "orig_ogc_fid": 6762,
         "orig_ogc_fid_1": null
       },
@@ -9855,7 +9855,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Salmon River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Salmon River",
         "orig_ogc_fid": 8395,
         "orig_ogc_fid_1": null
       },
@@ -13060,7 +13060,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Bogachiel River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Bogachiel River",
         "orig_ogc_fid": 8396,
         "orig_ogc_fid_1": null
       },
@@ -13103,7 +13103,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Queets River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Queets River",
         "orig_ogc_fid": 8397,
         "orig_ogc_fid_1": null
       },
@@ -13668,7 +13668,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Canoe Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Canoe Creek",
         "orig_ogc_fid": 8398,
         "orig_ogc_fid_1": null
       },
@@ -13707,7 +13707,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Big Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Big Creek",
         "orig_ogc_fid": 8399,
         "orig_ogc_fid_1": null
       },
@@ -13810,7 +13810,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
         "orig_ogc_fid": 8400,
         "orig_ogc_fid_1": null
       },
@@ -13839,7 +13839,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Swamp Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Swamp Creek",
         "orig_ogc_fid": 8401,
         "orig_ogc_fid_1": null
       },
@@ -13997,7 +13997,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
         "orig_ogc_fid": 8402,
         "orig_ogc_fid_1": null
       },
@@ -14048,7 +14048,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
         "orig_ogc_fid": 8403,
         "orig_ogc_fid_1": null
       },
@@ -14110,7 +14110,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Evans Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Evans Creek",
         "orig_ogc_fid": 8404,
         "orig_ogc_fid_1": null
       },
@@ -14200,7 +14200,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
         "orig_ogc_fid": 8405,
         "orig_ogc_fid_1": null
       },
@@ -14223,7 +14223,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Boulder River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Boulder River",
         "orig_ogc_fid": 8406,
         "orig_ogc_fid_1": null
       },
@@ -14317,7 +14317,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Diobsud Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Diobsud Creek",
         "orig_ogc_fid": 8407,
         "orig_ogc_fid_1": null
       },
@@ -14372,7 +14372,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Lime Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Lime Creek",
         "orig_ogc_fid": 8408,
         "orig_ogc_fid_1": null
       },
@@ -14399,7 +14399,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Ozette River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Ozette River",
         "orig_ogc_fid": 9431,
         "orig_ogc_fid_1": null
       },
@@ -14428,7 +14428,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Big River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Big River",
         "orig_ogc_fid": 9432,
         "orig_ogc_fid_1": null
       },
@@ -14477,7 +14477,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Salmon River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Salmon River",
         "orig_ogc_fid": 9433,
         "orig_ogc_fid_1": null
       },
@@ -14592,7 +14592,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Columbia River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Columbia River",
         "orig_ogc_fid": 9434,
         "orig_ogc_fid_1": null
       },
@@ -14745,7 +14745,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>East Fork Satsop River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>East Fork Satsop River",
         "orig_ogc_fid": 9435,
         "orig_ogc_fid_1": null
       },
@@ -14811,7 +14811,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Skagit River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Skagit River",
         "orig_ogc_fid": 9436,
         "orig_ogc_fid_1": null
       },
@@ -14843,7 +14843,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Duwamish River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Duwamish River",
         "orig_ogc_fid": 9437,
         "orig_ogc_fid_1": null
       },
@@ -14923,7 +14923,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
         "orig_ogc_fid": 9438,
         "orig_ogc_fid_1": null
       },
@@ -14944,7 +14944,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Sunset Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Sunset Creek",
         "orig_ogc_fid": 9439,
         "orig_ogc_fid_1": null
       },
@@ -14979,7 +14979,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Jim Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Jim Creek",
         "orig_ogc_fid": 9440,
         "orig_ogc_fid_1": null
       },
@@ -15075,7 +15075,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
         "orig_ogc_fid": 9441,
         "orig_ogc_fid_1": null
       },
@@ -15117,7 +15117,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Swift Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Swift Creek",
         "orig_ogc_fid": 9442,
         "orig_ogc_fid_1": null
       },
@@ -15165,7 +15165,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Suiattle River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Suiattle River",
         "orig_ogc_fid": 9443,
         "orig_ogc_fid_1": null
       },
@@ -15501,7 +15501,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Napeequa River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Napeequa River",
         "orig_ogc_fid": 9444,
         "orig_ogc_fid_1": null
       },
@@ -15549,7 +15549,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
         "orig_ogc_fid": 9445,
         "orig_ogc_fid_1": null
       },
@@ -15569,7 +15569,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Finney Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Finney Creek",
         "orig_ogc_fid": 10713,
         "orig_ogc_fid_1": null
       },
@@ -15702,7 +15702,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
         "orig_ogc_fid": 10778,
         "orig_ogc_fid_1": null
       },
@@ -15751,7 +15751,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Nooksack River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Nooksack River",
         "orig_ogc_fid": 10791,
         "orig_ogc_fid_1": null
       },
@@ -16215,7 +16215,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Swamp Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Swamp Creek",
         "orig_ogc_fid": 10801,
         "orig_ogc_fid_1": null
       },
@@ -16249,7 +16249,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Buck Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Buck Creek",
         "orig_ogc_fid": 10812,
         "orig_ogc_fid_1": null
       },
@@ -16273,7 +16273,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>May Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>May Creek",
         "orig_ogc_fid": 10814,
         "orig_ogc_fid_1": null
       },
@@ -16303,7 +16303,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
         "orig_ogc_fid": 10818,
         "orig_ogc_fid_1": null
       },
@@ -16337,7 +16337,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Cascade River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Cascade River",
         "orig_ogc_fid": 10820,
         "orig_ogc_fid_1": null
       },
@@ -16362,7 +16362,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Snake River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Snake River",
         "orig_ogc_fid": 10835,
         "orig_ogc_fid_1": null
       },
@@ -16486,7 +16486,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Bear Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Bear Creek",
         "orig_ogc_fid": 10858,
         "orig_ogc_fid_1": null
       },
@@ -16533,7 +16533,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
         "orig_ogc_fid": 10861,
         "orig_ogc_fid_1": null
       },
@@ -16558,7 +16558,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Hutchinson Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Hutchinson Creek",
         "orig_ogc_fid": 11555,
         "orig_ogc_fid_1": null
       },
@@ -16591,7 +16591,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Hidden Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Hidden Creek",
         "orig_ogc_fid": 11561,
         "orig_ogc_fid_1": null
       },
@@ -16617,7 +16617,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Newaukum Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Newaukum Creek",
         "orig_ogc_fid": 11563,
         "orig_ogc_fid_1": null
       },
@@ -16830,7 +16830,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Maple Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Maple Creek",
         "orig_ogc_fid": 11564,
         "orig_ogc_fid_1": null
       },
@@ -16878,7 +16878,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>South Fork Nooksack River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>South Fork Nooksack River",
         "orig_ogc_fid": 11570,
         "orig_ogc_fid_1": null
       },
@@ -16898,7 +16898,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Morovitz Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Morovitz Creek",
         "orig_ogc_fid": 11573,
         "orig_ogc_fid_1": null
       },
@@ -16932,7 +16932,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Entiat River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Entiat River",
         "orig_ogc_fid": 11576,
         "orig_ogc_fid_1": null
       },
@@ -17195,7 +17195,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Sulphur Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Sulphur Creek",
         "orig_ogc_fid": 11577,
         "orig_ogc_fid_1": null
       },
@@ -17214,7 +17214,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Ozette River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Ozette River",
         "orig_ogc_fid": 11824,
         "orig_ogc_fid_1": null
       },
@@ -17252,7 +17252,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Quinn Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Quinn Creek",
         "orig_ogc_fid": 11825,
         "orig_ogc_fid_1": null
       },
@@ -17285,7 +17285,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Sitkum River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Sitkum River",
         "orig_ogc_fid": 11826,
         "orig_ogc_fid_1": null
       },
@@ -17334,7 +17334,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Inner Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Inner Creek",
         "orig_ogc_fid": 11828,
         "orig_ogc_fid_1": null
       },
@@ -17359,7 +17359,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Wynoochee River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Wynoochee River",
         "orig_ogc_fid": 11829,
         "orig_ogc_fid_1": null
       },
@@ -17967,7 +17967,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Skagit River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Skagit River",
         "orig_ogc_fid": 11830,
         "orig_ogc_fid_1": null
       },
@@ -18087,7 +18087,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
         "orig_ogc_fid": 11831,
         "orig_ogc_fid_1": null
       },
@@ -18130,7 +18130,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Salmon River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Salmon River",
         "orig_ogc_fid": 13382,
         "orig_ogc_fid_1": null
       },
@@ -19389,7 +19389,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
         "orig_ogc_fid": 13383,
         "orig_ogc_fid_1": null
       },
@@ -19423,7 +19423,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Columbia River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Columbia River",
         "orig_ogc_fid": 13384,
         "orig_ogc_fid_1": null
       },
@@ -19572,7 +19572,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Falls Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Falls Creek",
         "orig_ogc_fid": 13385,
         "orig_ogc_fid_1": null
       },
@@ -19596,7 +19596,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>McAllister Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>McAllister Creek",
         "orig_ogc_fid": 13386,
         "orig_ogc_fid_1": null
       },
@@ -19724,7 +19724,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Puyallup River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Puyallup River",
         "orig_ogc_fid": 13387,
         "orig_ogc_fid_1": null
       },
@@ -20061,7 +20061,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Green River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Green River",
         "orig_ogc_fid": 13388,
         "orig_ogc_fid_1": null
       },
@@ -20543,7 +20543,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>May Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>May Creek",
         "orig_ogc_fid": 13389,
         "orig_ogc_fid_1": null
       },
@@ -20618,7 +20618,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>North Fork Nooksack River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>North Fork Nooksack River",
         "orig_ogc_fid": 13390,
         "orig_ogc_fid_1": null
       },
@@ -20636,7 +20636,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Bear Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Bear Creek",
         "orig_ogc_fid": 13391,
         "orig_ogc_fid_1": null
       },
@@ -20848,7 +20848,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>East Fork Issaquah Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>East Fork Issaquah Creek",
         "orig_ogc_fid": 13392,
         "orig_ogc_fid_1": null
       },
@@ -20867,7 +20867,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Deer Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Deer Creek",
         "orig_ogc_fid": 13393,
         "orig_ogc_fid_1": null
       },
@@ -21048,7 +21048,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Big Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Big Creek",
         "orig_ogc_fid": 13394,
         "orig_ogc_fid_1": null
       },
@@ -21068,7 +21068,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Buck Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Buck Creek",
         "orig_ogc_fid": 13395,
         "orig_ogc_fid_1": null
       },
@@ -21093,7 +21093,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Snake River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Snake River",
         "orig_ogc_fid": 13396,
         "orig_ogc_fid_1": null
       },
@@ -21266,7 +21266,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Ozette River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Ozette River",
         "orig_ogc_fid": 14580,
         "orig_ogc_fid_1": null
       },
@@ -21359,7 +21359,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
         "orig_ogc_fid": 14581,
         "orig_ogc_fid_1": null
       },
@@ -21389,7 +21389,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Clearwater River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Clearwater River",
         "orig_ogc_fid": 14582,
         "orig_ogc_fid_1": null
       },
@@ -21969,7 +21969,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Chehalis River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Chehalis River",
         "orig_ogc_fid": 14583,
         "orig_ogc_fid_1": null
       },
@@ -22141,7 +22141,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Wynoochee River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Wynoochee River",
         "orig_ogc_fid": 14584,
         "orig_ogc_fid_1": null
       },
@@ -22366,7 +22366,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Skagit River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Skagit River",
         "orig_ogc_fid": 14585,
         "orig_ogc_fid_1": null
       },
@@ -22408,7 +22408,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Friday Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Friday Creek",
         "orig_ogc_fid": 14586,
         "orig_ogc_fid_1": null
       },
@@ -22636,7 +22636,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>South Fork Nooksack River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>South Fork Nooksack River",
         "orig_ogc_fid": 14587,
         "orig_ogc_fid_1": null
       },
@@ -23027,7 +23027,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>North Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>North Creek",
         "orig_ogc_fid": 14588,
         "orig_ogc_fid_1": null
       },
@@ -23044,7 +23044,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Daniels Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Daniels Creek",
         "orig_ogc_fid": 14589,
         "orig_ogc_fid_1": null
       },
@@ -23062,7 +23062,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Issaquah Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Issaquah Creek",
         "orig_ogc_fid": 14590,
         "orig_ogc_fid_1": null
       },
@@ -23087,7 +23087,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Little Sandy Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Little Sandy Creek",
         "orig_ogc_fid": 14591,
         "orig_ogc_fid_1": null
       },
@@ -23106,7 +23106,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
         "orig_ogc_fid": 14592,
         "orig_ogc_fid_1": null
       },
@@ -23138,7 +23138,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Sulphur Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Sulphur Creek",
         "orig_ogc_fid": 14593,
         "orig_ogc_fid_1": null
       },
@@ -23163,7 +23163,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Wenatchee River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Wenatchee River",
         "orig_ogc_fid": 14594,
         "orig_ogc_fid_1": null
       },
@@ -23780,7 +23780,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Siwash Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Siwash Creek",
         "orig_ogc_fid": 15678,
         "orig_ogc_fid_1": null
       },
@@ -23819,7 +23819,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Crooked Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Crooked Creek",
         "orig_ogc_fid": 15679,
         "orig_ogc_fid_1": null
       },
@@ -23838,7 +23838,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Columbia River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Columbia River",
         "orig_ogc_fid": 15680,
         "orig_ogc_fid_1": null
       },
@@ -24010,7 +24010,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Willaby Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Willaby Creek",
         "orig_ogc_fid": 15681,
         "orig_ogc_fid_1": null
       },
@@ -24036,7 +24036,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Lewis River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Lewis River",
         "orig_ogc_fid": 15682,
         "orig_ogc_fid_1": null
       },
@@ -24158,7 +24158,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Samish River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Samish River",
         "orig_ogc_fid": 15683,
         "orig_ogc_fid_1": null
       },
@@ -24175,7 +24175,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Thornton Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Thornton Creek",
         "orig_ogc_fid": 15684,
         "orig_ogc_fid_1": null
       },
@@ -24253,7 +24253,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
         "orig_ogc_fid": 15685,
         "orig_ogc_fid_1": null
       },
@@ -24278,7 +24278,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>North Fork Nooksack River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>North Fork Nooksack River",
         "orig_ogc_fid": 15686,
         "orig_ogc_fid_1": null
       },
@@ -24769,7 +24769,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Bear Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Bear Creek",
         "orig_ogc_fid": 15687,
         "orig_ogc_fid_1": null
       },
@@ -24792,7 +24792,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>East Fork Issaquah Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>East Fork Issaquah Creek",
         "orig_ogc_fid": 15688,
         "orig_ogc_fid_1": null
       },
@@ -24844,7 +24844,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Deer Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Deer Creek",
         "orig_ogc_fid": 15689,
         "orig_ogc_fid_1": null
       },
@@ -24901,7 +24901,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Big Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Big Creek",
         "orig_ogc_fid": 15690,
         "orig_ogc_fid_1": null
       },
@@ -24926,7 +24926,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Buck Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Buck Creek",
         "orig_ogc_fid": 15691,
         "orig_ogc_fid_1": null
       },
@@ -24949,7 +24949,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Snake River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Snake River",
         "orig_ogc_fid": 15692,
         "orig_ogc_fid_1": null
       },
@@ -24966,7 +24966,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Ozette River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Ozette River",
         "orig_ogc_fid": 16648,
         "orig_ogc_fid_1": null
       },
@@ -24987,7 +24987,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
         "orig_ogc_fid": 16649,
         "orig_ogc_fid_1": null
       },
@@ -25020,7 +25020,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Quinault River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Quinault River",
         "orig_ogc_fid": 16650,
         "orig_ogc_fid_1": null
       },
@@ -25448,7 +25448,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Kestner Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Kestner Creek",
         "orig_ogc_fid": 16651,
         "orig_ogc_fid_1": null
       },
@@ -25482,7 +25482,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Wynoochee River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Wynoochee River",
         "orig_ogc_fid": 16652,
         "orig_ogc_fid_1": null
       },
@@ -25541,7 +25541,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Skagit River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Skagit River",
         "orig_ogc_fid": 16653,
         "orig_ogc_fid_1": null
       },
@@ -25603,7 +25603,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Stillaguamish River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Stillaguamish River",
         "orig_ogc_fid": 16654,
         "orig_ogc_fid_1": null
       },
@@ -25751,7 +25751,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>South Fork Nooksack River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>South Fork Nooksack River",
         "orig_ogc_fid": 16655,
         "orig_ogc_fid_1": null
       },
@@ -25807,7 +25807,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>North Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>North Creek",
         "orig_ogc_fid": 16656,
         "orig_ogc_fid_1": null
       },
@@ -25957,7 +25957,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
         "orig_ogc_fid": 16657,
         "orig_ogc_fid_1": null
       },
@@ -25979,7 +25979,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Issaquah Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Issaquah Creek",
         "orig_ogc_fid": 16658,
         "orig_ogc_fid_1": null
       },
@@ -26085,7 +26085,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Little Sandy Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Little Sandy Creek",
         "orig_ogc_fid": 16659,
         "orig_ogc_fid_1": null
       },
@@ -26113,7 +26113,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Sauk River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Sauk River",
         "orig_ogc_fid": 16660,
         "orig_ogc_fid_1": null
       },
@@ -26449,7 +26449,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Sulphur Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Sulphur Creek",
         "orig_ogc_fid": 16661,
         "orig_ogc_fid_1": null
       },
@@ -26479,7 +26479,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Park Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Park Creek",
         "orig_ogc_fid": 16662,
         "orig_ogc_fid_1": null
       },
@@ -26497,7 +26497,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Umbrella Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Umbrella Creek",
         "orig_ogc_fid": 17667,
         "orig_ogc_fid_1": null
       },
@@ -26515,7 +26515,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Crooked Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Crooked Creek",
         "orig_ogc_fid": 17669,
         "orig_ogc_fid_1": null
       },
@@ -26548,7 +26548,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Columbia River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Columbia River",
         "orig_ogc_fid": 17670,
         "orig_ogc_fid_1": null
       },
@@ -26757,7 +26757,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>South Fork Hoh River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>South Fork Hoh River",
         "orig_ogc_fid": 17671,
         "orig_ogc_fid_1": null
       },
@@ -26920,7 +26920,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Skokomish River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Skokomish River",
         "orig_ogc_fid": 17672,
         "orig_ogc_fid_1": null
       },
@@ -27077,7 +27077,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Samish River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Samish River",
         "orig_ogc_fid": 17673,
         "orig_ogc_fid_1": null
       },
@@ -27212,7 +27212,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
         "orig_ogc_fid": 17674,
         "orig_ogc_fid_1": null
       },
@@ -27230,7 +27230,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
         "orig_ogc_fid": 17675,
         "orig_ogc_fid_1": null
       },
@@ -27270,7 +27270,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>South Prairie Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>South Prairie Creek",
         "orig_ogc_fid": 17676,
         "orig_ogc_fid_1": null
       },
@@ -27334,7 +27334,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>North Fork Stillaguamish River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>North Fork Stillaguamish River",
         "orig_ogc_fid": 17677,
         "orig_ogc_fid_1": null
       },
@@ -27596,7 +27596,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>East Fork Issaquah Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>East Fork Issaquah Creek",
         "orig_ogc_fid": 17678,
         "orig_ogc_fid_1": null
       },
@@ -27666,7 +27666,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
         "orig_ogc_fid": 17679,
         "orig_ogc_fid_1": null
       },
@@ -27700,7 +27700,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
         "orig_ogc_fid": 17680,
         "orig_ogc_fid_1": null
       },
@@ -27742,7 +27742,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>North Fork Sauk River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>North Fork Sauk River",
         "orig_ogc_fid": 17681,
         "orig_ogc_fid_1": null
       },
@@ -27781,7 +27781,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Snake River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Snake River",
         "orig_ogc_fid": 17682,
         "orig_ogc_fid_1": null
       },
@@ -28800,7 +28800,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
         "orig_ogc_fid": 18702,
         "orig_ogc_fid_1": null
       },
@@ -28817,7 +28817,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Squire Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Squire Creek",
         "orig_ogc_fid": 18703,
         "orig_ogc_fid_1": null
       },
@@ -28921,7 +28921,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>South Fork Sauk River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>South Fork Sauk River",
         "orig_ogc_fid": 18704,
         "orig_ogc_fid_1": null
       },
@@ -29016,7 +29016,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Downey Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Downey Creek",
         "orig_ogc_fid": 18705,
         "orig_ogc_fid_1": null
       },
@@ -29050,7 +29050,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Redfish Lake Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Redfish Lake Creek",
         "orig_ogc_fid": 19184,
         "orig_ogc_fid_1": null
       },
@@ -29130,7 +29130,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Calawah River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Calawah River",
         "orig_ogc_fid": 19185,
         "orig_ogc_fid_1": null
       },
@@ -29308,7 +29308,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>South Fork Calawah River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>South Fork Calawah River",
         "orig_ogc_fid": 19186,
         "orig_ogc_fid_1": null
       },
@@ -29381,7 +29381,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Ziegler Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Ziegler Creek",
         "orig_ogc_fid": 19187,
         "orig_ogc_fid_1": null
       },
@@ -29402,7 +29402,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>North Fork Quinault River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>North Fork Quinault River",
         "orig_ogc_fid": 19188,
         "orig_ogc_fid_1": null
       },
@@ -29436,7 +29436,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Freshwater Slough",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Freshwater Slough",
         "orig_ogc_fid": 19189,
         "orig_ogc_fid_1": null
       },
@@ -29480,7 +29480,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Duwamish Waterway",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Duwamish Waterway",
         "orig_ogc_fid": 19190,
         "orig_ogc_fid_1": null
       },
@@ -29533,7 +29533,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Snohomish River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Snohomish River",
         "orig_ogc_fid": 19191,
         "orig_ogc_fid_1": null
       },
@@ -29552,7 +29552,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Coal Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Coal Creek",
         "orig_ogc_fid": 19192,
         "orig_ogc_fid_1": null
       },
@@ -29611,7 +29611,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
         "orig_ogc_fid": 19193,
         "orig_ogc_fid_1": null
       },
@@ -29646,7 +29646,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Ozette River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Ozette River",
         "orig_ogc_fid": 19870,
         "orig_ogc_fid_1": null
       },
@@ -29671,7 +29671,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Hoh River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Hoh River",
         "orig_ogc_fid": 19871,
         "orig_ogc_fid_1": null
       },
@@ -30197,7 +30197,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Quinault River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Quinault River",
         "orig_ogc_fid": 19872,
         "orig_ogc_fid_1": null
       },
@@ -30459,7 +30459,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Lyre River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Lyre River",
         "orig_ogc_fid": 19873,
         "orig_ogc_fid_1": null
       },
@@ -30514,7 +30514,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>North Fork Quinault River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>North Fork Quinault River",
         "orig_ogc_fid": 19874,
         "orig_ogc_fid_1": null
       },
@@ -30588,7 +30588,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>South Fork Skagit River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>South Fork Skagit River",
         "orig_ogc_fid": 19875,
         "orig_ogc_fid_1": null
       },
@@ -30674,7 +30674,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Stillaguamish River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Stillaguamish River",
         "orig_ogc_fid": 19876,
         "orig_ogc_fid_1": null
       },
@@ -30888,7 +30888,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Kapowsin Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Kapowsin Creek",
         "orig_ogc_fid": 19877,
         "orig_ogc_fid_1": null
       },
@@ -30965,7 +30965,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
         "orig_ogc_fid": 19878,
         "orig_ogc_fid_1": null
       },
@@ -30985,7 +30985,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
         "orig_ogc_fid": 19879,
         "orig_ogc_fid_1": null
       },
@@ -31073,7 +31073,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Issaquah Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Issaquah Creek",
         "orig_ogc_fid": 19880,
         "orig_ogc_fid_1": null
       },
@@ -31285,7 +31285,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Anderson Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Anderson Creek",
         "orig_ogc_fid": 19881,
         "orig_ogc_fid_1": null
       },
@@ -31304,7 +31304,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Sauk River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Sauk River",
         "orig_ogc_fid": 19882,
         "orig_ogc_fid_1": null
       },
@@ -31492,7 +31492,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Downey Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Downey Creek",
         "orig_ogc_fid": 19883,
         "orig_ogc_fid_1": null
       },
@@ -31522,7 +31522,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Umbrella Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Umbrella Creek",
         "orig_ogc_fid": 20586,
         "orig_ogc_fid_1": null
       },
@@ -31559,7 +31559,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>South Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>South Creek",
         "orig_ogc_fid": 20587,
         "orig_ogc_fid_1": null
       },
@@ -31579,7 +31579,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Columbia River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Columbia River",
         "orig_ogc_fid": 20588,
         "orig_ogc_fid_1": null
       },
@@ -31713,7 +31713,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>South Fork Hoh River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>South Fork Hoh River",
         "orig_ogc_fid": 20589,
         "orig_ogc_fid_1": null
       },
@@ -31773,7 +31773,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>North Fork Skokomish River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>North Fork Skokomish River",
         "orig_ogc_fid": 20590,
         "orig_ogc_fid_1": null
       },
@@ -31942,7 +31942,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Samish River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Samish River",
         "orig_ogc_fid": 20591,
         "orig_ogc_fid_1": null
       },
@@ -32046,7 +32046,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Cedar River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Cedar River",
         "orig_ogc_fid": 20592,
         "orig_ogc_fid_1": null
       },
@@ -32084,7 +32084,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
         "orig_ogc_fid": 20593,
         "orig_ogc_fid_1": null
       },
@@ -32114,7 +32114,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Molasses Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Molasses Creek",
         "orig_ogc_fid": 20594,
         "orig_ogc_fid_1": null
       },
@@ -32135,7 +32135,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>North Fork Stillaguamish River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>North Fork Stillaguamish River",
         "orig_ogc_fid": 20595,
         "orig_ogc_fid_1": null
       },
@@ -32438,7 +32438,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
         "orig_ogc_fid": 20596,
         "orig_ogc_fid_1": null
       },
@@ -32458,7 +32458,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Unnamed Stream",
         "orig_ogc_fid": 20597,
         "orig_ogc_fid_1": null
       },
@@ -32477,7 +32477,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Illabot Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Illabot Creek",
         "orig_ogc_fid": 20598,
         "orig_ogc_fid_1": null
       },
@@ -32526,7 +32526,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Park Creek",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Park Creek",
         "orig_ogc_fid": 20599,
         "orig_ogc_fid_1": null
       },
@@ -32565,7 +32565,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Sockeye3.png'><br>Sockeye<br>Okanogan River",
+        "key4": "<img src='icons/Sockeye3.png'><br>Sockeye<br>Okanogan River",
         "orig_ogc_fid": 20600,
         "orig_ogc_fid_1": null
       },

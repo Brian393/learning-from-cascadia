@@ -11,7 +11,7 @@
     <div class="title">
       <h1>The seventh generation</h1>
     </div>
-    <img src="/images/HanfordReach.jpg" class="fullwidth" />
+    <img src="images/HanfordReach.jpg" class="fullwidth" />
     <div class="caption">Hanford Reach Natural Monument</div>
     <br />
 
@@ -93,7 +93,7 @@
 
     <p>
       <audio controls>
-        <source src="/audio/Floods.mp3" type="audio/mpeg" />
+        <source src="audio/Floods.mp3" type="audio/mpeg" />
         Your browser does not support the audio element.</audio
       ><br /><br />
     </p>
@@ -146,7 +146,7 @@
       href="https://www.columbiariverkeeper.org/sites/default/files/2018-07/2018.6.1%20Hanford%20Vision%20Report_j_INTERACTIVE.pdf"
       target="_blank"
       rel="nofollow"
-      ><img src="/images/CompetingVisions.png" class="fullwidth"
+      ><img src="images/CompetingVisions.png" class="fullwidth"
     /></a>
     <div class="caption">Click the image for the pdf report<br /></div>
 
@@ -189,7 +189,7 @@
       site even notice rusting signs that once read DANGER or KEEP OUT?
     </p>
 
-    <img src="/images/HanfordSign.jpg" class="fullwidth" />
+    <img src="images/HanfordSign.jpg" class="fullwidth" />
 
     <p>
       The question is crucially important because DOE now envisages reserving
@@ -297,7 +297,7 @@ export default {
     return {
       megaImages: [
         {
-          src: "/images/CascadiaMegaregionFullsize.jpg",
+          src: "images/CascadiaMegaregionFullsize.jpg",
         },
       ],
     };

@@ -48,7 +48,7 @@
     <Accordion :open="false">
       <h3 slot="header">legends</h3>
       <div class="flex">
-        <img src="/images/ChinookAlevin.png" class="fullwidth" /><br />Chinook
+        <img src="images/ChinookAlevin.png" class="fullwidth" /><br />Chinook
         alevin,
         <a
           href="https://www.seattleaquarium.org/blog/redd-alert-our-chinook-salmon-are-hatching"

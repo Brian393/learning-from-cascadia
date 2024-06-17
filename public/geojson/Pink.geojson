@@ -9,7 +9,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -36,7 +36,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>North Fork Nooksack River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>North Fork Nooksack River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -71,7 +71,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -427,7 +427,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Pond Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Pond Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -449,7 +449,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -537,7 +537,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Rearing and migration",
@@ -575,7 +575,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Big Soos Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Big Soos Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -698,7 +698,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -760,7 +760,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>North Fork Nooksack River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>North Fork Nooksack River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -1876,7 +1876,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -2006,7 +2006,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -2043,7 +2043,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -2094,7 +2094,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -2117,7 +2117,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Middle Fork Nooksack River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Middle Fork Nooksack River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -2235,7 +2235,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Bell Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Bell Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -2267,7 +2267,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -2319,7 +2319,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -2339,7 +2339,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -2385,7 +2385,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>South Fork South Prairie Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>South Fork South Prairie Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -2480,7 +2480,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Hutchinson Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Hutchinson Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -2540,7 +2540,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -2575,7 +2575,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Middle Fork Nooksack River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Middle Fork Nooksack River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -2817,7 +2817,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>South Fork South Prairie Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>South Fork South Prairie Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Rearing and migration",
@@ -2923,7 +2923,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -2965,7 +2965,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Hutchinson Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Hutchinson Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -3114,7 +3114,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Rearing and migration",
@@ -3145,7 +3145,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Wiseman Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Wiseman Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -3290,7 +3290,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Rearing and migration",
@@ -3336,7 +3336,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -3354,7 +3354,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>South Fork South Prairie Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>South Fork South Prairie Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -4088,7 +4088,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -4111,7 +4111,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Rearing and migration",
@@ -4162,7 +4162,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -4214,7 +4214,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -4244,7 +4244,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -4276,7 +4276,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -4302,7 +4302,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Snohomish River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Snohomish River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -4460,7 +4460,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>South Fork Nooksack River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>South Fork Nooksack River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -5209,7 +5209,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Rearing and migration",
@@ -5250,7 +5250,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Kapowsin Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Kapowsin Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -5286,7 +5286,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Kapowsin Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Kapowsin Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Rearing and migration",
@@ -5596,7 +5596,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -5653,7 +5653,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Voight Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Voight Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -5715,7 +5715,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -5748,7 +5748,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -5770,7 +5770,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -5797,7 +5797,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Fox Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Fox Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -5875,7 +5875,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -5899,7 +5899,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -5955,7 +5955,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Hansen Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Hansen Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -6330,7 +6330,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -6371,7 +6371,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Salmon Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Salmon Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -6438,7 +6438,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -6466,7 +6466,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -6496,7 +6496,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Fennel Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Fennel Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -6546,7 +6546,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Pilchuck Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Pilchuck Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -6810,7 +6810,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -6928,7 +6928,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -6968,7 +6968,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Rearing and migration",
@@ -6995,7 +6995,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Pilchuck Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Pilchuck Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -7394,7 +7394,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Walker Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Walker Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -7502,7 +7502,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Snohomish River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Snohomish River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -7557,7 +7557,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Union Slough",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Union Slough",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -7688,7 +7688,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Snohomish River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Snohomish River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -7754,7 +7754,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -7789,7 +7789,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Canyonfalls Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Canyonfalls Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -7836,7 +7836,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Cook Slough",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Cook Slough",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -7892,7 +7892,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>White River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>White River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -8661,7 +8661,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>White River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>White River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -9308,7 +9308,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>White River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>White River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Rearing and migration",
@@ -9385,7 +9385,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -9409,7 +9409,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>South Slough",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>South Slough",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -9449,7 +9449,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>South Slough",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>South Slough",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Rearing and migration",
@@ -9471,7 +9471,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -9490,7 +9490,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Twentyfive Mile Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Twentyfive Mile Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -9515,7 +9515,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -9537,7 +9537,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Carbon River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Carbon River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -9864,7 +9864,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Carbon River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Carbon River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Rearing and migration",
@@ -10148,7 +10148,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Green River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Green River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -10590,7 +10590,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Green River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Green River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -11143,7 +11143,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -11170,7 +11170,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -11197,7 +11197,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -11224,7 +11224,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Thompson Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Thompson Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -11298,7 +11298,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Muck Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Muck Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -11385,7 +11385,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Yelm Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Yelm Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -11475,7 +11475,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -11545,7 +11545,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Yelm Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Yelm Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -11631,7 +11631,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -11724,7 +11724,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>South Fork Skagit River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>South Fork Skagit River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -11840,7 +11840,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -11865,7 +11865,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -11888,7 +11888,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Clear Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Clear Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -11991,7 +11991,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Swam Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Swam Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -12055,7 +12055,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Swam Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Swam Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -12076,7 +12076,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -12097,7 +12097,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Nooksack River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Nooksack River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -12304,7 +12304,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Nooksack River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Nooksack River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Rearing and migration",
@@ -12334,7 +12334,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Nooksack River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Nooksack River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -12948,7 +12948,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -12967,7 +12967,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -13001,7 +13001,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Silver Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Silver Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -13053,7 +13053,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -13091,7 +13091,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Whatcom Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Whatcom Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -13253,7 +13253,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Tanwax Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Tanwax Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -13374,7 +13374,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Tanwax Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Tanwax Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -13442,7 +13442,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Tobolton Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Tobolton Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -13509,7 +13509,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Samish River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Samish River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -14176,7 +14176,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Puyallup River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Puyallup River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -14437,7 +14437,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Puyallup River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Puyallup River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Rearing and migration",
@@ -14552,7 +14552,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Puyallup River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Puyallup River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -14981,7 +14981,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Puyallup River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Puyallup River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Rearing and migration",
@@ -15009,7 +15009,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Puyallup River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Puyallup River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -15142,7 +15142,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Powell Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Powell Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -15238,7 +15238,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -15274,7 +15274,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -15291,7 +15291,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -15308,7 +15308,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Hall Slough",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Hall Slough",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -15348,7 +15348,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -15367,7 +15367,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -15395,7 +15395,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -15416,7 +15416,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Horn Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Horn Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -15456,7 +15456,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Horn Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Horn Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -15498,7 +15498,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>North Fork Skagit River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>North Fork Skagit River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -15588,7 +15588,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Browns Slough",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Browns Slough",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -15617,7 +15617,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Lackamas Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Lackamas Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -15673,7 +15673,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -15708,7 +15708,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Clarks Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Clarks Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -16034,7 +16034,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -16088,7 +16088,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Lynch Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Lynch Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -16123,7 +16123,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>East Fork Nookachamps Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>East Fork Nookachamps Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -16209,7 +16209,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>East Fork Nookachamps Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>East Fork Nookachamps Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -16566,7 +16566,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -16587,7 +16587,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Nookachamps Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Nookachamps Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -16680,7 +16680,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Mashel River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Mashel River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -16936,7 +16936,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -16963,7 +16963,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -16985,7 +16985,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -17024,7 +17024,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -17055,7 +17055,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -17088,7 +17088,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Duwamish River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Duwamish River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -17265,7 +17265,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -17302,7 +17302,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Murray Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Murray Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -17346,7 +17346,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>West Hylebos Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>West Hylebos Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -17459,7 +17459,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Hylebos Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Hylebos Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -17633,7 +17633,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Duwamish Waterway",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Duwamish Waterway",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -17671,7 +17671,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -17719,7 +17719,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -17743,7 +17743,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -17784,7 +17784,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Stillaguamish River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Stillaguamish River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -18015,7 +18015,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Stillaguamish River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Stillaguamish River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Rearing and migration",
@@ -18053,7 +18053,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Stillaguamish River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Stillaguamish River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -18114,7 +18114,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Hat Slough",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Hat Slough",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -18131,7 +18131,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Stillaguamish River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Stillaguamish River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -18326,7 +18326,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Hat Slough",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Hat Slough",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -18378,7 +18378,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Ohop Valley Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Ohop Valley Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -18546,7 +18546,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Ohop Valley Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Ohop Valley Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -18594,7 +18594,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Ohop Valley Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Ohop Valley Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -19049,7 +19049,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Isohis Slough",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Isohis Slough",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -19077,7 +19077,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Nisqually River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Nisqually River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -19238,7 +19238,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Nisqually River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Nisqually River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -19257,7 +19257,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Nisqually River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Nisqually River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -20167,7 +20167,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Nisqually River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Nisqually River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Rearing and migration",
@@ -20244,7 +20244,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Nisqually River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Nisqually River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -20282,7 +20282,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>McAllister Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>McAllister Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -20608,7 +20608,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Skagit River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Skagit River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -21440,7 +21440,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Skagit River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Skagit River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -21723,7 +21723,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Skagit River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Skagit River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -21879,7 +21879,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Britt Slough",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Britt Slough",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -21922,7 +21922,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Martin Slough",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Martin Slough",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -21977,7 +21977,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Lake River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Lake River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -22019,7 +22019,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -22061,7 +22061,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -22152,7 +22152,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Chimacum Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Chimacum Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -22489,7 +22489,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Union River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Union River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -22703,7 +22703,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Big Quilcene River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Big Quilcene River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -22880,7 +22880,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Little Quilcene River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Little Quilcene River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -23100,7 +23100,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Dosewallips River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Dosewallips River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -23895,7 +23895,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Dosewallips River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Dosewallips River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -23914,7 +23914,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -23937,7 +23937,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Duckabush River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Duckabush River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -24185,7 +24185,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Duckabush River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Duckabush River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -24204,7 +24204,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -24242,7 +24242,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -24289,7 +24289,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -24315,7 +24315,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -24346,7 +24346,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Artesian Coulee",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Artesian Coulee",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -24381,7 +24381,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Rocky Brook",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Rocky Brook",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -24428,7 +24428,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Newhalem Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Newhalem Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -24471,7 +24471,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Ladder Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Ladder Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -24491,7 +24491,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Milk Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Milk Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -24518,7 +24518,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -24572,7 +24572,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Downey Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Downey Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -24688,7 +24688,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Lime Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Lime Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -24708,7 +24708,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Lime Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Lime Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -24752,7 +24752,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Sulphur Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Sulphur Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -24809,7 +24809,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Sulphur Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Sulphur Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -24861,7 +24861,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -24904,7 +24904,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -24945,7 +24945,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Bacon Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Bacon Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -25213,7 +25213,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Miller River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Miller River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -25448,7 +25448,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Tenas Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Tenas Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -25516,7 +25516,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Tenas Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Tenas Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -25553,7 +25553,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Beckler River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Beckler River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -25597,7 +25597,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Beckler River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Beckler River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -26014,7 +26014,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -26061,7 +26061,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Goodell Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Goodell Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -26120,7 +26120,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Buck Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Buck Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -26167,7 +26167,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Buck Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Buck Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -26252,7 +26252,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Buck Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Buck Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -26280,7 +26280,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -26320,7 +26320,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -26357,7 +26357,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Circle Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Circle Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -26381,7 +26381,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -26405,7 +26405,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -26431,7 +26431,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>East Fork Miller River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>East Fork Miller River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -26506,7 +26506,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>East Fork Miller River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>East Fork Miller River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -26616,7 +26616,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -26636,7 +26636,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>South Fork Sauk River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>South Fork Sauk River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -26925,7 +26925,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>South Fork Sauk River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>South Fork Sauk River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -27043,7 +27043,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -27070,7 +27070,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -27093,7 +27093,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Conrad Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Conrad Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -27117,7 +27117,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -27141,7 +27141,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Tye River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Tye River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -27326,7 +27326,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>North Fork Sauk River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>North Fork Sauk River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -27397,7 +27397,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Cascade River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Cascade River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -27437,7 +27437,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Cascade River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Cascade River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -27999,7 +27999,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Foss River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Foss River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -28348,7 +28348,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Thorton Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Thorton Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -28377,7 +28377,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -28417,7 +28417,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Diobsud Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Diobsud Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -28574,7 +28574,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Clark Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Clark Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -28607,7 +28607,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -28639,7 +28639,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -28667,7 +28667,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Harriet Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Harriet Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -28689,7 +28689,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Suiattle River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Suiattle River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -28814,7 +28814,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -28892,7 +28892,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -28914,7 +28914,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -28944,7 +28944,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Boulder Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Boulder Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -28992,7 +28992,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -29018,7 +29018,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Falls Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Falls Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -29057,7 +29057,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -29082,7 +29082,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -29108,7 +29108,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -29131,7 +29131,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -29155,7 +29155,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -29176,7 +29176,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -29213,7 +29213,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Straight Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Straight Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -29251,7 +29251,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>All Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>All Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -29296,7 +29296,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Jordan Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Jordan Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -29322,7 +29322,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Straight Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Straight Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -29364,7 +29364,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -29397,7 +29397,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -29422,7 +29422,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -29443,7 +29443,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -29475,7 +29475,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -29523,7 +29523,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Goodell Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Goodell Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -29605,7 +29605,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>White Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>White Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -29644,7 +29644,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Lewis Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Lewis Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -29677,7 +29677,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -29723,7 +29723,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Deer Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Deer Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -29761,7 +29761,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Bridal Veil Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Bridal Veil Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -29808,7 +29808,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -29838,7 +29838,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -29871,7 +29871,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -29907,7 +29907,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -29934,7 +29934,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -29955,7 +29955,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -29998,7 +29998,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Dan Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Dan Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -30085,7 +30085,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Dan Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Dan Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -30183,7 +30183,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -30230,7 +30230,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -30264,7 +30264,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -30297,7 +30297,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -30318,7 +30318,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -30344,7 +30344,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -30392,7 +30392,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>South Fork Skykomish River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>South Fork Skykomish River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -30860,7 +30860,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>South Fork Skykomish River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>South Fork Skykomish River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -30922,7 +30922,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>South Fork Skykomish River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>South Fork Skykomish River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -30944,7 +30944,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -30966,7 +30966,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -30988,7 +30988,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -31008,7 +31008,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -31035,7 +31035,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -31065,7 +31065,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>North Fork Skykomish River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>North Fork Skykomish River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -31482,7 +31482,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>North Fork Skykomish River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>North Fork Skykomish River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -31504,7 +31504,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Hilt Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Hilt Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -31593,7 +31593,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Hilt Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Hilt Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -31615,7 +31615,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -31652,7 +31652,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -31684,7 +31684,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -31705,7 +31705,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -31729,7 +31729,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -31808,7 +31808,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -31886,7 +31886,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Big Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Big Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -31942,7 +31942,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -31972,7 +31972,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -31990,7 +31990,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Everett Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Everett Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -32137,7 +32137,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Illabot Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Illabot Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -32306,7 +32306,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Illabot Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Illabot Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -32388,7 +32388,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Suiattle River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Suiattle River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -32945,7 +32945,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Suiattle River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Suiattle River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -33023,7 +33023,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Suiattle River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Suiattle River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -33365,7 +33365,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -33389,7 +33389,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Greenwater River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Greenwater River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -33581,7 +33581,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -33648,7 +33648,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Jackman Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Jackman Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -33750,7 +33750,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Squire Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Squire Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -33820,7 +33820,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Squire Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Squire Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -34098,7 +34098,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -34156,7 +34156,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>French Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>French Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -34266,7 +34266,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>French Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>French Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -34351,7 +34351,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>May Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>May Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -34387,7 +34387,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Segelsen Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Segelsen Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -34442,7 +34442,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -34469,7 +34469,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -34499,7 +34499,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Furland Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Furland Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -34561,7 +34561,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Olney Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Olney Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -34624,7 +34624,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -34715,7 +34715,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>McLeod Slough",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>McLeod Slough",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -34805,7 +34805,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Ashton Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Ashton Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -34912,7 +34912,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Sauk River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Sauk River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -35242,7 +35242,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Sauk River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Sauk River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Rearing and migration",
@@ -35519,7 +35519,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Sauk River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Sauk River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -36073,7 +36073,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Sauk River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Sauk River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -36109,7 +36109,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Proctor Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Proctor Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -36180,7 +36180,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Proctor Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Proctor Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -36221,7 +36221,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Baker River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Baker River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -36248,7 +36248,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -36272,7 +36272,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -36439,7 +36439,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -36505,7 +36505,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Tokul Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Tokul Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -36562,7 +36562,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>McCoy Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>McCoy Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -36592,7 +36592,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Boyd Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Boyd Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -36619,7 +36619,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Clearwater River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Clearwater River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -36881,7 +36881,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>South Fork Tolt River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>South Fork Tolt River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -37028,7 +37028,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Raging River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Raging River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -37290,7 +37290,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -37339,7 +37339,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Cascade Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Cascade Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -37387,7 +37387,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>North Fork Tolt River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>North Fork Tolt River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -37491,7 +37491,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Wallace River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Wallace River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -37564,7 +37564,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Wallace River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Wallace River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -37893,7 +37893,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Grandy Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Grandy Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -37983,7 +37983,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Deadhorse Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Deadhorse Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -38015,7 +38015,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Deadhorse Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Deadhorse Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -38056,7 +38056,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Sultan River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Sultan River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -38476,7 +38476,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Elwell Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Elwell Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -38621,7 +38621,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Elwell Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Elwell Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -38708,7 +38708,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -38739,7 +38739,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Rollins Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Rollins Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -38791,7 +38791,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Rollins Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Rollins Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -38887,7 +38887,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Pressentin Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Pressentin Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -38952,7 +38952,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Boulder River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Boulder River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -39165,7 +39165,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -39208,7 +39208,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -39236,7 +39236,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -39268,7 +39268,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Quartz Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Quartz Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -39306,7 +39306,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -39332,7 +39332,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Hatchery Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Hatchery Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -39357,7 +39357,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -39386,7 +39386,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -39412,7 +39412,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Youngs Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Youngs Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -39463,7 +39463,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -39485,7 +39485,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Finney Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Finney Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -39922,7 +39922,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Finney Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Finney Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -40421,7 +40421,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>North Fork Cherry Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>North Fork Cherry Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -40527,7 +40527,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Barr Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Barr Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -40547,7 +40547,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Cherry Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Cherry Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -40743,7 +40743,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Brooks Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Brooks Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -40827,7 +40827,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>West Fork Woods Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>West Fork Woods Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -41617,7 +41617,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>West Cornell Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>West Cornell Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -41643,7 +41643,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Gallop Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Gallop Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -41669,7 +41669,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Gallop Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Gallop Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -41705,7 +41705,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>West Fork Woods Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>West Fork Woods Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -42051,7 +42051,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -42119,7 +42119,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -42166,7 +42166,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -42279,7 +42279,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -42312,7 +42312,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -42343,7 +42343,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Glacier Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Glacier Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -42493,7 +42493,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Glacier Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Glacier Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -42617,7 +42617,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Griffin Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Griffin Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -42746,7 +42746,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Alder Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Alder Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -42814,7 +42814,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Hedrick Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Hedrick Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -42881,7 +42881,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -42911,7 +42911,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Canyon Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Canyon Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -42943,7 +42943,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -42971,7 +42971,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Fry Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Fry Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -42999,7 +42999,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Canyon Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Canyon Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -43078,7 +43078,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Woods Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Woods Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -43557,7 +43557,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Thompson Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Thompson Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -43653,7 +43653,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -43677,7 +43677,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -43706,7 +43706,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -43778,7 +43778,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Cornell Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Cornell Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -43801,7 +43801,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Cornell Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Cornell Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -43892,7 +43892,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Coon Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Coon Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -43910,7 +43910,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Deer Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Deer Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -44006,7 +44006,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Deer Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Deer Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -44083,7 +44083,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -44128,7 +44128,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -44152,7 +44152,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>North Fork Cherry Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>North Fork Cherry Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -44198,7 +44198,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -44233,7 +44233,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -44257,7 +44257,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Tolt River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Tolt River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -44485,7 +44485,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Tolt River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Tolt River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -44562,7 +44562,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Tolt River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Tolt River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -44579,7 +44579,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Gale Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Gale Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -44617,7 +44617,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -44645,7 +44645,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -44725,7 +44725,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -44766,7 +44766,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Boise Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Boise Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -44893,7 +44893,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -44918,7 +44918,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Boise Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Boise Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Rearing and migration",
@@ -44939,7 +44939,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Boise Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Boise Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -45027,7 +45027,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Boulder Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Boulder Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -45122,7 +45122,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Canyon Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Canyon Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -45243,7 +45243,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -45269,7 +45269,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -45292,7 +45292,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -45317,7 +45317,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -45337,7 +45337,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Jordan Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Jordan Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -45375,7 +45375,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Grant Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Grant Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -45445,7 +45445,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Grant Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Grant Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -45489,7 +45489,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Wildcat Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Wildcat Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -45544,7 +45544,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -45564,7 +45564,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Jordan Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Jordan Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -45646,7 +45646,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -45666,7 +45666,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Maple Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Maple Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -45723,7 +45723,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Maple Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Maple Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -45818,7 +45818,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -45854,7 +45854,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -45879,7 +45879,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Pilchuck River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Pilchuck River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -46470,7 +46470,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Pilchuck River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Pilchuck River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -46649,7 +46649,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -46680,7 +46680,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Jim Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Jim Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -46866,7 +46866,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Jim Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Jim Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -47097,7 +47097,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Jim Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Jim Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Rearing and migration",
@@ -47297,7 +47297,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Jim Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Jim Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -47448,7 +47448,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Day Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Day Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -47567,7 +47567,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -47620,7 +47620,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -47669,7 +47669,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Pilchuck River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Pilchuck River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -48025,7 +48025,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Pilchuck River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Pilchuck River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -48108,7 +48108,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Wilkeson Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Wilkeson Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -48516,7 +48516,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Wilkeson Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Wilkeson Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -48673,7 +48673,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -48712,7 +48712,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -48765,7 +48765,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -48828,7 +48828,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -48849,7 +48849,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Siberia Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Siberia Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -48962,7 +48962,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Siberia Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Siberia Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -49008,7 +49008,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Day Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Day Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -49045,7 +49045,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -49098,7 +49098,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -49173,7 +49173,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -49241,7 +49241,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -49264,7 +49264,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -49341,7 +49341,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Cavanaugh Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Cavanaugh Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -49405,7 +49405,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -49446,7 +49446,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -49508,7 +49508,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -49546,7 +49546,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Skykomish River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Skykomish River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -49689,7 +49689,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Skykomish River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Skykomish River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -50118,7 +50118,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Snoqualmie River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Snoqualmie River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -50885,7 +50885,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Fobes Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Fobes Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -50908,7 +50908,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -50950,7 +50950,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -50971,7 +50971,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Day Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Day Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -51149,7 +51149,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -51207,7 +51207,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Jones Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Jones Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -51280,7 +51280,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -51330,7 +51330,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Newaukum Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Newaukum Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -52032,7 +52032,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Newaukum Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Newaukum Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -52111,7 +52111,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Jones Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Jones Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -52194,7 +52194,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Deer Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Deer Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -52258,7 +52258,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -52286,7 +52286,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -52309,7 +52309,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -52362,7 +52362,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -52396,7 +52396,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -52432,7 +52432,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -52460,7 +52460,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Racehorse Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Racehorse Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -52520,7 +52520,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Racehorse Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Racehorse Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -52675,7 +52675,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Plumbago Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Plumbago Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -52726,7 +52726,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -52761,7 +52761,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Bear Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Bear Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -52792,7 +52792,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -52848,7 +52848,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -52876,7 +52876,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Canyon Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Canyon Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -52912,7 +52912,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Canyon Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Canyon Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -52934,7 +52934,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Canyon Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Canyon Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -53024,7 +53024,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -53052,7 +53052,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -53103,7 +53103,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -53145,7 +53145,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -53190,7 +53190,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -53245,7 +53245,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -53281,7 +53281,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -53303,7 +53303,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -53363,7 +53363,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -53384,7 +53384,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -53405,7 +53405,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -53436,7 +53436,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -53472,7 +53472,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -53506,7 +53506,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -53550,7 +53550,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>South Fork Stillaguamish River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>South Fork Stillaguamish River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -54990,7 +54990,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>South Fork Stillaguamish River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>South Fork Stillaguamish River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -55024,7 +55024,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>South Fork Stillaguamish River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>South Fork Stillaguamish River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -55361,7 +55361,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -55387,7 +55387,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Ebey Slough",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Ebey Slough",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -55542,7 +55542,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -55566,7 +55566,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -55590,7 +55590,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -55619,7 +55619,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -55662,7 +55662,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Coal Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Coal Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -55690,7 +55690,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -55726,7 +55726,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>North Fork Stillaguamish River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>North Fork Stillaguamish River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -57081,7 +57081,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -57117,7 +57117,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Coal Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Coal Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -57169,7 +57169,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Skookum Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Skookum Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -57290,7 +57290,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Kendall Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Kendall Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -57509,7 +57509,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Porter Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Porter Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -57547,7 +57547,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Porter Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Porter Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -57565,7 +57565,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -57605,7 +57605,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -57626,7 +57626,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Kenney Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Kenney Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -57727,7 +57727,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Kenney Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Kenney Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -57820,7 +57820,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Edfro Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Edfro Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -57850,7 +57850,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -57897,7 +57897,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Steamboat Slough",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Steamboat Slough",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -57976,7 +57976,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -57993,7 +57993,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -58013,7 +58013,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Hamma Hamma River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Hamma Hamma River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -58117,7 +58117,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Hamma Hamma River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Hamma Hamma River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -58136,7 +58136,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>South Fork John Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>South Fork John Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -58170,7 +58170,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>John Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>John Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -58312,7 +58312,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Gold Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Gold Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -58388,7 +58388,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Fisher Island Slough",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Fisher Island Slough",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -58426,7 +58426,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Fulton Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Fulton Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -58502,7 +58502,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Dewatto River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Dewatto River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -58675,7 +58675,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -58715,7 +58715,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -58750,7 +58750,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -58774,7 +58774,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Purdy Canyon",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Purdy Canyon",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -58815,7 +58815,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Dungeness River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Dungeness River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -58862,7 +58862,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Skokomish River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Skokomish River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -59080,7 +59080,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Vance Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Vance Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -59137,7 +59137,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Dungeness River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Dungeness River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -60063,7 +60063,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Dungeness River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Dungeness River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Rearing and migration",
@@ -60095,7 +60095,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Dungeness River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Dungeness River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -60129,7 +60129,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Skokomish River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Skokomish River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Rearing and migration",
@@ -60165,7 +60165,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Skokomish River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Skokomish River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -60201,7 +60201,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Lilliwaup Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Lilliwaup Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -60233,7 +60233,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -60263,7 +60263,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>North Fork Skokomish River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>North Fork Skokomish River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -60347,7 +60347,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Rearing and migration",
@@ -60395,7 +60395,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -60424,7 +60424,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -60489,7 +60489,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Gray Wolf River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Gray Wolf River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -61194,7 +61194,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Hill Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Hill Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -61212,7 +61212,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -61265,7 +61265,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -61284,7 +61284,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Matriotti Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Matriotti Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -61330,7 +61330,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Purdy Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Purdy Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -61493,7 +61493,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Finch Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Finch Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -61528,7 +61528,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Canyon Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Canyon Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -61551,7 +61551,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -61579,7 +61579,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -61631,7 +61631,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Morse Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Morse Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -61881,7 +61881,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Morse Creek",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Morse Creek",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -61908,7 +61908,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>South Fork Skokomish River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>South Fork Skokomish River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -62244,7 +62244,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -62294,7 +62294,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -62316,7 +62316,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Elwha River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Elwha River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -62422,7 +62422,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Elwha River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Elwha River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -62457,7 +62457,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Columbia River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Columbia River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -62695,7 +62695,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Columbia River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Columbia River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -62966,7 +62966,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Columbia River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Columbia River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -63087,7 +63087,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Columbia River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Columbia River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -63213,7 +63213,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Columbia River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Columbia River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -63364,7 +63364,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Columbia River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Columbia River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -63430,7 +63430,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Columbia River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Columbia River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -63614,7 +63614,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Queets River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Queets River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -63735,7 +63735,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Unnamed Stream",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Unnamed Stream",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -63774,7 +63774,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Quinault River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Quinault River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -63801,7 +63801,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Quinault River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Quinault River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -63897,7 +63897,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Quinault River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Quinault River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",
@@ -63946,7 +63946,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Clearwater River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Clearwater River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Spawning and rearing",
@@ -63994,7 +63994,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key4": "<img src='/icons/Pink2.png'><br>Pink<br>Clearwater River",
+        "key4": "<img src='icons/Pink2.png'><br>Pink<br>Clearwater River",
         "Species": "Pink salmon",
         "Run": "N/A",
         "UseType": "Migration only",

@@ -18,7 +18,7 @@
     <div class="title">
       <h1>Age of cement</h1>
     </div>
-    <img src="/images/BonnevilleConstruction.png" class="fullwidth" />
+    <img src="images/BonnevilleConstruction.png" class="fullwidth" />
     <div class="caption">Construction of Bonneville Dam, 1936</div>
     <br />
 
@@ -29,7 +29,7 @@
 
     <p>
       <audio controls>
-        <source src="/audio/Dams.mp3" type="audio/mpeg" />
+        <source src="audio/Dams.mp3" type="audio/mpeg" />
         Your browser does not support the audio element.</audio
       ><br /><br />
     </p>
@@ -61,7 +61,7 @@
       Pacific Northwest.
     </p>
 
-    <img src="/images/Roosevelt.png" class="fullwidth" />
+    <img src="images/Roosevelt.png" class="fullwidth" />
 
     <p>
       Yet the war had other plans. The electricity from Bonneville powered
@@ -95,7 +95,7 @@
       spring snowmelt.
     </p>
 
-    <img src="/images/BPA-Dittmer-Control-Center.jpg" class="fullwidth" />
+    <img src="images/BPA-Dittmer-Control-Center.jpg" class="fullwidth" />
     <div class="caption">
       BPA Dittmer Control Center, Vancouver, WA (source
       <a
@@ -135,7 +135,7 @@
       href="https://books.google.com/books?id=oIxpMxzG794C&printsec=frontcover#v=onepage&q&f=false"
       target="_blank"
       rel="nofollow"
-      ><img src="/images/Organic_Machine.jpg" class="fullwidth"
+      ><img src="images/Organic_Machine.jpg" class="fullwidth"
     /></a>
 
     <p>
@@ -176,7 +176,7 @@
       href="https://ecotrust.org/publication/salmon-nation-field-guide/"
       target="_blank"
       rel="nofollow"
-      ><img src="/images/SalmonNationGuide.png" class="fullwidth"
+      ><img src="images/SalmonNationGuide.png" class="fullwidth"
     /></a>
 
     <p>
@@ -269,7 +269,7 @@ export default {
     return {
       megaImages: [
         {
-          src: "/images/CascadiaMegaregionFullsize.jpg",
+          src: "images/CascadiaMegaregionFullsize.jpg",
         },
       ],
     };

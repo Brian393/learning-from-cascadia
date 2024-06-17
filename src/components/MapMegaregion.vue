@@ -161,7 +161,7 @@ export default {
         new VectorLayer({
           source: new VectorSource({
             format: new GeoJSON(),
-            url: "/geojson/USmegaregions2.geojson",
+            url: "geojson/USmegaregions2.geojson",
           }),
           minResolution: 1600,
           maxResolution: 8000,
@@ -211,7 +211,7 @@ export default {
           maxZoom: 20,
         }),
         this.makeGeoJSONFillVectorLayer(
-          "/geojson/VanUnderlayer.geojson",
+          "geojson/VanUnderlayer.geojson",
           0.25,
           160,
           "rgba(0,0,0, 0.99)",
@@ -228,8 +228,8 @@ export default {
           maxZoom: 20,
         }),
         this.makeGeoJSONPointVectorLayer(
-          "/geojson/Breach.geojson",
-          "/icons/Breach.png",
+          "geojson/Breach.geojson",
+          "icons/Breach.png",
           null,
           1,
           2000
@@ -268,7 +268,7 @@ export default {
           maxZoom: 20,
         }),
         this.makeGeoJSONFillVectorLayer(
-          "/geojson/VanUnderlayer.geojson",
+          "geojson/VanUnderlayer.geojson",
           0.25,
           160,
           "rgba(0,0,0, 0.99)",
@@ -285,8 +285,8 @@ export default {
           maxZoom: 20,
         }),
         this.makeGeoJSONPointVectorLayer(
-          "/geojson/VanportMosaic.geojson",
-          "/icons/Mosaic.png",
+          "geojson/VanportMosaic.geojson",
+          "icons/Mosaic.png",
           null,
           1,
           2000
@@ -331,7 +331,7 @@ export default {
           maxZoom: 20,
         }),
         this.makeGeoJSONFillVectorLayer(
-          "/geojson/UplandHighPriority.geojson",
+          "geojson/UplandHighPriority.geojson",
           0.5,
           23,
           "rgba(190, 141, 143, 0)",
@@ -339,7 +339,7 @@ export default {
           "rgba(209, 4, 4, 0)"
         ),
         this.makeGeoJSONFillVectorLayer(
-          "/geojson/UplandMedPriority.geojson",
+          "geojson/UplandMedPriority.geojson",
           0.5,
           23,
           "rgba(190, 141, 143, 0)",
@@ -347,7 +347,7 @@ export default {
           "rgba(209, 4, 4, 0)"
         ),
         this.makeGeoJSONFillVectorLayer(
-          "/geojson/UplandLowPriority.geojson",
+          "geojson/UplandLowPriority.geojson",
           0.5,
           23,
           "rgba(190, 141, 143, 0)",
@@ -355,7 +355,7 @@ export default {
           "rgba(209, 4, 4, 0"
         ),
         this.makeGeoJSONFillVectorLayer(
-          "/geojson/UplandNoPriority.geojson",
+          "geojson/UplandNoPriority.geojson",
           0.5,
           23,
           "rgba(190, 141, 143, 0)",
@@ -363,7 +363,7 @@ export default {
           "rgba(209, 4, 4, 0)"
         ),
         this.makeGeoJSONFillVectorLayer(
-          "/geojson/EnhancedNaturalRecovery.geojson",
+          "geojson/EnhancedNaturalRecovery.geojson",
           0.5,
           16,
           "rgba(185, 12, 14, 0.0)",
@@ -371,7 +371,7 @@ export default {
           "rgba(255, 0, 0, 0.0)"
         ),
         this.makeGeoJSONFillVectorLayer(
-          "/geojson/DredgeWithCap.geojson",
+          "geojson/DredgeWithCap.geojson",
           0.5,
           16,
           "rgba(185, 12, 14, 0.0)",
@@ -379,7 +379,7 @@ export default {
           "rgba(255, 0, 0, 0.0)"
         ),
         this.makeGeoJSONFillVectorLayer(
-          "/geojson/DredgeFMD.geojson",
+          "geojson/DredgeFMD.geojson",
           0.5,
           16,
           "rgba(185, 12, 14, 0.0)",
@@ -387,7 +387,7 @@ export default {
           "rgba(255, 0, 0, 0.0)"
         ),
         this.makeGeoJSONFillVectorLayer(
-          "/geojson/Dredge.geojson",
+          "geojson/Dredge.geojson",
           0.5,
           16,
           "rgba(185, 12, 14, 0.0)",
@@ -395,7 +395,7 @@ export default {
           "rgba(255, 0, 0, 0.0)"
         ),
         this.makeGeoJSONFillVectorLayer(
-          "/geojson/ContaminatedBanks.geojson",
+          "geojson/ContaminatedBanks.geojson",
           0.5,
           16,
           "rgba(185, 12, 14, 0.0)",
@@ -403,7 +403,7 @@ export default {
           "rgba(255, 0, 0, 0.0)"
         ),
         this.makeGeoJSONFillVectorLayer(
-          "/geojson/Cap.geojson",
+          "geojson/Cap.geojson",
           0.5,
           16,
           "rgba(185, 12, 14, 0.0)",
@@ -411,7 +411,7 @@ export default {
           "rgba(255, 0, 0, 0.0)"
         ),
         this.makeGeoJSONFillVectorLayer(
-          "/geojson/MCormick&BaxterCap2005.geojson",
+          "geojson/MCormick&BaxterCap2005.geojson",
           0.5,
           16,
           "rgba(185, 12, 14, 0.0)",
@@ -459,7 +459,7 @@ export default {
           maxZoom: 20,
         }),
         this.makeGeoJSONFillVectorLayer(
-          "/geojson/Upland_Sites.geojson",
+          "geojson/Upland_Sites.geojson",
           0.5,
           40,
           "rgba(185, 12, 14, 0.70)",
@@ -468,8 +468,8 @@ export default {
         ),
         bingMapTile,
         this.makeGeoJSONPointVectorLayer(
-          "/geojson/Drone.geojson",
-          "/icons/Drone.png",
+          "geojson/Drone.geojson",
+          "icons/Drone.png",
           null,
           1,
           8000
@@ -506,7 +506,7 @@ export default {
         new VectorLayer({
           source: new VectorSource({
             format: new GeoJSON(),
-            url: "/geojson/BPA2.geojson",
+            url: "geojson/BPA2.geojson",
           }),
           minResolution: 80,
           maxResolution: 8000,
@@ -520,40 +520,40 @@ export default {
           }),
         }),
         this.makeGeoJSONPointVectorLayer(
-          "/geojson/CascadiaHydro2.geojson",
-          "/icons/dam.png",
+          "geojson/CascadiaHydro2.geojson",
+          "icons/dam.png",
           "Hydro power",
           2,
           4000
         ),
         // mega[7]
         this.makeGeoJSONPointVectorLayer(
-          "/geojson/CascadiaNuclear.geojson",
-          "/icons/nukes.gif",
+          "geojson/CascadiaNuclear.geojson",
+          "icons/nukes.gif",
           "Nuclear power",
           2,
           4000
         ),
         // mega[9]
         this.makeGeoJSONPointVectorLayer(
-          "/geojson/CascadiaWind.geojson",
-          "/icons/wind.png",
+          "geojson/CascadiaWind.geojson",
+          "icons/wind.png",
           "Wind Power",
           2,
           4000
         ),
         // mega[10]
         this.makeGeoJSONPointVectorLayer(
-          "/geojson/CascadiaNatGas.geojson",
-          "/icons/natgas.png",
+          "geojson/CascadiaNatGas.geojson",
+          "icons/natgas.png",
           "Natural Gas",
           2,
           4000
         ),
         // mega[8]
         this.makeGeoJSONPointVectorLayer(
-          "/geojson/CascadiaCoal.geojson",
-          "/icons/coal.png",
+          "geojson/CascadiaCoal.geojson",
+          "icons/coal.png",
           "Coal Power",
           2,
           4000
@@ -632,7 +632,7 @@ export default {
           maxResolution: 16000,
         }),
         this.makeGeoJSONFillVectorLayer(
-          "/geojson/CBP-Crops.geojson",
+          "geojson/CBP-Crops.geojson",
           2,
           181,
           "rgba(189, 7, 97, 0)",

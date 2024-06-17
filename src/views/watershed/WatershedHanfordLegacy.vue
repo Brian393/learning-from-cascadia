@@ -18,7 +18,7 @@
     <div class="title">
       <h1>The remains</h1>
     </div>
-    <img src="/images/Hanford/B_reactor.png" class="fullwidth" />
+    <img src="images/Hanford/B_reactor.png" class="fullwidth" />
     <div class="caption">Workers inserting fuel rods to B Reactor</div>
     <br />
 
@@ -28,7 +28,7 @@
     </Accordion>
     <p>
       <audio controls>
-        <source src="/audio/Legacy.mp3" type="audio/mpeg" />
+        <source src="audio/Legacy.mp3" type="audio/mpeg" />
         Your browser does not support the audio element.</audio
       ><br /><br />
     </p>
@@ -70,7 +70,7 @@
       weapons-grade plutonium.
     </p>
 
-    <img src="/images/PlutoniumButton.png" class="fullwidth" />
+    <img src="images/PlutoniumButton.png" class="fullwidth" />
     <div class="caption">Finished product: a plutonium "button"</div>
 
     <p>

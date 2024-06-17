@@ -358,7 +358,7 @@ export default {
       ) {
         this.styleCache[feature.values_["icon"]] = new Style({
           image: new Icon({
-            src: feature.values_["icon"] || "/icons/dam.png",
+            src: feature.values_["icon"] || "icons/dam.png",
           }),
         });
       }

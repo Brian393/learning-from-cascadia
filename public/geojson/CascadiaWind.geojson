@@ -11,7 +11,7 @@
       "properties": {
         "Country": "United States",
         "title": "Rattlesnake Road Wind Farm",
-        "image": "<img src='/cascadia/images/Wind/RattlesnakeRoadWindFarm.jpg'>",
+        "image": "<img src='cascadia/images/Wind/RattlesnakeRoadWindFarm.jpg'>",
         "text3": "Owner: Arlington Wind Power Project LLC",
         "Operator": null,
         "Latitude": 45.7167,
@@ -49,7 +49,7 @@
       "properties": {
         "Country": "United States",
         "title": "Big Horn Wind Project",
-        "image": "<img src='/cascadia/images/Wind/BigHornWindFarm.jpg'>",
+        "image": "<img src='cascadia/images/Wind/BigHornWindFarm.jpg'>",
         "text3": "Owner: Avangrid Renewables LLC",
         "Operator": null,
         "Latitude": 45.8877,
@@ -87,7 +87,7 @@
       "properties": {
         "Country": "United States",
         "title": "Biglow Canyon Wind Farm",
-        "image": "<img src='/cascadia/images/Wind/BiglowCanyonWindFarm.jpg'>",
+        "image": "<img src='cascadia/images/Wind/BiglowCanyonWindFarm.jpg'>",
         "text3": "Owner: Portland General Electric Co",
         "Operator": null,
         "Latitude": 45.653745,
@@ -125,7 +125,7 @@
       "properties": {
         "Country": "United States",
         "title": "Elkhorn Valley Wind Farm",
-        "image": "<img src='/cascadia/images/Wind/ElkhornValleyWindFarm.jpg'>",
+        "image": "<img src='cascadia/images/Wind/ElkhornValleyWindFarm.jpg'>",
         "text3": "Owner: Telocaset Wind Power Partners",
         "Operator": null,
         "Latitude": 45.085221,
@@ -163,7 +163,7 @@
       "properties": {
         "Country": "United States",
         "title": "FPL Energy Vansycle LLC (OR)",
-        "image": "<img src='/cascadia/images/Wind/.jpg'>",
+        "image": "<img src='cascadia/images/Wind/.jpg'>",
         "text3": "Owner: FPL Energy Vansycle LLC",
         "Operator": null,
         "Latitude": 46.01279,
@@ -201,7 +201,7 @@
       "properties": {
         "Country": "United States",
         "title": "FPL Energy Vansycle LLC (WA)",
-        "image": "<img src='/cascadia/images/Wind/TouchetWindFarm.jpg'>",
+        "image": "<img src='cascadia/images/Wind/TouchetWindFarm.jpg'>",
         "text3": "Owner: FPL Energy Vansycle LLC",
         "Operator": null,
         "Latitude": 46.06,
@@ -239,7 +239,7 @@
       "properties": {
         "Country": "United States",
         "title": "Goshen Phase II",
-        "image": "<img src='/cascadia/images/Wind/GoshenPhaseIIWindFarm.jpg'>",
+        "image": "<img src='cascadia/images/Wind/GoshenPhaseIIWindFarm.jpg'>",
         "text3": "Owner: AE Power Services LLC",
         "Operator": null,
         "Latitude": 43.467057,
@@ -277,7 +277,7 @@
       "properties": {
         "Country": "United States",
         "title": "Hay Canyon Wind Power LLC",
-        "image": "<img src='/cascadia/images/Wind/HayCanyonWindFarm.jpg'>",
+        "image": "<img src='cascadia/images/Wind/HayCanyonWindFarm.jpg'>",
         "text3": "Owner: Avangrid Renewables LLC",
         "Operator": null,
         "Latitude": 45.52,
@@ -315,7 +315,7 @@
       "properties": {
         "Country": "United States",
         "title": "Hopkins Ridge Wind Facility",
-        "image": "<img src='/cascadia/images/Wind/HopkinsRidgeWindFacility.jpg'>",
+        "image": "<img src='cascadia/images/Wind/HopkinsRidgeWindFacility.jpg'>",
         "text3": "Owner: Puget Sound Energy Inc",
         "Operator": null,
         "Latitude": 46.4211,
@@ -353,7 +353,7 @@
       "properties": {
         "Country": "United States",
         "title": "Horseshoe Bend Wind LLC",
-        "image": "<img src='/cascadia/images/Wind/HorseshoeBendWindFarm.jpg'>",
+        "image": "<img src='cascadia/images/Wind/HorseshoeBendWindFarm.jpg'>",
         "text3": "Owner: Caithness Shepherds Flat LLC",
         "Operator": null,
         "Latitude": 45.58555,
@@ -391,7 +391,7 @@
       "properties": {
         "Country": "United States",
         "title": "Juniper Canyon I Wind Project",
-        "image": "<img src='/cascadia/images/Wind/JuniperCanyon.jpg'>",
+        "image": "<img src='cascadia/images/Wind/JuniperCanyon.jpg'>",
         "text3": "Owner: Avangrid Renewables LLC",
         "Operator": null,
         "Latitude": 45.9215,
@@ -429,7 +429,7 @@
       "properties": {
         "Country": "United States",
         "title": "Klondike Windpower III",
-        "image": "<img src='/cascadia/images/Wind/KlondikeWindFarm.jpg'>",
+        "image": "<img src='cascadia/images/Wind/KlondikeWindFarm.jpg'>",
         "text3": "Owner: Avangrid Renewables LLC",
         "Operator": null,
         "Latitude": 45.5836,
@@ -467,7 +467,7 @@
       "properties": {
         "Country": "United States",
         "title": "Leaning Juniper",
-        "image": "<img src='/cascadia/images/Wind/LeaningJuniper.jpg'>",
+        "image": "<img src='cascadia/images/Wind/LeaningJuniper.jpg'>",
         "text3": "Owner: PacifiCorp",
         "Operator": null,
         "Latitude": 45.652457,
@@ -505,7 +505,7 @@
       "properties": {
         "Country": "United States",
         "title": "Leaning Juniper Wind Power II",
-        "image": "<img src='/cascadia/images/Wind/LeaningJuniper.jpg'>",
+        "image": "<img src='cascadia/images/Wind/LeaningJuniper.jpg'>",
         "text3": "Owner: Avangrid Renewables LLC",
         "Operator": null,
         "Latitude": 45.651,
@@ -543,7 +543,7 @@
       "properties": {
         "Country": "United States",
         "title": "Lower Snake River Wind Energy Project",
-        "image": "<img src='/cascadia/images/Wind/LowerSnakeRiver.jpg'>",
+        "image": "<img src='cascadia/images/Wind/LowerSnakeRiver.jpg'>",
         "text3": "Owner: Puget Sound Energy Inc",
         "Operator": null,
         "Latitude": 46.524167,
@@ -581,7 +581,7 @@
       "properties": {
         "Country": "United States",
         "title": "Marengo Wind Plant",
-        "image": "<img src='/cascadia/images/Wind/MarengoWindPlant.jpg'>",
+        "image": "<img src='cascadia/images/Wind/MarengoWindPlant.jpg'>",
         "text3": "Owner: PacifiCorp",
         "Operator": null,
         "Latitude": 46.3747,
@@ -619,7 +619,7 @@
       "properties": {
         "Country": "United States",
         "title": "Meadow Creek Project",
-        "image": "<img src='/cascadia/images/Wind/MeadowCreek.jpg'>",
+        "image": "<img src='cascadia/images/Wind/MeadowCreek.jpg'>",
         "text3": "Owner: Ridgeline Energy LLC",
         "Operator": null,
         "Latitude": 43.524429,
@@ -657,7 +657,7 @@
       "properties": {
         "Country": "United States",
         "title": "North Hurlburt Wind Farm",
-        "image": "<img src='/cascadia/images/Wind/NorthHurlburtWindFarm.jpg'>",
+        "image": "<img src='cascadia/images/Wind/NorthHurlburtWindFarm.jpg'>",
         "text3": "Owner: Caithness Shepherds Flat LLC",
         "Operator": null,
         "Latitude": 45.731611,
@@ -695,7 +695,7 @@
       "properties": {
         "Country": "United States",
         "title": "Palouse Wind Project",
-        "image": "<img src='/cascadia/images/Wind/PalouseWindProject.jpg'>",
+        "image": "<img src='cascadia/images/Wind/PalouseWindProject.jpg'>",
         "Owner": "Novatus Energy",
         "Operator": null,
         "Latitude": 47.155833,
@@ -733,7 +733,7 @@
       "properties": {
         "Country": "United States",
         "title": "Kittitas Valley Wind Farm",
-        "image": "<img src='/cascadia/images/Wind/KittitasValleyWindFarm.jpg'>",
+        "image": "<img src='cascadia/images/Wind/KittitasValleyWindFarm.jpg'>",
         "text3": "Owner: Sagebrush Power Partners LLC",
         "Operator": null,
         "Latitude": 47.1356,
@@ -771,7 +771,7 @@
       "properties": {
         "Country": "United States",
         "title": "South Hurlburt Wind LLC",
-        "image": "<img src='/cascadia/images/Wind/ShepherdsFlatCentral.jpg'>",
+        "image": "<img src='cascadia/images/Wind/ShepherdsFlatCentral.jpg'>",
         "text3": "Owner: Caithness Shepherds Flat LLC",
         "Operator": null,
         "Latitude": 45.706262,
@@ -809,7 +809,7 @@
       "properties": {
         "Country": "United States",
         "title": "Tucannon River Wind Farm",
-        "image": "<img src='/cascadia/images/Wind/TucannonRiverWindFarm.jpg'>",
+        "image": "<img src='cascadia/images/Wind/TucannonRiverWindFarm.jpg'>",
         "text3": "Owner: Portland General Electric Co",
         "Operator": null,
         "Latitude": 46.421111,
@@ -847,7 +847,7 @@
       "properties": {
         "Country": "United States",
         "title": "Tuolumne Wind Project",
-        "image": "<img src='/cascadia/images/Wind/TuolumneWindProject.jpg'>",
+        "image": "<img src='cascadia/images/Wind/TuolumneWindProject.jpg'>",
         "text3": "Owner: Turlock Irrigation District",
         "Operator": null,
         "Latitude": 45.8797,
@@ -885,7 +885,7 @@
       "properties": {
         "Country": "United States",
         "title": "White Creek Wind Project",
-        "image": "<img src='/cascadia/images/Wind/WhiteCreekWindProject.jpg'>",
+        "image": "<img src='cascadia/images/Wind/WhiteCreekWindProject.jpg'>",
         "text3": "Owner: White Creek Wind 1 LLC",
         "Operator": null,
         "Latitude": 45.815467,
@@ -923,7 +923,7 @@
       "properties": {
         "Country": "United States",
         "title": "Wild Horse Wind and Solar Facility",
-        "image": "<img src='/cascadia/images/Wind/WildHorse.jpg'>",
+        "image": "<img src='cascadia/images/Wind/WildHorse.jpg'>",
         "text3": "Owner: Puget Sound Energy Inc",
         "Operator": null,
         "Latitude": 47.036269,
@@ -961,7 +961,7 @@
       "properties": {
         "Country": "United States",
         "title": "Windy Flats Wind Project",
-        "image": "<img src='/cascadia/images/Wind/WindyFlats.jpg'>",
+        "image": "<img src='cascadia/images/Wind/WindyFlats.jpg'>",
         "text3": "Owner: Windy Flats Partners LLC",
         "Operator": null,
         "Latitude": 45.7269,

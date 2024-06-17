@@ -76,7 +76,7 @@
       briny water, barely fit for agricultural use.
     </p>
 
-    <img src="/images/ColumbiaPlateauGroundwater.png" class="fullwidth" /><br />
+    <img src="images/ColumbiaPlateauGroundwater.png" class="fullwidth" /><br />
     <div class="caption">
       source:
       <a

@@ -140,7 +140,7 @@
       shattered. To this day, many believe the real toll was much higher.
     </p>
 
-    <img src="/images/VanportUnderwater.jpg" />
+    <img src="images/VanportUnderwater.jpg" />
 
     <p>
       Vanport&mdash;both the wartime city and the postwar flood&mdash;set the
@@ -221,7 +221,7 @@ export default {
     return {
       megaImages: [
         {
-          src: "/images/CascadiaMegaregionFullsize.jpg",
+          src: "images/CascadiaMegaregionFullsize.jpg",
         },
       ],
     };

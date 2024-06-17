@@ -18,7 +18,7 @@
         "NID_HEIGHT": 107,
         "wiki_entry": "Swan_Falls_Dam",
         "Cleanup_progress": "",
-        "icon": "/images/Dams-crop/SwanFallsDam.png"
+        "icon": "images/Dams-crop/SwanFallsDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -35,7 +35,7 @@
         "NID_HEIGHT": 165,
         "wiki_entry": "Deadwood_Dam",
         "Cleanup_progress": "",
-        "icon": "/images/Dams-crop/DeadwoodDam.png"
+        "icon": "images/Dams-crop/DeadwoodDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -52,7 +52,7 @@
         "NID_HEIGHT": 128,
         "wiki_entry": "Rock_Island_Dam",
         "Cleanup_progress": "",
-        "icon": "/images/Dams-crop/RockIslandDam.png"
+        "icon": "images/Dams-crop/RockIslandDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -69,7 +69,7 @@
         "NID_HEIGHT": 197,
         "wiki_entry": "Bonneville_Dam",
         "Cleanup_progress": "",
-        "icon": "/images/Dams-crop/BonnevilleDam.png"
+        "icon": "images/Dams-crop/BonnevilleDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -86,7 +86,7 @@
         "NID_HEIGHT": 194,
         "wiki_entry": "Kerr_Dam",
         "Cleanup_progress": "",
-        "icon": "/images/Dams-crop/SelisKsankaQlispe.png"
+        "icon": "images/Dams-crop/SelisKsankaQlispe.png"
       },
       "geometry": {
         "type": "Point",
@@ -103,7 +103,7 @@
         "NID_HEIGHT": "",
         "wiki_entry": "",
         "Cleanup_progress": "https://cumulis.epa.gov/supercpad/cursites/csitinfo.cfm?id=1000597",
-        "icon": "/images/Dams-crop/AlcoaVancouverSmelter.png"
+        "icon": "images/Dams-crop/AlcoaVancouverSmelter.png"
       },
       "geometry": {
         "type": "Point",
@@ -120,7 +120,7 @@
         "NID_HEIGHT": "",
         "wiki_entry": "",
         "Cleanup_progress": "https://fortress.wa.gov/ecy/gsp/Sitepage.aspx?csid=11796",
-        "icon": "/images/Dams-crop/ReynoldsMetalsAluminumLongview.png"
+        "icon": "images/Dams-crop/ReynoldsMetalsAluminumLongview.png"
       },
       "geometry": {
         "type": "Point",
@@ -137,7 +137,7 @@
         "NID_HEIGHT": "",
         "wiki_entry": "",
         "Cleanup_progress": "https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.Cleanup&id=1000383#bkground",
-        "icon": "/images/Dams-crop/ReynoldsMetalsTroutdale.png"
+        "icon": "images/Dams-crop/ReynoldsMetalsTroutdale.png"
       },
       "geometry": {
         "type": "Point",
@@ -154,7 +154,7 @@
         "NID_HEIGHT": 550,
         "wiki_entry": "Grand_Coulee_Dam",
         "Cleanup_progress": "",
-        "icon": "/images/Dams-crop/GrandCouleeDam.png"
+        "icon": "images/Dams-crop/GrandCouleeDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -171,7 +171,7 @@
         "NID_HEIGHT": "",
         "wiki_entry": "",
         "Cleanup_progress": "https://cumulis.epa.gov/supercpad/cursites/csitinfo.cfm?id=1000551",
-        "icon": "/images/Dams-crop/KaiserMeadSpokane.png"
+        "icon": "images/Dams-crop/KaiserMeadSpokane.png"
       },
       "geometry": {
         "type": "Point",
@@ -188,7 +188,7 @@
         "NID_HEIGHT": 107,
         "wiki_entry": "Cascade_Dam",
         "Cleanup_progress": "",
-        "icon": "/images/Dams-crop/CascadeDam.png"
+        "icon": "images/Dams-crop/CascadeDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -205,7 +205,7 @@
         "NID_HEIGHT": 564,
         "wiki_entry": "Hungry_Horse_Dam",
         "Cleanup_progress": "",
-        "icon": "/images/Dams-crop/HungryHorseDam.png"
+        "icon": "images/Dams-crop/HungryHorseDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -222,7 +222,7 @@
         "NID_HEIGHT": 220,
         "wiki_entry": "McNary_Dam",
         "Cleanup_progress": "",
-        "icon": "/images/Dams-crop/McNaryDam.png"
+        "icon": "images/Dams-crop/McNaryDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -239,7 +239,7 @@
         "NID_HEIGHT": 179,
         "wiki_entry": "Waneta_Dam",
         "Cleanup_progress": "",
-        "icon": "/images/Dams-crop/WanetaDam.png"
+        "icon": "images/Dams-crop/WanetaDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -256,7 +256,7 @@
         "NID_HEIGHT": "",
         "wiki_entry": "",
         "Cleanup_progress": "https://cumulis.epa.gov/supercpad/cursites/csitinfo.cfm?id=0800392",
-        "icon": "/images/Dams-crop/AnacondaColumbiaFalls.png"
+        "icon": "images/Dams-crop/AnacondaColumbiaFalls.png"
       },
       "geometry": {
         "type": "Point",
@@ -273,7 +273,7 @@
         "NID_HEIGHT": 230,
         "wiki_entry": "Chief_Joseph_Dam",
         "Cleanup_progress": "",
-        "icon": "/images/Dams-crop/ChiefJosephDam.png"
+        "icon": "images/Dams-crop/ChiefJosephDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -290,7 +290,7 @@
         "NID_HEIGHT": 180,
         "wiki_entry": "Albeni_Falls_Dam",
         "Cleanup_progress": "",
-        "icon": "/images/Dams-crop/AlbeniFallsDam.png"
+        "icon": "images/Dams-crop/AlbeniFallsDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -307,7 +307,7 @@
         "NID_HEIGHT": 200,
         "wiki_entry": "The_Dalles_Dam",
         "Cleanup_progress": "",
-        "icon": "/images/Dams-crop/TheDallesDam.png"
+        "icon": "images/Dams-crop/TheDallesDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -324,7 +324,7 @@
         "NID_HEIGHT": "",
         "wiki_entry": "",
         "Cleanup_progress": "",
-        "icon": "/images/Dams-crop/AlcoaWenatchee.png"
+        "icon": "images/Dams-crop/AlcoaWenatchee.png"
       },
       "geometry": {
         "type": "Point",
@@ -341,7 +341,7 @@
         "NID_HEIGHT": 415,
         "wiki_entry": "Brownlee_Dam",
         "Cleanup_progress": "",
-        "icon": "/images/Dams-crop/BrownleeDam.png"
+        "icon": "images/Dams-crop/BrownleeDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -358,7 +358,7 @@
         "NID_HEIGHT": "",
         "wiki_entry": "",
         "Cleanup_progress": "https://cumulis.epa.gov/supercpad/cursites/csitinfo.cfm?id=1000424",
-        "icon": "/images/Dams-crop/MartinMariettaAluminum.png"
+        "icon": "images/Dams-crop/MartinMariettaAluminum.png"
       },
       "geometry": {
         "type": "Point",
@@ -375,7 +375,7 @@
         "NID_HEIGHT": 179,
         "wiki_entry": "Noxon_Rapids_Dam",
         "Cleanup_progress": "",
-        "icon": "/images/Dams-crop/NoxonRapidsDam.png"
+        "icon": "images/Dams-crop/NoxonRapidsDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -392,7 +392,7 @@
         "NID_HEIGHT": 175,
         "wiki_entry": "Oxbow_Dam",
         "Cleanup_progress": "",
-        "icon": "/images/Dams-crop/OxbowDam.png"
+        "icon": "images/Dams-crop/OxbowDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -409,7 +409,7 @@
         "NID_HEIGHT": 187,
         "wiki_entry": "Priest_Rapids_Dam",
         "Cleanup_progress": "",
-        "icon": "/images/Dams-crop/PriestRapidsDam.png"
+        "icon": "images/Dams-crop/PriestRapidsDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -426,7 +426,7 @@
         "NID_HEIGHT": 130,
         "wiki_entry": "Rocky_Reach_Dam",
         "Cleanup_progress": "",
-        "icon": "/images/Dams-crop/RockyReachDam.png"
+        "icon": "images/Dams-crop/RockyReachDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -443,7 +443,7 @@
         "NID_HEIGHT": 208,
         "wiki_entry": "Ice_Harbor_Dam",
         "Cleanup_progress": "",
-        "icon": "/images/Dams-crop/IceHarborDam.png"
+        "icon": "images/Dams-crop/IceHarborDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -460,7 +460,7 @@
         "NID_HEIGHT": 205.5,
         "wiki_entry": "Wanapum_Dam",
         "Cleanup_progress": "",
-        "icon": "/images/Dams-crop/WanapumDam.png"
+        "icon": "images/Dams-crop/WanapumDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -477,7 +477,7 @@
         "NID_HEIGHT": 330,
         "wiki_entry": "Hells_Canyon_Dam",
         "Cleanup_progress": "",
-        "icon": "/images/Dams-crop/HellsCanyonDam.png"
+        "icon": "images/Dams-crop/HellsCanyonDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -494,7 +494,7 @@
         "NID_HEIGHT": 160,
         "wiki_entry": "Wells_Dam",
         "Cleanup_progress": "",
-        "icon": "/images/Dams-crop/WellsDam.png"
+        "icon": "images/Dams-crop/WellsDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -511,7 +511,7 @@
         "NID_HEIGHT": 179,
         "wiki_entry": "Keenleyside_Dam",
         "Cleanup_progress": "",
-        "icon": "/images/Dams-crop/HughKeenleysideDam.png"
+        "icon": "images/Dams-crop/HughKeenleysideDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -528,7 +528,7 @@
         "NID_HEIGHT": 230,
         "wiki_entry": "John_Day_Dam",
         "Cleanup_progress": "",
-        "icon": "/images/Dams-crop/JohnDayDam.png"
+        "icon": "images/Dams-crop/JohnDayDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -545,7 +545,7 @@
         "NID_HEIGHT": "",
         "wiki_entry": "",
         "Cleanup_progress": "https://apps.ecology.wa.gov/cleanupsearch/site/11797",
-        "icon": "/images/Dams-crop/ColumbiaGorgeAluminumGoldendale.png"
+        "icon": "images/Dams-crop/ColumbiaGorgeAluminumGoldendale.png"
       },
       "geometry": {
         "type": "Point",
@@ -562,7 +562,7 @@
         "NID_HEIGHT": 226,
         "wiki_entry": "Lower_Monumental_Dam",
         "Cleanup_progress": "",
-        "icon": "/images/Dams-crop/LowerMonumentalDam.png"
+        "icon": "images/Dams-crop/LowerMonumentalDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -579,7 +579,7 @@
         "NID_HEIGHT": 226,
         "wiki_entry": "Little_Goose_Dam",
         "Cleanup_progress": "",
-        "icon": "/images/Dams-crop/LittleGooseDam.png"
+        "icon": "images/Dams-crop/LittleGooseDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -596,7 +596,7 @@
         "NID_HEIGHT": 717,
         "wiki_entry": "Dworshak_Dam",
         "Cleanup_progress": "",
-        "icon": "/images/Dams-crop/DworshakDam.png"
+        "icon": "images/Dams-crop/DworshakDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -613,7 +613,7 @@
         "NID_HEIGHT": 228,
         "wiki_entry": "Lower_Granite_Dam",
         "Cleanup_progress": "",
-        "icon": "/images/Dams-crop/LowerGraniteDam.png"
+        "icon": "images/Dams-crop/LowerGraniteDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -630,7 +630,7 @@
         "NID_HEIGHT": 179,
         "wiki_entry": "Seven_Mile_Dam",
         "Cleanup_progress": "",
-        "icon": "/images/Dams-crop/SevenMileDam.png"
+        "icon": "images/Dams-crop/SevenMileDam.png"
       },
       "geometry": {
         "type": "Point",

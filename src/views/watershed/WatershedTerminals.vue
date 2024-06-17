@@ -26,14 +26,14 @@
     <div class="title">
       <h1>Coal, Oil, Gas: None Shall Pass</h1>
     </div>
-    <img src="/images/OilGas.jpg" />
+    <img src="images/OilGas.jpg" />
     <br />
     <div class="caption">Portland City Hall, Nov. 4, 2015</div>
     <br />
     <Accordion :open="false">
       <h3 slot="header">legends</h3>
       <div class="flex">
-        <img src="/icons/stop.png" />&nbsp;Each marker locates one of the
+        <img src="icons/stop.png" />&nbsp;Each marker locates one of the
         fossil-fuel terminals that has been stopped by citizen activism. A
         history of the movement, by its participants, is contained in the
         Twitter feeds that show up when you click on the icons.
@@ -42,8 +42,9 @@
 
     <p>
       <audio controls>
-        <source src="/audio/Terminals.mp3" type="audio/mpeg" />
-        Your browser does not support the audio element.</audio
+        <source src="audio/Terminals.mp3" type="audio/mpeg" />
+        Your browser does not support the audio element.
+      </audio>
       ><br /><br />
     </p>
 
@@ -165,7 +166,7 @@ export default {
     return {
       megaImages: [
         {
-          src: "/images/CascadiaMegaregionFullsize.jpg",
+          src: "images/CascadiaMegaregionFullsize.jpg",
         },
       ],
     };

@@ -18,7 +18,7 @@
     <div class="title">
       <h1>The site</h1>
     </div>
-    <img src="/images/Hanford/HanfordEmergency.gif" class="fullwidth" />
+    <img src="images/Hanford/HanfordEmergency.gif" class="fullwidth" />
     <div class="caption">Something's always happening at Hanford</div>
     <br />
     <Accordion :open="false">
@@ -33,7 +33,7 @@
 
     <p>
       <audio controls>
-        <source src="/audio/Hanford.mp3" type="audio/mpeg" />
+        <source src="audio/Hanford.mp3" type="audio/mpeg" />
         Your browser does not support the audio element.</audio
       ><br /><br />
     </p>
@@ -80,7 +80,7 @@
       leaded-glass windows.
     </p>
 
-    <img src="/images/GloveBox.jpg" class="fullwidth" />
+    <img src="images/GloveBox.jpg" class="fullwidth" />
 
     <p>
       Under the pressure of war, nuclear materials were handled with scant
@@ -195,7 +195,7 @@ export default {
     return {
       megaImages: [
         {
-          src: "/images/CascadiaMegaregionFullsize.jpg",
+          src: "images/CascadiaMegaregionFullsize.jpg",
         },
       ],
     };

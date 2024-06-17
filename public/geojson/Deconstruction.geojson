@@ -10,8 +10,8 @@
       "type": "Feature",
       "properties": {
         "id": 1,
-        "icon": "/icons/1sm.png",
-        "image": "<img src='/images/Deconstruction1.jpg'>"
+        "icon": "icons/1sm.png",
+        "image": "<img src='images/Deconstruction1.jpg'>"
       },
       "geometry": {
         "type": "Point",
@@ -22,8 +22,8 @@
       "type": "Feature",
       "properties": {
         "id": 2,
-        "icon": "/icons/2sm.png",
-        "image": "<img src='/images/Deconstruction2.jpg'>"
+        "icon": "icons/2sm.png",
+        "image": "<img src='images/Deconstruction2.jpg'>"
       },
       "geometry": {
         "type": "Point",
@@ -34,8 +34,8 @@
       "type": "Feature",
       "properties": {
         "id": 3,
-        "icon": "/icons/3sm.png",
-        "image": "<img src='/images/Deconstruction3.jpg'>"
+        "icon": "icons/3sm.png",
+        "image": "<img src='images/Deconstruction3.jpg'>"
       },
       "geometry": {
         "type": "Point",
@@ -46,8 +46,8 @@
       "type": "Feature",
       "properties": {
         "id": 4,
-        "icon": "/icons/4sm.png",
-        "image": "<img src='/images/Deconstruction4.jpg'>"
+        "icon": "icons/4sm.png",
+        "image": "<img src='images/Deconstruction4.jpg'>"
       },
       "geometry": {
         "type": "Point",
@@ -58,8 +58,8 @@
       "type": "Feature",
       "properties": {
         "id": 5,
-        "icon": "/icons/5sm.png",
-        "image": "<img src='/images/Deconstruction5.jpg'>"
+        "icon": "icons/5sm.png",
+        "image": "<img src='images/Deconstruction5.jpg'>"
       },
       "geometry": {
         "type": "Point",
@@ -70,8 +70,8 @@
       "type": "Feature",
       "properties": {
         "id": 6,
-        "icon": "/icons/6sm.png",
-        "image": "<img src='/images/Deconstruction6.jpg'>"
+        "icon": "icons/6sm.png",
+        "image": "<img src='images/Deconstruction6.jpg'>"
       },
       "geometry": {
         "type": "Point",
@@ -82,8 +82,8 @@
       "type": "Feature",
       "properties": {
         "id": 7,
-        "icon": "/icons/7sm.png",
-        "image": "<img src='/images/Deconstruction7.jpg'>"
+        "icon": "icons/7sm.png",
+        "image": "<img src='images/Deconstruction7.jpg'>"
       },
       "geometry": {
         "type": "Point",
@@ -94,8 +94,8 @@
       "type": "Feature",
       "properties": {
         "id": 8,
-        "icon": "/icons/8sm.png",
-        "image": "<img src='/images/Deconstruction8.jpg'>"
+        "icon": "icons/8sm.png",
+        "image": "<img src='images/Deconstruction8.jpg'>"
       },
       "geometry": {
         "type": "Point",

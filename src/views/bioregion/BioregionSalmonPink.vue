@@ -17,14 +17,14 @@
 <template>
   <div class="aside-content">
     <div class="title"><h1>Fish of plenty</h1></div>
-    <img src="/images/PinkSalmon.png" class="fullwidth" />
+    <img src="images/PinkSalmon.png" class="fullwidth" />
     <br />
     <div class="caption">Pink salmon fry</div>
     <br />
     <Accordion :open="false">
       <h3 slot="header">legends</h3>
       <div class="flex">
-        <img src="/images/Pink_Salmon.png" class="fullwidth" />
+        <img src="images/Pink_Salmon.png" class="fullwidth" />
       </div>
     </Accordion>
     <br />

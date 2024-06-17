@@ -34,7 +34,7 @@
     <div class="title">
       <h1>Hiimeis Taltsan Tleihlchiit tlp’ola (children’s dance armor caps)</h1>
     </div>
-    <img src="/images/Mendoza.png" class="fullwidth" />
+    <img src="images/Mendoza.png" class="fullwidth" />
     <br />
     <div class="caption">
       Sequoia Wren Mendoza Is Here, Woven In Utero Dance Cap
@@ -96,7 +96,7 @@
       solution; I am starting with the children.
     </p>
     <p>
-      <img src="/images/PublicLands.png" class="fullwidth" />
+      <img src="images/PublicLands.png" class="fullwidth" />
     </p>
 
     <p>
@@ -148,7 +148,7 @@
       and their spiritual and cultural inheritance.
     </p>
     <p>
-      <img src="/images/BlueJay.png" class="fullwidth" />
+      <img src="images/BlueJay.png" class="fullwidth" />
     </p>
 
     <p>
