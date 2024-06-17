@@ -88,7 +88,7 @@
       a memory inscribed deeply into both the land and the people.
     </p>
 
-    <img src="/images/FormerLake.jpg" class="fullwidth" />
+    <img src="images/FormerLake.jpg" class="fullwidth" />
     <div class="caption">
       Former Lake Allwell after dam removal<br />(<a
         href="https://en.wikipedia.org/wiki/Elwha_Dam#/media/File:Lake_Alwell_after_dam_removal.jpg"

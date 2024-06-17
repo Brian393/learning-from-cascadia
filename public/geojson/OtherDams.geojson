@@ -9,7 +9,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key2": "Milner Dam-Middle, Snake River<br><img src='/cascadia/images/Dams/.jpg'><br>Milner Dam, Inc., constructed 1905",
+        "key2": "Milner Dam-Middle, Snake River<br><img src='cascadia/images/Dams/.jpg'><br>Milner Dam, Inc., constructed 1905",
         "NID_HEIGHT": 78.0
       },
       "geometry": { "type": "Point", "coordinates": [-114.0095, 42.5264] }
@@ -18,7 +18,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key2": "Upper Salmon Falls B-Plant Forebay, Snake River<br><img src='/cascadia/images/Dams/.jpg'><br>Idaho Power Company, constructed 1947",
+        "key2": "Upper Salmon Falls B-Plant Forebay, Snake River<br><img src='cascadia/images/Dams/.jpg'><br>Idaho Power Company, constructed 1947",
         "NID_HEIGHT": 70.0
       },
       "geometry": { "type": "Point", "coordinates": [-114.90831, 42.7663] }
@@ -27,7 +27,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key2": "Upper Salmon Falls A-Plant & Forebay, Snake River<br><img src='/cascadia/images/Dams/.jpg'><br>Idaho Power Company, constructed 1937",
+        "key2": "Upper Salmon Falls A-Plant & Forebay, Snake River<br><img src='cascadia/images/Dams/.jpg'><br>Idaho Power Company, constructed 1937",
         "NID_HEIGHT": 85.0
       },
       "geometry": { "type": "Point", "coordinates": [-114.92471, 42.76756] }
@@ -36,7 +36,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key2": "C.J. Strike Dam, Snake River<br><img src='/cascadia/images/Dams/.jpg'><br>Idaho Power Company, constructed 1952",
+        "key2": "C.J. Strike Dam, Snake River<br><img src='cascadia/images/Dams/.jpg'><br>Idaho Power Company, constructed 1952",
         "NID_HEIGHT": 115.0
       },
       "geometry": { "type": "Point", "coordinates": [-115.97536, 42.94677] }
@@ -45,7 +45,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key2": "Swan Falls Dam, Snake River<br><img src='/cascadia/images/Dams/.jpg'><br>Idaho Power Company, constructed 1901",
+        "key2": "Swan Falls Dam, Snake River<br><img src='cascadia/images/Dams/.jpg'><br>Idaho Power Company, constructed 1901",
         "NID_HEIGHT": 107.0
       },
       "geometry": { "type": "Point", "coordinates": [-116.37948, 43.24325] }
@@ -54,7 +54,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key2": "Brownlee Dam, Snake River<br><img src='/cascadia/images/Dams/BrownleeDam.jpg'><br>Idaho Power Company, constructed 1958",
+        "key2": "Brownlee Dam, Snake River<br><img src='cascadia/images/Dams/BrownleeDam.jpg'><br>Idaho Power Company, constructed 1958",
         "NID_HEIGHT": 415.0
       },
       "geometry": { "type": "Point", "coordinates": [-116.89806, 44.83667] }
@@ -63,7 +63,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key2": "Oxbow Dam, Snake River<br><img src='/cascadia/images/Dams/OxbowDam.jpg'><br>Idaho Power Company, constructed 1961",
+        "key2": "Oxbow Dam, Snake River<br><img src='cascadia/images/Dams/OxbowDam.jpg'><br>Idaho Power Company, constructed 1961",
         "NID_HEIGHT": 175.0
       },
       "geometry": { "type": "Point", "coordinates": [-116.83524, 44.97075] }
@@ -72,7 +72,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key2": "Hells Canyon Dam, Snake River<br><img src='/cascadia/images/Dams/HellsCanyonDam.jpg'><br>Idaho Power Company, constructed 1967",
+        "key2": "Hells Canyon Dam, Snake River<br><img src='cascadia/images/Dams/HellsCanyonDam.jpg'><br>Idaho Power Company, constructed 1967",
         "NID_HEIGHT": 330.0
       },
       "geometry": { "type": "Point", "coordinates": [-116.70158, 45.24298] }
@@ -81,7 +81,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key2": "Priest Rapids Dam, Columbia River<br><img src='/cascadia/images/Dams/PriestRapidsDam.jpg'><br>Grant County PUD no. 2, constructed 1961",
+        "key2": "Priest Rapids Dam, Columbia River<br><img src='cascadia/images/Dams/PriestRapidsDam.jpg'><br>Grant County PUD no. 2, constructed 1961",
         "NID_HEIGHT": 187.0
       },
       "geometry": { "type": "Point", "coordinates": [-119.91016, 46.64433] }
@@ -90,7 +90,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key2": "Wanapum Dam, Columbia River<br><img src='/cascadia/images/Dams/WanapumDam.jpg'><br>Grant County PUD no. 2, constructed 1965",
+        "key2": "Wanapum Dam, Columbia River<br><img src='cascadia/images/Dams/WanapumDam.jpg'><br>Grant County PUD no. 2, constructed 1965",
         "NID_HEIGHT": 205.5
       },
       "geometry": { "type": "Point", "coordinates": [-119.9713, 46.87355] }
@@ -99,7 +99,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key2": "Rock Island Dam, Columbia River<br><img src='/cascadia/images/Dams/.jpg'><br>Chelan County PUD no. 1, constructed 1932",
+        "key2": "Rock Island Dam, Columbia River<br><img src='cascadia/images/Dams/.jpg'><br>Chelan County PUD no. 1, constructed 1932",
         "NID_HEIGHT": 128.0
       },
       "geometry": { "type": "Point", "coordinates": [-120.09476, 47.34201] }
@@ -108,7 +108,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key2": "Rocky Reach Dam, Columbia River<br><img src='/cascadia/images/Dams/RockyReachDam.jpg'><br>CHELAN COUNTY PUD NO 1, constructed 1962",
+        "key2": "Rocky Reach Dam, Columbia River<br><img src='cascadia/images/Dams/RockyReachDam.jpg'><br>CHELAN COUNTY PUD NO 1, constructed 1962",
         "NID_HEIGHT": 130.0
       },
       "geometry": { "type": "Point", "coordinates": [-120.31333, 47.54833] }
@@ -117,7 +117,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key2": "Seli’s Ksanka Qlispe Dam’, Flathead River<br><img src='/cascadia/images/Dams/SelisKsankaQlispe.jpg'><br>Ppl Montana Llc & Salish/Kootenai Tribe, constructed 1939",
+        "key2": "Seli’s Ksanka Qlispe Dam’, Flathead River<br><img src='cascadia/images/Dams/SelisKsankaQlispe.jpg'><br>Ppl Montana Llc & Salish/Kootenai Tribe, constructed 1939",
         "NID_HEIGHT": 194.0
       },
       "geometry": { "type": "Point", "coordinates": [-114.23393, 47.67738] }
@@ -126,7 +126,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key2": "Wells Dam, Columbia River<br><img src='/cascadia/images/Dams/WellsDam.jpg'><br>Douglas County PUD no. 1, constructed 1968",
+        "key2": "Wells Dam, Columbia River<br><img src='cascadia/images/Dams/WellsDam.jpg'><br>Douglas County PUD no. 1, constructed 1968",
         "NID_HEIGHT": 160.0
       },
       "geometry": { "type": "Point", "coordinates": [-119.87833, 47.94833] }
@@ -135,7 +135,7 @@
     {
       "type": "Feature",
       "properties": {
-        "key2": "Noxon Rapids Dam, Clark Fork<br><img src='/cascadia/images/Dams/NoxonRapidsDam.jpg'><br>Avista Corporation, constructed 1960",
+        "key2": "Noxon Rapids Dam, Clark Fork<br><img src='cascadia/images/Dams/NoxonRapidsDam.jpg'><br>Avista Corporation, constructed 1960",
         "NID_HEIGHT": 179.0
       },
       "geometry": { "type": "Point", "coordinates": [-115.73328, 47.96106] }
@@ -145,7 +145,7 @@
       "type": "Feature",
       "properties": {
         "Country": "Canada",
-        "key2": "<h4>Arrow Lakes Dam, Columbia River<br><img src='/cascadia/images/Dams/ArrowLakesDam.jpg'><br>Owner: Columbia Power (50%) / Columbia Basin Trust (50%)",
+        "key2": "<h4>Arrow Lakes Dam, Columbia River<br><img src='cascadia/images/Dams/ArrowLakesDam.jpg'><br>Owner: Columbia Power (50%) / Columbia Basin Trust (50%)",
         "Operator": "Arrow Lakes Power Corp",
         "Latitude": 49.343024,
         "Longitude": -117.768849,
@@ -181,7 +181,7 @@
       "type": "Feature",
       "properties": {
         "Country": "Canada",
-        "key2": "<h4>Brilliant Dam, Kootenay River<br><img src='/cascadia/images/Dams/BrilliantDam.jpg'><br>Owner: Columbia Power (50%) / Columbia Basin Trust (50%)",
+        "key2": "<h4>Brilliant Dam, Kootenay River<br><img src='cascadia/images/Dams/BrilliantDam.jpg'><br>Owner: Columbia Power (50%) / Columbia Basin Trust (50%)",
         "Operator": "FortisBC",
         "Latitude": 49.32488,
         "Longitude": -117.620653,
@@ -217,7 +217,7 @@
       "type": "Feature",
       "properties": {
         "Country": "Canada",
-        "key2": "<h4>Kootenay Canal Dam<br><img src='/cascadia/images/Dams/KootenayCanalDam.jpg'><br>Owner: BC Hydro",
+        "key2": "<h4>Kootenay Canal Dam<br><img src='cascadia/images/Dams/KootenayCanalDam.jpg'><br>Owner: BC Hydro",
         "Operator": "BC Hydro",
         "Latitude": 49.453258,
         "Longitude": -117.517897,
@@ -253,7 +253,7 @@
       "type": "Feature",
       "properties": {
         "Country": "Canada",
-        "key2": "<h4>Mica Dam, Columbia River<br><img src='/cascadia/images/Dams/MicaDam.jpg'><br>Owner: BC Hydro",
+        "key2": "<h4>Mica Dam, Columbia River<br><img src='cascadia/images/Dams/MicaDam.jpg'><br>Owner: BC Hydro",
         "Operator": "BC Hydro",
         "Latitude": 52.075872,
         "Longitude": -118.570515,
@@ -289,7 +289,7 @@
       "type": "Feature",
       "properties": {
         "Country": "Canada",
-        "key2": "<h4>Revelstoke Dam, Columbia River<br><img src='/cascadia/images/Dams/RevelstokeDam.jpg'><br>Owner: BC Hydro",
+        "key2": "<h4>Revelstoke Dam, Columbia River<br><img src='cascadia/images/Dams/RevelstokeDam.jpg'><br>Owner: BC Hydro",
         "Operator": "BC Hydro",
         "Latitude": 51.048563,
         "Longitude": -118.193945,
@@ -325,7 +325,7 @@
       "type": "Feature",
       "properties": {
         "Country": "Canada",
-        "key2": "<h4>Seven Mile Dam<br><img src='/cascadia/images/Dams/SevenMileDam.jpg'><br>Owner: BC Hydro",
+        "key2": "<h4>Seven Mile Dam<br><img src='cascadia/images/Dams/SevenMileDam.jpg'><br>Owner: BC Hydro",
         "Operator": "BC Hydro",
         "Latitude": 49.030161,
         "Longitude": -117.504098,
@@ -361,7 +361,7 @@
       "type": "Feature",
       "properties": {
         "Country": "Canada",
-        "key2": "<h4>Waneta Dam, Pend Oreille River<br><img src='/cascadia/images/Dams/WanetaDam.jpg'><br>Owner: BC Hydro (33%) / Teck Metals (66%)",
+        "key2": "<h4>Waneta Dam, Pend Oreille River<br><img src='cascadia/images/Dams/WanetaDam.jpg'><br>Owner: BC Hydro (33%) / Teck Metals (66%)",
         "Operator": "FortisBC",
         "Latitude": 49.004148,
         "Longitude": -117.612867,

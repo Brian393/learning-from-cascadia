@@ -17,14 +17,14 @@
 <template>
   <div class="aside-content">
     <div class="title"><h1>Gift of the sea</h1></div>
-    <img src="/images/DeadChum.jpg" class="fullwidth" />
+    <img src="images/DeadChum.jpg" class="fullwidth" />
     <br />
     <div class="caption">Chum salmon brings ocean nutrients to the forest</div>
     <br />
     <Accordion :open="false">
       <h3 slot="header">legends</h3>
       <div class="flex">
-        <img src="/images/Chum_Salmon.png" class="fullwidth" />
+        <img src="images/Chum_Salmon.png" class="fullwidth" />
       </div>
     </Accordion>
     <br />

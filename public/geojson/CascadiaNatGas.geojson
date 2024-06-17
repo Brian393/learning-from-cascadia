@@ -11,7 +11,7 @@
       "properties": {
         "Country": "United States",
         "title": "Beaver",
-        "image": "<img src='/cascadia/images/NatGas/BeaverGeneratingStation.jpg'>",
+        "image": "<img src='cascadia/images/NatGas/BeaverGeneratingStation.jpg'>",
         "text3": "Owner: Portland General Electric Co",
         "Operator": null,
         "Latitude": 46.172401,
@@ -49,7 +49,7 @@
       "properties": {
         "Country": "United States",
         "title": "Bennett Mountain",
-        "image": "<img src='/cascadia/images/NatGas/BennetMountain.jpg'>",
+        "image": "<img src='cascadia/images/NatGas/BennetMountain.jpg'>",
         "text3": "Owner: Idaho Power Co",
         "Operator": null,
         "Latitude": 43.147153,
@@ -87,7 +87,7 @@
       "properties": {
         "Country": "United States",
         "title": "Carty Generating Station",
-        "image": "<img src='/cascadia/images/NatGas/CartyGeneratingStation.jpg'>",
+        "image": "<img src='cascadia/images/NatGas/CartyGeneratingStation.jpg'>",
         "text3": "Owner: Portland General Electric Co",
         "Operator": null,
         "Latitude": 45.698611,
@@ -125,7 +125,7 @@
       "properties": {
         "Country": "United States",
         "title": "Chehalis Generating Facility",
-        "image": "<img src='/cascadia/images/NatGas/ChehalisGeneratingFacility.jpg'>",
+        "image": "<img src='cascadia/images/NatGas/ChehalisGeneratingFacility.jpg'>",
         "text3": "Owner: PacifiCorp",
         "Operator": null,
         "Latitude": 46.6225,
@@ -163,7 +163,7 @@
       "properties": {
         "Country": "United States",
         "title": "Coyote Springs",
-        "image": "<img src='/cascadia/images/NatGas/CoyoteSprings.jpg'>",
+        "image": "<img src='cascadia/images/NatGas/CoyoteSprings.jpg'>",
         "text3": "Owner: Portland General Electric Co",
         "Operator": null,
         "Latitude": 45.847998,
@@ -201,7 +201,7 @@
       "properties": {
         "Country": "United States",
         "title": "Coyote Springs II",
-        "image": "<img src='/cascadia/images/NatGas/CoyoteSpringsII.jpg'>",
+        "image": "<img src='cascadia/images/NatGas/CoyoteSpringsII.jpg'>",
         "text3": "Owner: Avista Corp",
         "Operator": null,
         "Latitude": 45.848039,
@@ -239,7 +239,7 @@
       "properties": {
         "Country": "United States",
         "title": "Dave Gates Generating Station",
-        "image": "<img src='/cascadia/images/NatGas/DaveGatesGeneratingStation.jpg'>",
+        "image": "<img src='cascadia/images/NatGas/DaveGatesGeneratingStation.jpg'>",
         "text3": "Owner: NorthWestern Energy DGGS",
         "Operator": null,
         "Latitude": 46.104713,
@@ -277,7 +277,7 @@
       "properties": {
         "Country": "United States",
         "title": "Encogen",
-        "image": "<img src='/cascadia/images/NatGas/Encogen.jpg'>",
+        "image": "<img src='cascadia/images/NatGas/Encogen.jpg'>",
         "text3": "Owner: Puget Sound Energy Inc",
         "Operator": null,
         "Latitude": 48.746,
@@ -315,7 +315,7 @@
       "properties": {
         "Country": "United States",
         "title": "Evander Andrews Danskin Power Plant",
-        "image": "<img src='/cascadia/images/NatGas/EvanderAndrewsDanskinPowerPlant.jpg'>",
+        "image": "<img src='cascadia/images/NatGas/EvanderAndrewsDanskinPowerPlant.jpg'>",
         "text3": "Owner: Idaho Power Co",
         "Operator": null,
         "Latitude": 43.179176,
@@ -353,7 +353,7 @@
       "properties": {
         "Country": "United States",
         "title": "Ferndale Generating Station",
-        "image": "<img src='/cascadia/images/NatGas/FerndaleGeneratingStation.jpg'>",
+        "image": "<img src='cascadia/images/NatGas/FerndaleGeneratingStation.jpg'>",
         "text3": "Owner: Puget Sound Energy Inc",
         "Operator": null,
         "Latitude": 48.828813,
@@ -391,7 +391,7 @@
       "properties": {
         "Country": "United States",
         "title": "Frederickson",
-        "image": "<img src='/cascadia/images/NatGas/FredericksonIGeneratingStation.jpg'>",
+        "image": "<img src='cascadia/images/NatGas/FredericksonIGeneratingStation.jpg'>",
         "text3": "Owner: Puget Sound Energy Inc",
         "Operator": null,
         "Latitude": 47.079722,
@@ -429,7 +429,7 @@
       "properties": {
         "Country": "United States",
         "title": "Frederickson Power",
-        "image": "<img src='/cascadia/images/NatGas/FredericksonLP.jpg'>",
+        "image": "<img src='cascadia/images/NatGas/FredericksonLP.jpg'>",
         "text3": "Owner: Atlantic Power",
         "Operator": null,
         "Latitude": 47.086111,
@@ -467,7 +467,7 @@
       "properties": {
         "Country": "United States",
         "title": "Fredonia",
-        "image": "<img src='/cascadia/images/NatGas/FredoniaGeneratingStation.jpg'>",
+        "image": "<img src='cascadia/images/NatGas/FredoniaGeneratingStation.jpg'>",
         "text3": "Owner: Puget Sound Energy Inc",
         "Operator": null,
         "Latitude": 48.4558,
@@ -505,7 +505,7 @@
       "properties": {
         "Country": "United States",
         "title": "Goldendale Generating Station",
-        "image": "<img src='/cascadia/images/NatGas/Goldendale.jpg'>",
+        "image": "<img src='cascadia/images/NatGas/Goldendale.jpg'>",
         "text3": "Owner: Puget Sound Energy Inc",
         "Operator": null,
         "Latitude": 45.8114,
@@ -543,7 +543,7 @@
       "properties": {
         "Country": "United States",
         "title": "Grays Harbor Energy Facility",
-        "image": "<img src='/cascadia/images/NatGas/GraysHarborEnergyCenter.jpg'>",
+        "image": "<img src='cascadia/images/NatGas/GraysHarborEnergyCenter.jpg'>",
         "text3": "Owner: Invenergy Services LLC",
         "Operator": null,
         "Latitude": 46.9692,
@@ -581,7 +581,7 @@
       "properties": {
         "Country": "United States",
         "title": "Hermiston Power Partnership",
-        "image": "<img src='/cascadia/images/NatGas/HermistonPowerPartnership.jpg'>",
+        "image": "<img src='cascadia/images/NatGas/HermistonPowerPartnership.jpg'>",
         "text3": "Owner: Hermiston Power Partnership - Calpine Inc.",
         "Operator": null,
         "Latitude": 45.794046,
@@ -619,7 +619,7 @@
       "properties": {
         "Country": "United States",
         "title": "Hermiston Generating Plant",
-        "image": "<img src='/cascadia/images/NatGas/HermistonGeneratingPlant.jpg'>",
+        "image": "<img src='cascadia/images/NatGas/HermistonGeneratingPlant.jpg'>",
         "text3": "Owner: Hermiston Generating Co LP",
         "Operator": null,
         "Latitude": 45.8042,
@@ -657,7 +657,7 @@
       "properties": {
         "Country": "United States",
         "title": "Humboldt Bay",
-        "image": "<img src='/cascadia/images/NatGas/HumboldtBay.jpg'>",
+        "image": "<img src='cascadia/images/NatGas/HumboldtBay.jpg'>",
         "text3": "Owner: Pacific Gas & Electric Co",
         "Operator": null,
         "Latitude": 40.7415,
@@ -695,7 +695,7 @@
       "properties": {
         "Country": "United States",
         "title": "Klamath Cogeneration Plant",
-        "image": "<img src='/cascadia/images/NatGas/.jpg'>",
+        "image": "<img src='cascadia/images/NatGas/.jpg'>",
         "text3": "Owner: Pacific Klamath Energy Inc",
         "Operator": null,
         "Latitude": 42.173889,
@@ -733,7 +733,7 @@
       "properties": {
         "Country": "United States",
         "title": "Klamath Expansion Project",
-        "image": "<img src='/cascadia/images/NatGas/.jpg'>",
+        "image": "<img src='cascadia/images/NatGas/.jpg'>",
         "text3": "Owner: Pacific Klamath Energy Inc",
         "Operator": null,
         "Latitude": 42.172718,
@@ -771,7 +771,7 @@
       "properties": {
         "Country": "United States",
         "title": "Langley Gulch Power Plant",
-        "image": "<img src='/cascadia/images/NatGas/LangleyGulch.jpg'>",
+        "image": "<img src='cascadia/images/NatGas/LangleyGulch.jpg'>",
         "text3": "Owner: Idaho Power Co",
         "Operator": null,
         "Latitude": 43.904444,
@@ -809,7 +809,7 @@
       "properties": {
         "Country": "United States",
         "title": "March Point Cogeneration*",
-        "image": "<img src='/cascadia/images/NatGas/.jpg'>",
+        "image": "<img src='cascadia/images/NatGas/.jpg'>",
         "text3": "Owner: March Point Cogeneration Co",
         "Operator": null,
         "Latitude": 48.4708,
@@ -847,7 +847,7 @@
       "properties": {
         "Country": "United States",
         "title": "Mint Farm Generating Station",
-        "image": "<img src='/cascadia/images/NatGas/MintFarm.jpg'>",
+        "image": "<img src='cascadia/images/NatGas/MintFarm.jpg'>",
         "text3": "Owner: Puget Sound Energy Inc",
         "Operator": null,
         "Latitude": 46.138824,
@@ -885,7 +885,7 @@
       "properties": {
         "Country": "United States",
         "title": "Port Westward Generating Plant",
-        "image": "<img src='/cascadia/images/NatGas/PortWestward.jpg'>",
+        "image": "<img src='cascadia/images/NatGas/PortWestward.jpg'>",
         "text3": "Owner: Portland General Electric Co",
         "Operator": null,
         "Latitude": 46.17894,
@@ -923,7 +923,7 @@
       "properties": {
         "Country": "United States",
         "title": "Port Westward Unit 2",
-        "image": "<img src='/cascadia/images/NatGas/PortWestwardUnit2.jpg'>",
+        "image": "<img src='cascadia/images/NatGas/PortWestwardUnit2.jpg'>",
         "text3": "Owner: Portland General Electric Co",
         "Operator": null,
         "Latitude": 46.178889,
@@ -961,7 +961,7 @@
       "properties": {
         "Country": "United States",
         "title": "Rathdrum*",
-        "image": "<img src='/cascadia/images/NatGas/.jpg'>",
+        "image": "<img src='cascadia/images/NatGas/.jpg'>",
         "text3": "Owner: Avista Corp",
         "Operator": null,
         "Latitude": 47.80427,
@@ -999,7 +999,7 @@
       "properties": {
         "Country": "United States",
         "title": "Rathdrum Power LLC",
-        "image": "<img src='/cascadia/images/NatGas/RathdrumPower.jpg'>",
+        "image": "<img src='cascadia/images/NatGas/RathdrumPower.jpg'>",
         "text3": "Owner: Rathdrum Operating Services Co. Inc.",
         "Operator": null,
         "Latitude": 47.7858,
@@ -1037,7 +1037,7 @@
       "properties": {
         "Country": "United States",
         "title": "River Road Gen Plant",
-        "image": "<img src='/cascadia/images/NatGas/RiverRoad.jpg'>",
+        "image": "<img src='cascadia/images/NatGas/RiverRoad.jpg'>",
         "text3": "Owner: PUD No 1 of Clark County WA",
         "Operator": null,
         "Latitude": 45.6497,
@@ -1075,7 +1075,7 @@
       "properties": {
         "Country": "United States",
         "title": "Sumas Power Plant",
-        "image": "<img src='/cascadia/images/NatGas/SumasPowerPlant.jpg'>",
+        "image": "<img src='cascadia/images/NatGas/SumasPowerPlant.jpg'>",
         "text3": "Owner: Puget Sound Energy Inc",
         "Operator": null,
         "Latitude": 48.9905,
@@ -1113,7 +1113,7 @@
       "properties": {
         "Country": "United States",
         "title": "Whitehorn",
-        "image": "<img src='/cascadia/images/NatGas/Whitehorn.jpg'>",
+        "image": "<img src='cascadia/images/NatGas/Whitehorn.jpg'>",
         "text3": "Owner: Puget Sound Energy Inc",
         "Operator": null,
         "Latitude": 48.828784,
@@ -1151,7 +1151,7 @@
       "properties": {
         "Country": "Canada",
         "title": "Burrard Generating Station",
-        "image": "<img src='/cascadia/images/NatGas/BurrardGeneratingStation.jpg'>",
+        "image": "<img src='cascadia/images/NatGas/BurrardGeneratingStation.jpg'>",
         "text3": "Owner: BC Hydro",
         "Operator": "BC Hydro",
         "Latitude": 49.29879,
@@ -1189,7 +1189,7 @@
       "properties": {
         "Country": "Canada",
         "title": "Island Generation",
-        "image": "<img src='/cascadia/images/NatGas/IslandGeneration.jpg'>",
+        "image": "<img src='cascadia/images/NatGas/IslandGeneration.jpg'>",
         "text3": "Owner: Capital Power",
         "Operator": "Capital Power",
         "Latitude": 50.069379,

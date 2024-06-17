@@ -36,7 +36,7 @@
     <Accordion :open="false">
       <h3 slot="header">legends</h3>
       <div class="flex">
-        <img src="/images/Tsagaglalal.png" class="fullwidth" />
+        <img src="images/Tsagaglalal.png" class="fullwidth" />
         <div class="legendtext">
           <span style="text-align: center"
             >Looking over The Narrows is Tsagaglalal, "She Who Watches."</span
@@ -47,7 +47,7 @@
 
     <p>
       <audio controls>
-        <source src="/audio/Falls.mp3" type="audio/mpeg" />
+        <source src="audio/Falls.mp3" type="audio/mpeg" />
         Your browser does not support the audio element.</audio
       ><br /><br />
     </p>

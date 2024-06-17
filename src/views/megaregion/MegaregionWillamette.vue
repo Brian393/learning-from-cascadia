@@ -51,11 +51,11 @@
       <h3 slot="header">legends</h3>
       <div class="flex">
         <div>
-          <img src="/icons/legends/Uplands.png" />
+          <img src="icons/legends/Uplands.png" />
           Upland pollution sources
         </div>
         <div>
-          <img src="/icons/legends/EPAtechnologies.png" />
+          <img src="icons/legends/EPAtechnologies.png" />
           EPA in-river intervention sites
         </div>
         <br />Labels appear on mouseover. EPA sites visible only at higher
@@ -117,7 +117,7 @@
       done, and who's gonna pay for it?
     </p>
 
-    <img src="/images/Arkema.jpg" class="fullwidth" />
+    <img src="images/Arkema.jpg" class="fullwidth" />
     <div class="caption">Early intervention at former Arkema plant</div>
 
     <p>
@@ -169,7 +169,7 @@
       further research.
     </p>
 
-    <img src="/images/EPAdivers.jpg" class="fullwidth" />
+    <img src="images/EPAdivers.jpg" class="fullwidth" />
     <div class="caption">EPA divers on the Willamette</div>
 
     <p>
@@ -214,7 +214,7 @@
       Superfund site.
     </p>
 
-    <img src="/images/McCormick&Baxter.jpg" class="fullwidth" />
+    <img src="images/McCormick&Baxter.jpg" class="fullwidth" />
     <div class="caption">Capping at McCormick & Baxter, 2004</div>
 
     <p>
@@ -262,7 +262,7 @@
       property.
     </p>
 
-    <img src="/images/NWNatural.jpg" class="fullwidth" />
+    <img src="images/NWNatural.jpg" class="fullwidth" />
     <div class="caption">Groundwater treatment at former GASCO site</div>
 
     <p>

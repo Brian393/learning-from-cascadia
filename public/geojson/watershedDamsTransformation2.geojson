@@ -15,7 +15,7 @@
         "key2": "Swan Falls Dam",
         "date": "1901",
         "NID_HEIGHT": 107,
-        "icon": "/images/Dams-crop/SwanFallsDam.png"
+        "icon": "images/Dams-crop/SwanFallsDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -29,7 +29,7 @@
         "key2": "Minidoka Dam",
         "date": "1905",
         "NID_HEIGHT": 86,
-        "icon": "/images/Dams-crop/MinidokaDam.png"
+        "icon": "images/Dams-crop/MinidokaDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -43,7 +43,7 @@
         "key2": "Milner Dam-Middle",
         "date": "1905",
         "NID_HEIGHT": 78,
-        "icon": "/images/Dams-crop/MilnerDam.png"
+        "icon": "images/Dams-crop/MilnerDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -57,7 +57,7 @@
         "key2": "Jackson Lake Dam",
         "date": "1911",
         "NID_HEIGHT": 68,
-        "icon": "/images/Dams-crop/JacksonLakeDam.png"
+        "icon": "images/Dams-crop/JacksonLakeDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -71,7 +71,7 @@
         "key2": "Arrowrock Dam",
         "date": "1914",
         "NID_HEIGHT": 350,
-        "icon": "/images/Dams-crop/ArrowrockDam.png"
+        "icon": "images/Dams-crop/ArrowrockDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -85,7 +85,7 @@
         "key2": "Deadwood Dam",
         "date": "1930",
         "NID_HEIGHT": 165,
-        "icon": "/images/Dams-crop/DeadwoodDam.png"
+        "icon": "images/Dams-crop/DeadwoodDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -99,7 +99,7 @@
         "key2": "Rock Island Dam",
         "date": "1932",
         "NID_HEIGHT": 128,
-        "icon": "/images/Dams-crop/RockIslandDam.png"
+        "icon": "images/Dams-crop/RockIslandDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -113,7 +113,7 @@
         "key2": "Bonneville Dam",
         "date": "1937",
         "NID_HEIGHT": 197,
-        "icon": "/images/Dams-crop/BonnevilleDam.png"
+        "icon": "images/Dams-crop/BonnevilleDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -127,7 +127,7 @@
         "key2": "Upper Salmon Falls A-Plant",
         "date": "1937",
         "NID_HEIGHT": 85,
-        "icon": "/images/Dams-crop/UpperSalmonFallsDam.png"
+        "icon": "images/Dams-crop/UpperSalmonFallsDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -141,7 +141,7 @@
         "key2": "Seli’s Ksanka Qlispe Dam",
         "date": "1939",
         "NID_HEIGHT": 194,
-        "icon": "/images/Dams-crop/SelisKsankaQlispe.png"
+        "icon": "images/Dams-crop/SelisKsankaQlispe.png"
       },
       "geometry": {
         "type": "Point",
@@ -156,7 +156,7 @@
         "EPA": "https://cumulis.epa.gov/supercpad/cursites/csitinfo.cfm?id=1000597",
         "date": "1940",
         "Date idled": "1985",
-        "icon": "/images/Dams-crop/AlcoaVancouverSmelter.png"
+        "icon": "images/Dams-crop/AlcoaVancouverSmelter.png"
       },
       "geometry": {
         "type": "Point",
@@ -171,7 +171,7 @@
         "EPA": "https://fortress.wa.gov/ecy/gsp/Sitepage.aspx?csid=11796",
         "date": "1941",
         "Date idled": "2000",
-        "icon": "/images/Dams-crop/ReynoldsMetalsAluminumLongview.png"
+        "icon": "images/Dams-crop/ReynoldsMetalsAluminumLongview.png"
       },
       "geometry": {
         "type": "Point",
@@ -186,7 +186,7 @@
         "EPA": "https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.Cleanup&id=1000383#bkground",
         "date": "1941",
         "Date idled": "2000",
-        "icon": "/images/Dams-crop/ReynoldsMetalsTroutdale.png"
+        "icon": "images/Dams-crop/ReynoldsMetalsTroutdale.png"
       },
       "geometry": {
         "type": "Point",
@@ -200,7 +200,7 @@
         "key2": "Grand Coulee Dam",
         "date": "1941",
         "NID_HEIGHT": 550,
-        "icon": "/images/Dams-crop/GrandCouleeDam.png"
+        "icon": "images/Dams-crop/GrandCouleeDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -215,7 +215,7 @@
         "EPA": "https://cumulis.epa.gov/supercpad/cursites/csitinfo.cfm?id=1000551",
         "date": "1942",
         "Date idled": "1978",
-        "icon": "/images/Dams-crop/KaiserMeadSpokane.png"
+        "icon": "images/Dams-crop/KaiserMeadSpokane.png"
       },
       "geometry": {
         "type": "Point",
@@ -229,7 +229,7 @@
         "key2": "Anderson Ranch Dam",
         "date": "1946",
         "NID_HEIGHT": 456,
-        "icon": "/images/Dams-crop/AndersonRanchDam.png"
+        "icon": "images/Dams-crop/AndersonRanchDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -243,7 +243,7 @@
         "key2": "Cascade Dam",
         "date": "1947",
         "NID_HEIGHT": 107,
-        "icon": "/images/Dams-crop/CascadeDam.png"
+        "icon": "images/Dams-crop/CascadeDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -257,7 +257,7 @@
         "key2": "Hungry Horse Dam",
         "date": "1952",
         "NID_HEIGHT": 564,
-        "icon": "/images/Dams-crop/HungryHorseDam.png"
+        "icon": "images/Dams-crop/HungryHorseDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -271,7 +271,7 @@
         "key2": "C.J. Strike Dam",
         "date": "1952",
         "NID_HEIGHT": 115,
-        "icon": "/images/Dams-crop/CJStrikeDam.png"
+        "icon": "images/Dams-crop/CJStrikeDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -285,7 +285,7 @@
         "key2": "McNary Dam",
         "date": "1954",
         "NID_HEIGHT": 220,
-        "icon": "/images/Dams-crop/McNaryDam.png"
+        "icon": "images/Dams-crop/McNaryDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -299,7 +299,7 @@
         "key2": "Waneta Dam",
         "date": "1954",
         "NID_HEIGHT": 179,
-        "icon": "/images/Dams-crop/WanetaDam.png"
+        "icon": "images/Dams-crop/WanetaDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -313,7 +313,7 @@
         "key2": "Lucky Peak Dam",
         "date": "1955",
         "NID_HEIGHT": 340,
-        "icon": "/images/Dams-crop/LuckyPeakDam.png"
+        "icon": "images/Dams-crop/LuckyPeakDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -328,7 +328,7 @@
         "EPA": "https://cumulis.epa.gov/supercpad/cursites/csitinfo.cfm?id=0800392",
         "date": "1955",
         "Date idled": "2009",
-        "icon": "/images/Dams-crop/AnacondaColumbiaFalls.png"
+        "icon": "images/Dams-crop/AnacondaColumbiaFalls.png"
       },
       "geometry": {
         "type": "Point",
@@ -342,7 +342,7 @@
         "key2": "Chief Joseph Dam",
         "date": "1955",
         "NID_HEIGHT": 230,
-        "icon": "/images/Dams-crop/ChiefJosephDam.png"
+        "icon": "images/Dams-crop/ChiefJosephDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -356,7 +356,7 @@
         "key2": "Albeni Falls Dam",
         "date": "1955",
         "NID_HEIGHT": 180,
-        "icon": "/images/Dams-crop/AlbeniFallsDam.png"
+        "icon": "images/Dams-crop/AlbeniFallsDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -370,7 +370,7 @@
         "key2": "Palisades Dam",
         "date": "1956",
         "NID_HEIGHT": 270,
-        "icon": "/images/Dams-crop/PalisadesDam.png"
+        "icon": "images/Dams-crop/PalisadesDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -384,7 +384,7 @@
         "key2": "The Dalles Dam",
         "date": "1957",
         "NID_HEIGHT": 200,
-        "icon": "/images/Dams-crop/TheDallesDam.png"
+        "icon": "images/Dams-crop/TheDallesDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -399,7 +399,7 @@
         "EPA": null,
         "date": null,
         "Date idled": null,
-        "icon": "/images/Dams-crop/AlcoaWenatchee.png"
+        "icon": "images/Dams-crop/AlcoaWenatchee.png"
       },
       "geometry": {
         "type": "Point",
@@ -413,7 +413,7 @@
         "key2": "Brownlee Dam",
         "date": "1958",
         "NID_HEIGHT": 415,
-        "icon": "/images/Dams-crop/BrownleeDam.png"
+        "icon": "images/Dams-crop/BrownleeDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -428,7 +428,7 @@
         "EPA": "https://cumulis.epa.gov/supercpad/cursites/csitinfo.cfm?id=1000424",
         "date": "1958",
         "Date idled": "1987",
-        "icon": "/images/Dams-crop/MartinMariettaAluminum.png"
+        "icon": "images/Dams-crop/MartinMariettaAluminum.png"
       },
       "geometry": {
         "type": "Point",
@@ -442,7 +442,7 @@
         "key2": "Noxon Rapids Dam",
         "date": "1960",
         "NID_HEIGHT": 179,
-        "icon": "/images/Dams-crop/NoxonRapidsDam.png"
+        "icon": "images/Dams-crop/NoxonRapidsDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -456,7 +456,7 @@
         "key2": "Oxbow Dam",
         "date": "1961",
         "NID_HEIGHT": 175,
-        "icon": "/images/Dams-crop/OxbowDam.png"
+        "icon": "images/Dams-crop/OxbowDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -470,7 +470,7 @@
         "key2": "Priest Rapids Dam",
         "date": "1961",
         "NID_HEIGHT": 187,
-        "icon": "/images/Dams-crop/PriestRapidsDam.png"
+        "icon": "images/Dams-crop/PriestRapidsDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -484,7 +484,7 @@
         "key2": "Rocky Reach Dam",
         "date": "1962",
         "NID_HEIGHT": 130,
-        "icon": "/images/Dams-crop/RockyReachDam.png"
+        "icon": "images/Dams-crop/RockyReachDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -498,7 +498,7 @@
         "key2": "Ice Harbor Dam",
         "date": "1962",
         "NID_HEIGHT": 208,
-        "icon": "/images/Dams-crop/IceHarborDam.png"
+        "icon": "images/Dams-crop/IceHarborDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -512,7 +512,7 @@
         "key2": "Wanapum Dam",
         "date": "1965",
         "NID_HEIGHT": 205.5,
-        "icon": "/images/Dams-crop/WanapumDam.png"
+        "icon": "images/Dams-crop/WanapumDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -526,7 +526,7 @@
         "key2": "Hells Canyon Dam",
         "date": "1967",
         "NID_HEIGHT": 330,
-        "icon": "/images/Dams-crop/HellsCanyonDam.png"
+        "icon": "images/Dams-crop/HellsCanyonDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -540,7 +540,7 @@
         "key2": "Wells Dam",
         "date": "1968",
         "NID_HEIGHT": 160,
-        "icon": "/images/Dams-crop/WellsDam.png"
+        "icon": "images/Dams-crop/WellsDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -554,7 +554,7 @@
         "key2": "Hugh Keenleyside Dam",
         "date": "1968",
         "NID_HEIGHT": 179,
-        "icon": "/images/Dams-crop/HughKeenleysideDam.png"
+        "icon": "images/Dams-crop/HughKeenleysideDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -568,7 +568,7 @@
         "key2": "John Day Dam",
         "date": "1968",
         "NID_HEIGHT": 230,
-        "icon": "/images/Dams-crop/JohnDayDam.png"
+        "icon": "images/Dams-crop/JohnDayDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -583,7 +583,7 @@
         "EPA": "https://fortress.wa.gov/ecy/gsp/Sitepage.aspx?csid=11797L",
         "date": "1969",
         "Date idled": "2003",
-        "icon": "/images/Dams-crop/ColumbiaGorgeAluminumGoldendale.png"
+        "icon": "images/Dams-crop/ColumbiaGorgeAluminumGoldendale.png"
       },
       "geometry": {
         "type": "Point",
@@ -597,7 +597,7 @@
         "key2": "Lower Monumental Dam",
         "date": "1969",
         "NID_HEIGHT": 226,
-        "icon": "/images/Dams-crop/LowerMonumentalDam.png"
+        "icon": "images/Dams-crop/LowerMonumentalDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -611,7 +611,7 @@
         "key2": "Little Goose Dam",
         "date": "1970",
         "NID_HEIGHT": 226,
-        "icon": "/images/Dams-crop/LittleGooseDam.png"
+        "icon": "images/Dams-crop/LittleGooseDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -625,7 +625,7 @@
         "key2": "Dworshak Dam",
         "date": "1973",
         "NID_HEIGHT": 717,
-        "icon": "/images/Dams-crop/DworshakDam.png"
+        "icon": "images/Dams-crop/DworshakDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -639,7 +639,7 @@
         "key2": "Lower Granite Dam",
         "date": "1975",
         "NID_HEIGHT": 228,
-        "icon": "/images/Dams-crop/LowerGraniteDam.png"
+        "icon": "images/Dams-crop/LowerGraniteDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -653,7 +653,7 @@
         "key2": "American Falls Dam",
         "date": "1977",
         "NID_HEIGHT": 103.5,
-        "icon": "/images/Dams-crop/AmericanFallsDam.png"
+        "icon": "images/Dams-crop/AmericanFallsDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -667,7 +667,7 @@
         "key2": "Seven Mile Dam",
         "date": "1978",
         "NID_HEIGHT": 179,
-        "icon": "/images/Dams-crop/SevenMileDam.png"
+        "icon": "images/Dams-crop/SevenMileDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -681,7 +681,7 @@
         "key2": "Revelstoke Dam",
         "date": "1984",
         "NID_HEIGHT": 179,
-        "icon": "/images/Dams-crop/RevelstokeDam.png"
+        "icon": "images/Dams-crop/RevelstokeDam.png"
       },
       "geometry": {
         "type": "Point",

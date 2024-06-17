@@ -16,7 +16,7 @@
         "text1": "1901",
         "NID_HEIGHT": 107,
         "wiki_entry": "",
-        "icon": "/images/Dams-crop/SwanFallsDam.png"
+        "icon": "images/Dams-crop/SwanFallsDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -31,7 +31,7 @@
         "text1": "1905",
         "NID_HEIGHT": 86,
         "wiki_entry": "",
-        "icon": "/images/Dams-crop/MinidokaDam.png"
+        "icon": "images/Dams-crop/MinidokaDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -46,7 +46,7 @@
         "text1": "1905",
         "NID_HEIGHT": 78,
         "wiki_entry": "",
-        "icon": "/images/Dams-crop/MilnerDam.png"
+        "icon": "images/Dams-crop/MilnerDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -61,7 +61,7 @@
         "text1": "1911",
         "NID_HEIGHT": 68,
         "wiki_entry": "",
-        "icon": "/images/Dams-crop/JacksonLakeDam.png"
+        "icon": "images/Dams-crop/JacksonLakeDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -76,7 +76,7 @@
         "text1": "1914",
         "NID_HEIGHT": 350,
         "wiki_entry": "",
-        "icon": "/images/Dams-crop/ArrowrockDam.png"
+        "icon": "images/Dams-crop/ArrowrockDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -91,7 +91,7 @@
         "text1": "1930",
         "NID_HEIGHT": 165,
         "wiki_entry": "",
-        "icon": "/images/Dams-crop/DeadwoodDam.png"
+        "icon": "images/Dams-crop/DeadwoodDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -106,7 +106,7 @@
         "text1": "1932",
         "NID_HEIGHT": 128,
         "wiki_entry": "",
-        "icon": "/images/Dams-crop/RockIslandDam.png"
+        "icon": "images/Dams-crop/RockIslandDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -121,7 +121,7 @@
         "text1": "1937",
         "NID_HEIGHT": 197,
         "wiki_entry": "",
-        "icon": "/images/Dams-crop/BonnevilleDam.png"
+        "icon": "images/Dams-crop/BonnevilleDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -136,7 +136,7 @@
         "text1": "1937",
         "NID_HEIGHT": 85,
         "wiki_entry": "",
-        "icon": "/images/Dams-crop/UpperSalmonFallsDam.png"
+        "icon": "images/Dams-crop/UpperSalmonFallsDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -151,7 +151,7 @@
         "text1": "1939",
         "NID_HEIGHT": 194,
         "wiki_entry": "",
-        "icon": "/images/Dams-crop/SelisKsankaQlispe.png"
+        "icon": "images/Dams-crop/SelisKsankaQlispe.png"
       },
       "geometry": {
         "type": "Point",
@@ -167,7 +167,7 @@
         "text1": "1940",
         "text2": "Idled: 1985",
         "wiki_entry": "",
-        "icon": "/images/Dams-crop/AlcoaVancouverSmelter.png"
+        "icon": "images/Dams-crop/AlcoaVancouverSmelter.png"
       },
       "geometry": {
         "type": "Point",
@@ -183,7 +183,7 @@
         "text1": "1941",
         "text2": "Idled: 2000",
         "wiki_entry": "",
-        "icon": "/images/Dams-crop/ReynoldsMetalsAluminumLongview.png"
+        "icon": "images/Dams-crop/ReynoldsMetalsAluminumLongview.png"
       },
       "geometry": {
         "type": "Point",
@@ -199,7 +199,7 @@
         "text1": "1941",
         "text2": "Idled: 2000",
         "wiki_entry": "",
-        "icon": "/images/Dams-crop/ReynoldsMetalsTroutdale.png"
+        "icon": "images/Dams-crop/ReynoldsMetalsTroutdale.png"
       },
       "geometry": {
         "type": "Point",
@@ -214,7 +214,7 @@
         "text1": "1941",
         "NID_HEIGHT": 550,
         "wiki_entry": "",
-        "icon": "/images/Dams-crop/GrandCouleeDam.png"
+        "icon": "images/Dams-crop/GrandCouleeDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -230,7 +230,7 @@
         "text1": "1942",
         "text2": "Idled: 1978",
         "wiki_entry": "",
-        "icon": "/images/Dams-crop/KaiserMeadSpokane.png"
+        "icon": "images/Dams-crop/KaiserMeadSpokane.png"
       },
       "geometry": {
         "type": "Point",
@@ -245,7 +245,7 @@
         "text1": "1946",
         "NID_HEIGHT": 456,
         "wiki_entry": "",
-        "icon": "/images/Dams-crop/AndersonRanchDam.png"
+        "icon": "images/Dams-crop/AndersonRanchDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -260,7 +260,7 @@
         "text1": "1947",
         "NID_HEIGHT": 107,
         "wiki_entry": "",
-        "icon": "/images/Dams-crop/CascadeDam.png"
+        "icon": "images/Dams-crop/CascadeDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -275,7 +275,7 @@
         "text1": "1952",
         "NID_HEIGHT": 564,
         "wiki_entry": "",
-        "icon": "/images/Dams-crop/HungryHorseDam.png"
+        "icon": "images/Dams-crop/HungryHorseDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -290,7 +290,7 @@
         "text1": "1952",
         "NID_HEIGHT": 115,
         "wiki_entry": "",
-        "icon": "/images/Dams-crop/CJStrikeDam.png"
+        "icon": "images/Dams-crop/CJStrikeDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -305,7 +305,7 @@
         "text1": "1954",
         "NID_HEIGHT": 220,
         "wiki_entry": "Wikipedia entry <a href='McNary_Dam'>here</a>",
-        "icon": "/images/Dams-crop/McNaryDam.png"
+        "icon": "images/Dams-crop/McNaryDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -320,7 +320,7 @@
         "text1": "1954",
         "NID_HEIGHT": 179,
         "wiki_entry": "",
-        "icon": "/images/Dams-crop/WanetaDam.png"
+        "icon": "images/Dams-crop/WanetaDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -335,7 +335,7 @@
         "text1": "1955",
         "NID_HEIGHT": 340,
         "wiki_entry": "",
-        "icon": "/images/Dams-crop/LuckyPeakDam.png"
+        "icon": "images/Dams-crop/LuckyPeakDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -351,7 +351,7 @@
         "text1": "1955",
         "text2": "Idled: 2009",
         "wiki_entry": "",
-        "icon": "/images/Dams-crop/AnacondaColumbiaFalls.png"
+        "icon": "images/Dams-crop/AnacondaColumbiaFalls.png"
       },
       "geometry": {
         "type": "Point",
@@ -366,7 +366,7 @@
         "text1": "1955",
         "NID_HEIGHT": 230,
         "wiki_entry": "",
-        "icon": "/images/Dams-crop/ChiefJosephDam.png"
+        "icon": "images/Dams-crop/ChiefJosephDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -381,7 +381,7 @@
         "text1": "1955",
         "NID_HEIGHT": 180,
         "wiki_entry": "",
-        "icon": "/images/Dams-crop/AlbeniFallsDam.png"
+        "icon": "images/Dams-crop/AlbeniFallsDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -396,7 +396,7 @@
         "text1": "1956",
         "NID_HEIGHT": 270,
         "wiki_entry": "",
-        "icon": "/images/Dams-crop/PalisadesDam.png"
+        "icon": "images/Dams-crop/PalisadesDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -411,7 +411,7 @@
         "text1": "1957",
         "NID_HEIGHT": 200,
         "wiki_entry": "",
-        "icon": "/images/Dams-crop/TheDallesDam.png"
+        "icon": "images/Dams-crop/TheDallesDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -427,7 +427,7 @@
         "text1": null,
         "Idled": null,
         "wiki_entry": "",
-        "icon": "/images/Dams-crop/AlcoaWenatchee.png"
+        "icon": "images/Dams-crop/AlcoaWenatchee.png"
       },
       "geometry": {
         "type": "Point",
@@ -442,7 +442,7 @@
         "text1": "1958",
         "NID_HEIGHT": 415,
         "wiki_entry": "",
-        "icon": "/images/Dams-crop/BrownleeDam.png"
+        "icon": "images/Dams-crop/BrownleeDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -458,7 +458,7 @@
         "text1": "1958",
         "text2": "Idled: 1987",
         "wiki_entry": "",
-        "icon": "/images/Dams-crop/MartinMariettaAluminum.png"
+        "icon": "images/Dams-crop/MartinMariettaAluminum.png"
       },
       "geometry": {
         "type": "Point",
@@ -473,7 +473,7 @@
         "text1": "1960",
         "NID_HEIGHT": 179,
         "wiki_entry": "",
-        "icon": "/images/Dams-crop/NoxonRapidsDam.png"
+        "icon": "images/Dams-crop/NoxonRapidsDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -488,7 +488,7 @@
         "text1": "1961",
         "NID_HEIGHT": 175,
         "wiki_entry": "",
-        "icon": "/images/Dams-crop/OxbowDam.png"
+        "icon": "images/Dams-crop/OxbowDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -503,7 +503,7 @@
         "text1": "1961",
         "NID_HEIGHT": 187,
         "wiki_entry": "",
-        "icon": "/images/Dams-crop/PriestRapidsDam.png"
+        "icon": "images/Dams-crop/PriestRapidsDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -518,7 +518,7 @@
         "text1": "1962",
         "NID_HEIGHT": 130,
         "wiki_entry": "",
-        "icon": "/images/Dams-crop/RockyReachDam.png"
+        "icon": "images/Dams-crop/RockyReachDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -533,7 +533,7 @@
         "text1": "1962",
         "NID_HEIGHT": 208,
         "wiki_entry": "",
-        "icon": "/images/Dams-crop/IceHarborDam.png"
+        "icon": "images/Dams-crop/IceHarborDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -548,7 +548,7 @@
         "text1": "1965",
         "NID_HEIGHT": 205.5,
         "wiki_entry": "",
-        "icon": "/images/Dams-crop/WanapumDam.png"
+        "icon": "images/Dams-crop/WanapumDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -563,7 +563,7 @@
         "text1": "1967",
         "NID_HEIGHT": 330,
         "wiki_entry": "",
-        "icon": "/images/Dams-crop/HellsCanyonDam.png"
+        "icon": "images/Dams-crop/HellsCanyonDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -578,7 +578,7 @@
         "text1": "1968",
         "NID_HEIGHT": 160,
         "wiki_entry": "",
-        "icon": "/images/Dams-crop/WellsDam.png"
+        "icon": "images/Dams-crop/WellsDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -593,7 +593,7 @@
         "text1": "1968",
         "NID_HEIGHT": 179,
         "wiki_entry": "",
-        "icon": "/images/Dams-crop/HughKeenleysideDam.png"
+        "icon": "images/Dams-crop/HughKeenleysideDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -608,7 +608,7 @@
         "text1": "1968",
         "NID_HEIGHT": 230,
         "wiki_entry": "",
-        "icon": "/images/Dams-crop/JohnDayDam.png"
+        "icon": "images/Dams-crop/JohnDayDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -624,7 +624,7 @@
         "text1": "1969",
         "text2": "Idled: 2003",
         "wiki_entry": "",
-        "icon": "/images/Dams-crop/ColumbiaGorgeAluminumGoldendale.png"
+        "icon": "images/Dams-crop/ColumbiaGorgeAluminumGoldendale.png"
       },
       "geometry": {
         "type": "Point",
@@ -639,7 +639,7 @@
         "text1": "1969",
         "NID_HEIGHT": 226,
         "wiki_entry": "",
-        "icon": "/images/Dams-crop/LowerMonumentalDam.png"
+        "icon": "images/Dams-crop/LowerMonumentalDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -654,7 +654,7 @@
         "text1": "1970",
         "NID_HEIGHT": 226,
         "wiki_entry": "",
-        "icon": "/images/Dams-crop/LittleGooseDam.png"
+        "icon": "images/Dams-crop/LittleGooseDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -669,7 +669,7 @@
         "text1": "1973",
         "NID_HEIGHT": 717,
         "wiki_entry": "",
-        "icon": "/images/Dams-crop/DworshakDam.png"
+        "icon": "images/Dams-crop/DworshakDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -684,7 +684,7 @@
         "text1": "1975",
         "NID_HEIGHT": 228,
         "wiki_entry": "",
-        "icon": "/images/Dams-crop/LowerGraniteDam.png"
+        "icon": "images/Dams-crop/LowerGraniteDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -699,7 +699,7 @@
         "text1": "1977",
         "NID_HEIGHT": 103.5,
         "wiki_entry": "",
-        "icon": "/images/Dams-crop/AmericanFallsDam.png"
+        "icon": "images/Dams-crop/AmericanFallsDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -714,7 +714,7 @@
         "text1": "1978",
         "NID_HEIGHT": 179,
         "wiki_entry": "",
-        "icon": "/images/Dams-crop/SevenMileDam.png"
+        "icon": "images/Dams-crop/SevenMileDam.png"
       },
       "geometry": {
         "type": "Point",
@@ -729,7 +729,7 @@
         "text1": "1984",
         "NID_HEIGHT": 179,
         "wiki_entry": "",
-        "icon": "/images/Dams-crop/RevelstokeDam.png"
+        "icon": "images/Dams-crop/RevelstokeDam.png"
       },
       "geometry": {
         "type": "Point",

@@ -49,7 +49,7 @@
     <Accordion :open="false">
       <h3 slot="header">legends</h3>
       <div class="flex">
-        <img src="/images/Chinook_Salmon.png" class="fullwidth" />
+        <img src="images/Chinook_Salmon.png" class="fullwidth" />
       </div>
     </Accordion>
     <br />

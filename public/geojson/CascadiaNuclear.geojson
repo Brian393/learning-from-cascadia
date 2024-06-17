@@ -11,7 +11,7 @@
       "properties": {
         "Country": "United States",
         "title": "Columbia Generating Station",
-        "image": "<img src='/cascadia/images/ColumbiaGeneratingStation.jpg'>",
+        "image": "<img src='cascadia/images/ColumbiaGeneratingStation.jpg'>",
         "text3": "Owner: Energy Northwest",
         "Operator": null,
         "Latitude": 46.4711,

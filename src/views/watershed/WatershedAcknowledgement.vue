@@ -3,12 +3,12 @@
     <div class="title">
       <h1>Acknowledgement<br />of land and language</h1>
     </div>
-    <img src="/images/falls.jpg" class="fullwidth" />
+    <img src="images/falls.jpg" class="fullwidth" />
     <div class="caption">first name still unknown</div>
 
     <p>
       <br /><audio controls>
-        <source src="/audio/Acknowledgement.mp3" type="audio/mpeg" />
+        <source src="audio/Acknowledgement.mp3" type="audio/mpeg" />
         Your browser does not support the audio element.</audio
       ><br /><br />
     </p>

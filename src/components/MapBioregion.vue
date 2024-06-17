@@ -128,7 +128,7 @@ export default {
       return [
         ...this.baseLayers,
         this.makeGeoJSONLineVectorLayer(
-          "/geojson/Chinook.geojson",
+          "geojson/Chinook.geojson",
           10,
           4000,
           "rgba(0,0,240, 0.01)",
@@ -152,7 +152,7 @@ export default {
       return [
         ...this.baseLayers,
         this.makeGeoJSONLineVectorLayer(
-          "/geojson/Chum.geojson",
+          "geojson/Chum.geojson",
           10,
           4000,
           "rgba(0,0,240, 0.01)",
@@ -164,7 +164,7 @@ export default {
       return [
         ...this.baseLayers,
         this.makeGeoJSONLineVectorLayer(
-          "/geojson/Sockeye.geojson",
+          "geojson/Sockeye.geojson",
           10,
           4000,
           "rgba(0,0,240, 0.01)",
@@ -176,7 +176,7 @@ export default {
       return [
         ...this.baseLayers,
         this.makeGeoJSONLineVectorLayer(
-          "/geojson/Pink.geojson",
+          "geojson/Pink.geojson",
           10,
           4000,
           "rgba(0,0,240, 0.01)",
@@ -285,7 +285,7 @@ export default {
           maxResolution: 400,
         }),
         this.makeGeoJSONPointVectorLayerWithStyle(
-          "/geojson/Deconstruction.geojson",
+          "geojson/Deconstruction.geojson",
           null,
           2,
           32000,
@@ -524,7 +524,7 @@ export default {
       const bioregionDancingLayersAnimation = [
         ...this.baseLayers,
         this.makeGeoJSONLineVectorLayer(
-          "/geojson/Mileage.geojson",
+          "geojson/Mileage.geojson",
           10,
           4000,
           "rgba(255, 0, 0, 0)",

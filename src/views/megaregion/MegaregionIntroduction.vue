@@ -37,27 +37,27 @@
       <h3 slot="header">legends</h3>
       <div class="flex">
         <div>
-          <img src="/icons/legends/urbangrid.png" />
+          <img src="icons/legends/urbangrid.png" />
           Urban grid
         </div>
         <div>
-          <img src="/icons/legends/substation.png" />
+          <img src="icons/legends/substation.png" />
           Electric substation
         </div>
         <div>
-          <img src="/icons/legends/transmission.png" />
+          <img src="icons/legends/transmission.png" />
           Transmission line
         </div>
         <div>
-          <img src="/icons/legends/traffic.png" />
+          <img src="icons/legends/traffic.png" />
           Automobile traffic
         </div>
         <div>
-          <img src="/icons/legends/railroad.png" />
+          <img src="icons/legends/railroad.png" />
           Railroad line
         </div>
         <div>
-          <img src="/icons/legends/lights.png" />
+          <img src="icons/legends/lights.png" />
           Earth at night
         </div>
         <div class="legendtext">
@@ -212,7 +212,7 @@ export default {
     return {
       megaImages: [
         {
-          src: "/images/CascadiaMegaregionFullsize.jpg",
+          src: "images/CascadiaMegaregionFullsize.jpg",
         },
       ],
     };

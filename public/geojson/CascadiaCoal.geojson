@@ -11,7 +11,7 @@
       "properties": {
         "Country": "United States",
         "title": "Boardman Coal Plant",
-        "image": "<img src='/cascadia/images/BoardmanCoalPlant.jpg'>",
+        "image": "<img src='cascadia/images/BoardmanCoalPlant.jpg'>",
         "text3": "Owner: Portland General Electric Co<br>\"The plant currently accounts for 65% of stationary SO2 emissions, and 7% of CO2 emissions in Oregon.\"<br>Wikipedia article <a href='https://en.wikipedia.org/wiki/Boardman_Coal_Plant' target='_blank'>here.</a>",
         "Operator": null,
         "Latitude": 45.693182,
@@ -49,7 +49,7 @@
       "properties": {
         "Country": "United States",
         "title": "Transalta Centralia Generation",
-        "image": "<img src='/cascadia/images/TransaltaCentraliaGeneration.jpg'>",
+        "image": "<img src='cascadia/images/TransaltaCentraliaGeneration.jpg'>",
         "text3": "Owner: TransAlta Centralia Gen LLC<br>Source Watch article <a href='https://www.sourcewatch.org/index.php/Centralia_Power_Plant' target='_blank'>here</a>.",
         "Operator": null,
         "Latitude": 46.755938,

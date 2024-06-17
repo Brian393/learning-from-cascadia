@@ -39,7 +39,7 @@
       Racism)
     </h3>
     <br />
-    <img src="/images/Redface.jpg" class="fullwidth" />
+    <img src="images/Redface.jpg" class="fullwidth" />
     <br />
     <div class="caption">ARROWHEAD intervention at PNCA, Sara Siestreem</div>
     <br />
@@ -98,7 +98,7 @@
       carvings for as long as I am permitted to.
     </p>
 
-    <img src="/images/Hallway.jpg" class="fullwidth" />
+    <img src="images/Hallway.jpg" class="fullwidth" />
 
     <p>
       There is a certain safety to look at these historical instances because
@@ -193,7 +193,7 @@
       and speak with their board about it. They said they would get back to me.
     </p>
 
-    <img src="/images/the_arrowhead-sm.jpg" class="fullwidth" />
+    <img src="images/the_arrowhead-sm.jpg" class="fullwidth" />
     <AppLightBox :images="megaImages">click for enlargement</AppLightBox>
 
     <br />
@@ -231,7 +231,7 @@ export default {
     return {
       megaImages: [
         {
-          src: "/images/the_arrowhead.jpg",
+          src: "images/the_arrowhead.jpg",
         },
       ],
     };

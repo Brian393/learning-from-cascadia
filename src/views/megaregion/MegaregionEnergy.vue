@@ -3,7 +3,7 @@
     <div class="title">
       <h1>Turn on all the lights</h1>
     </div>
-    <img src="/images/HighVoltageTower-sm.jpg" class="fullwidth" />
+    <img src="images/HighVoltageTower-sm.jpg" class="fullwidth" />
     <div class="caption">
       High-tension tower (<a
         href="http://www.pxleyes.com/photography-picture/4ca6f763f307c/High-voltage-tower.html"
@@ -18,27 +18,27 @@
       <h3 slot="header">legends</h3>
       <div class="flex">
         <div>
-          <img src="/icons/coal.png" />
+          <img src="icons/coal.png" />
           Coal-fired plant
         </div>
         <div>
-          <img src="/icons/dam.png" />
+          <img src="icons/dam.png" />
           Hydroelectric dam
         </div>
         <div>
-          <img src="/icons/natgas.png" />
+          <img src="icons/natgas.png" />
           Natural gas generator
         </div>
         <div>
-          <img src="/icons/nukes.png" />
+          <img src="icons/nukes.png" />
           Nuclear plant
         </div>
         <div>
-          <img src="/icons/wind.png" />
+          <img src="icons/wind.png" />
           Wind turbine
         </div>
         <div>
-          <img src="/icons/legends/BPAarea.png" />
+          <img src="icons/legends/BPAarea.png" />
           BPA service area
         </div>
       </div>
@@ -70,7 +70,7 @@
       metropolitan centers.<br /><br />
     </p>
 
-    <p><img src="/images/BonnevilleNorthPowerhouse.jpg" class="fullwidth" /></p>
+    <p><img src="images/BonnevilleNorthPowerhouse.jpg" class="fullwidth" /></p>
 
     <p>
       <br />The majority of the plants lie within the bounds of a single
@@ -152,7 +152,7 @@ export default {
     return {
       megaImages: [
         {
-          src: "/images/CascadiaMegaregionFullsize.jpg",
+          src: "images/CascadiaMegaregionFullsize.jpg",
         },
       ],
     };

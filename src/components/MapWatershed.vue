@@ -142,15 +142,15 @@ export default {
       return [
         ...this.watershedBaseLayers,
         this.makeGeoJSONPointVectorLayer(
-          "/geojson/stopped.geojson",
-          "/icons/stop.png",
+          "geojson/stopped.geojson",
+          "icons/stop.png",
           null,
           2,
           32000
         ),
         this.makeGeoJSONPointVectorLayer(
-          "/geojson/planned.geojson",
-          "/icons/stopit.png",
+          "geojson/planned.geojson",
+          "icons/stopit.png",
           null,
           2,
           32000
@@ -161,7 +161,7 @@ export default {
       return [
         ...this.watershedBaseLayers,
         this.makeGeoJSONPointVectorLayerWithStyle(
-          "/geojson/watershedDamsAll.geojson",
+          "geojson/watershedDamsAll.geojson",
           null,
           2,
           32000,
@@ -173,56 +173,56 @@ export default {
       return [
         ...this.watershedBaseLayers,
         this.makeGeoJSONPointVectorLayer(
-          "/geojson/Falls/Celilo.geojson",
-          "/images/Falls/Celilo.png",
+          "geojson/Falls/Celilo.geojson",
+          "images/Falls/Celilo.png",
           null,
           2,
           32000,
           1
         ),
         this.makeGeoJSONPointVectorLayer(
-          "/geojson/Falls/KettleFalls.geojson",
-          "/images/Falls/KettleFalls.png",
+          "geojson/Falls/KettleFalls.geojson",
+          "images/Falls/KettleFalls.png",
           null,
           2,
           32000,
           1
         ),
         this.makeGeoJSONPointVectorLayer(
-          "/geojson/Falls/PriestRapids.geojson",
-          "/images/Falls/PriestRapids.png",
+          "geojson/Falls/PriestRapids.geojson",
+          "images/Falls/PriestRapids.png",
           null,
           2,
           32000,
           1
         ),
         this.makeGeoJSONPointVectorLayer(
-          "/geojson/Falls/UmatillaRapids.geojson",
-          "/images/Falls/UmatillaRapids.png",
+          "geojson/Falls/UmatillaRapids.geojson",
+          "images/Falls/UmatillaRapids.png",
           null,
           2,
           32000,
           1
         ),
         this.makeGeoJSONPointVectorLayer(
-          "/geojson/Falls/SpokaneFalls.geojson",
-          "/images/Falls/SpokaneFalls.png",
+          "geojson/Falls/SpokaneFalls.geojson",
+          "images/Falls/SpokaneFalls.png",
           null,
           2,
           32000,
           1
         ),
         this.makeGeoJSONPointVectorLayer(
-          "/geojson/Falls/WillametteFalls.geojson",
-          "/images/Falls/WillametteFalls.png",
+          "geojson/Falls/WillametteFalls.geojson",
+          "images/Falls/WillametteFalls.png",
           null,
           2,
           32000,
           1
         ),
         this.makeGeoJSONPointVectorLayer(
-          "/geojson/Falls/Cascades.geojson",
-          "/images/Falls/CascadesRapids.png",
+          "geojson/Falls/Cascades.geojson",
+          "images/Falls/CascadesRapids.png",
           null,
           2,
           32000,
@@ -234,7 +234,7 @@ export default {
       return [
         ...this.watershedBaseLayers,
         this.makeGeoJSONPointVectorLayerWithStyle(
-          "/geojson/watershedDamsRemoval.geojson",
+          "geojson/watershedDamsRemoval.geojson",
           null,
           2,
           32000,
@@ -278,7 +278,7 @@ export default {
           maxResolution: 80,
         }),
         this.makeGeoJSONFillVectorLayer(
-          "/geojson/HanfordLabels.geojson",
+          "geojson/HanfordLabels.geojson",
           1,
           80,
           "rgba(60, 20, 20, 0.0)",
@@ -449,8 +449,8 @@ export default {
       const WatershedDamsLayersAnimation = [
         ...this.watershedBaseLayers,
         this.makeGeoJSONPointVectorLayer(
-          "/geojson/watershedDamsTransformation.geojson",
-          "/icons/damOther.png",
+          "geojson/watershedDamsTransformation.geojson",
+          "icons/damOther.png",
           null,
           2,
           32000,
@@ -523,8 +523,8 @@ export default {
       const WatershedDamsLayersAnimation = [
         ...this.watershedBaseLayers,
         this.makeGeoJSONPointVectorLayer(
-          "/geojson/watershedDamsRemoval.geojson",
-          "/icons/damOther.png",
+          "geojson/watershedDamsRemoval.geojson",
+          "icons/damOther.png",
           null,
           2,
           32000,

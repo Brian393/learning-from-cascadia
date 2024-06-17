@@ -128,7 +128,7 @@ export default {
     return {
       megaImages: [
         {
-          src: "/images/CascadiaMegaregionFullsize.jpg",
+          src: "images/CascadiaMegaregionFullsize.jpg",
         },
       ],
     };

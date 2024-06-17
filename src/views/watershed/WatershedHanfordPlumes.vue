@@ -12,7 +12,7 @@
       <h1>The consequences</h1>
     </div>
     <div class="video">
-      <img src="/images/WasteTankInside.jpg" class="fullwidth" />
+      <img src="images/WasteTankInside.jpg" class="fullwidth" />
     </div>
     <div class="caption">Inside a Hanford waste tank</div>
     <br />
@@ -22,43 +22,43 @@
       <div class="flex">
         <p style="height: 45px">
           <strong>Nitrate</strong><br /><img
-            src="/icons/legends/Nitrates_1.png"
-          /><img src="/icons/legends/Nitrates_2.png" /><br /><span
+            src="icons/legends/Nitrates_1.png"
+          /><img src="icons/legends/Nitrates_2.png" /><br /><span
             style="font-size: 80%"
             >45,000 &nbsp;/&nbsp; 450,000 micrograms / liter</span
           >
         </p>
         <p style="height: 45px">
           <strong>Iodine-129</strong><br /><img
-            src="/icons/legends/Iodine-129.png"
-          /><img src="/icons/legends/Iodine-129_2.png" /><br /><span
+            src="icons/legends/Iodine-129.png"
+          /><img src="icons/legends/Iodine-129_2.png" /><br /><span
             style="font-size: 80%"
             >1 &nbsp;/&nbsp; 10 pico-curies / liter</span
           >
         </p>
         <p style="height: 45px">
           <strong>Technetium-99</strong><br /><img
-            src="/icons/legends/Technetium-99_1.png"
-          /><img src="/icons/legends/Technetium-99_2.png" /><br /><span
+            src="icons/legends/Technetium-99_1.png"
+          /><img src="icons/legends/Technetium-99_2.png" /><br /><span
             style="font-size: 80%"
             >900 &nbsp;/&nbsp; 9000 pico-curies / liter</span
           >
         </p>
         <p style="height: 45px">
           <strong>Hexavalent chromium</strong><br /><img
-            src="/icons/legends/HexavalentChromium_1.png"
-          /><img src="/icons/legends/HexavalentChromium_2.png" /><img
-            src="/icons/legends/HexavalentChromium_3.png"
+            src="icons/legends/HexavalentChromium_1.png"
+          /><img src="icons/legends/HexavalentChromium_2.png" /><img
+            src="icons/legends/HexavalentChromium_3.png"
           /><br /><span style="font-size: 80%"
             >10 &nbsp;/&nbsp; 20 &nbsp;/&nbsp; 48-480 pico-curies / liter</span
           >
         </p>
         <p style="height: 45px">
           <strong>Carbon Tetrachloride</strong><br /><img
-            src="/icons/legends/CarbonTetrachloride_1.png"
-          /><img src="/icons/legends/CarbonTetrachloride_2.png" /><img
-            src="/icons/legends/CarbonTetrachloride_3.png"
-          /><img src="/icons/legends/CarbonTetrachloride_4.png" /><br /><span
+            src="icons/legends/CarbonTetrachloride_1.png"
+          /><img src="icons/legends/CarbonTetrachloride_2.png" /><img
+            src="icons/legends/CarbonTetrachloride_3.png"
+          /><img src="icons/legends/CarbonTetrachloride_4.png" /><br /><span
             style="font-size: 80%"
             >5 &nbsp;/&nbsp; 50 &nbsp;/&nbsp; 500 &nbsp;/&nbsp; 1000 micrograms
             / liter</span
@@ -66,10 +66,10 @@
         </p>
         <p style="height: 45px">
           <strong>Strontium-90</strong><br /><img
-            src="/icons/legends/Strontium_1.png"
-          /><img src="/icons/legends/Strontium_2.png" /><img
-            src="/icons/legends/Strontium_3.png"
-          /><img src="/icons/legends/Strontium_4.png" /><br /><span
+            src="icons/legends/Strontium_1.png"
+          /><img src="icons/legends/Strontium_2.png" /><img
+            src="icons/legends/Strontium_3.png"
+          /><img src="icons/legends/Strontium_4.png" /><br /><span
             style="font-size: 80%"
             >8 &nbsp;/&nbsp; 80 &nbsp;/&nbsp; 800 &nbsp;/&nbsp; 8000 pico-curies
             / liter</span
@@ -87,7 +87,7 @@
 
     <p>
       <audio controls>
-        <source src="/audio/Plumes.mp3" type="audio/mpeg" />
+        <source src="audio/Plumes.mp3" type="audio/mpeg" />
         Your browser does not support the audio element.</audio
       ><br /><br />
     </p>
@@ -133,7 +133,7 @@
       until 2036&mdash;if ever, according to more skeptical evaluations.
     </p>
 
-    <img src="/images/WasteTank.jpg" class="fullwidth" />
+    <img src="images/WasteTank.jpg" class="fullwidth" />
     <div class="caption">Hanford waste tank under construction</div>
 
     <p>
@@ -184,7 +184,7 @@
       </p>
     </div>
 
-    <img src="/images/TankWorkers.jpg" class="fullwidth" />
+    <img src="images/TankWorkers.jpg" class="fullwidth" />
     <div class="caption">Tank workers at Hanford's C-farm</div>
 
     <p>
@@ -219,7 +219,7 @@
       their cars, carrying the contamination back to their homes and families.
     </p>
 
-    <img src="/images/PFPworkers.jpg" class="fullwidth" />
+    <img src="images/PFPworkers.jpg" class="fullwidth" />
     <div class="caption">Demolition of Plutionium Finishing Plant</div>
 
     <p>
@@ -320,7 +320,7 @@ export default {
     return {
       megaImages: [
         {
-          src: "/images/CascadiaMegaregionFullsize.jpg",
+          src: "images/CascadiaMegaregionFullsize.jpg",
         },
       ],
     };

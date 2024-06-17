@@ -123,7 +123,7 @@
       >).
     </p>
 
-    <img src="/images/cache-seven-2.jpg" class="fullwidth" />
+    <img src="images/cache-seven-2.jpg" class="fullwidth" />
     <div class="caption"><em>Cache VII</em>, Sara Siestreem, PNCA 2018</div>
 
     <p>
@@ -185,7 +185,7 @@
       showing you how to love us without trespass.
     </p>
 
-    <img src="/images/Ceiling.jpg" class="fullwidth" />
+    <img src="images/Ceiling.jpg" class="fullwidth" />
 
     <p>
       I gathered this cache of weaving materials in the Columbia River

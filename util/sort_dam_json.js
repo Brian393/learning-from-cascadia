@@ -47,19 +47,19 @@ allFeatures.map((f) => {
 // });
 
 aluminum.features.map((f) => {
-  f.properties["icon"] = "/icons/aluminum.png";
+  f.properties["icon"] = "icons/aluminum.png";
   return f;
 });
 otherDams.features.map((f) => {
-  f.properties["icon"] = "/icons/damOther.png";
+  f.properties["icon"] = "icons/damOther.png";
   return f;
 });
 bureau.features.map((f) => {
-  f.properties["icon"] = "/icons/damBR.png";
+  f.properties["icon"] = "icons/damBR.png";
   return f;
 });
 armyCorps.features.map((f) => {
-  f.properties["icon"] = "/icons/damAC.png";
+  f.properties["icon"] = "icons/damAC.png";
   return f;
 });
 
