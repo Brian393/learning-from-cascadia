@@ -41,9 +41,8 @@
     </div>
     <div class="caption">Vanport Flood</div>
     <br />
-
+    <div class="accordion_title">legends</div>
     <Accordion :open="false">
-      <h3 slot="header">legends</h3>
       <div class="flex">
         <p>
           What you see is the plan of Vanport.<br /><br />Streets and plazas are
@@ -76,11 +75,11 @@
           >.
         </p>
       </div>
-    </Accordion>
+    </Accordion><br>
     <br />
 
     <p>
-      On May 30, 1948&mdash;it was Memorial Day, with everything ready for the
+      On May 30, 1948&mdash;on Memorial Day, with everything ready for the
       downtown parade&mdash;residents of the workers' town of Vanport awoke to
       an official handbill slipped beneath the door:
     </p>
@@ -130,7 +129,7 @@
     </p>
 
     <p>
-      At 4:17 pm the disaster struck. A railroad embankment separating Vanport
+      At 4:17 pm the river came knocking. A railroad embankment separating Vanport
       from Smith Lake gave way, as anyone could have predicted it would.
       Floodwaters from the Columbia River surged through the slough and into
       Vanport. The wall of water lifted entire buildings from the ground. In a
@@ -170,11 +169,24 @@
     <p>
       The flood tide of climate change advances, but remember just one thing.
       Dikes are safe at present. You will be warned if necessary. You will have
-      time to leave. So don't get excited. Vanport is everywhere. Life goes on.
+      time to leave. So don't get excited. Vanport is everywhere. Life under racial capitalism goes on.
     </p>
-    <br />
+    <br /><div class="video">
+      <iframe
+        width="350"
+        height="197"
+        src="https://player.vimeo.com/video/194912012?title=0&byline=0&portrait=0"
+        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%"
+        frameborder="0"
+        webkitallowfullscreen
+        mozallowfullscreen
+        allowfullscreen
+      ></iframe>
+    </div>
+    <div class="caption">The Making of The Vanport Mosaic Festival</div>
+    <br>
+    <div class="accordion_title">sources</div>
     <Accordion :open="false">
-      <h3 slot="header">sources</h3>
       <div class="flex">
         <div>
           <p>
@@ -184,11 +196,17 @@
               target="_blank"
               rel="nofollow"
               >click here</a
-            >.
+            >.<br><br>
+            All the videos on this page are from 
+            <a
+              href="https://www.vanportmosaic.org/"
+              target="_blank"
+              rel="nofollow"
+              >Vanport Mosaic</a>, a project to preserve and celebrate the memory of what was once Oregon's second-largest city.
           </p>
         </div>
       </div>
-    </Accordion>
+    </Accordion><br>
 
     <p></p>
   </div>

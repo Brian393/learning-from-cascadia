@@ -21,26 +21,19 @@
     <img src="images/Hanford/HanfordEmergency.gif" class="fullwidth" />
     <div class="caption">Something's always happening at Hanford</div>
     <br />
+    <div class="accordion_title">legends</div>
     <Accordion :open="false">
-      <h3 slot="header">legends</h3>
       <div class="flex">
         <p>
           This map uses a combination of satellite imagery and Lidar elevation
-          data to show the texture of the desert.
+          data to show the erasure of giant war machines.
         </p>
       </div>
-    </Accordion>
-
-    <p>
-      <audio controls>
-        <source src="audio/Hanford.mp3" type="audio/mpeg" />
-        Your browser does not support the audio element.</audio
-      ><br /><br />
-    </p>
+    </Accordion><br>
 
     <p>
       The Hanford Nuclear Reservation is an entombed landscape—a vast outdoor
-      monument to the madness of war and the overwhelming power of engineering.
+      monument to the madness of militarism and the overwhelming power of engineering.
     </p>
 
     <p>
@@ -49,10 +42,10 @@
       village of Hanford, like the other settlements surrounding it, was a
       tumbleweed town where hardscrabble farmers dreamt of irrigation schemes.
       In December of 1942 Lieutenant Colonel Frank Matthias planted his feet in
-      the dust and said it was good: a vast empty peninsula far from any urban
+      the dust and said it was good: a vast empty peninsula bathed by the
+      abundant cool waters of the Columbia River, far away from any urban
       center, but close to existing railroad tracks and high-tension lines from
-      the Bonneville and Grand Coulee dams, and bordered on two sides by the
-      abundant cool waters of the Columbia River.
+      the Bonneville and Grand Coulee dams.
     </p>
 
     <p>
@@ -72,8 +65,14 @@
       a huge mancamp, with a peak workforce of 45,000 people in June 1944. In
       less than two years the Du Pont workers would build, not only the B, D and
       F Reactors, but also vast arrays of storage tanks, pipeline systems,
-      underground railroad tracks and long, deep, canyonlike concrete buildings
-      where the nuclear fission products could be chemically separated, so as to
+      underground railroad tracks and 
+      <span
+        class="maplink"
+        @click="
+        emit('set-map-view', { center: [-119.5207, 46.5495], resolution: 0.25, minResolution: 0.25 })
+        "
+        >long, deep, canyonlike concrete buildings</span
+      > where the nuclear fission products could be chemically separated so as to
       yield purified plutonium. Remotely operated mechanisms and closed-circuit
       TV systems were invented for these separation processes, while small-batch
       tests requiring hand manipulation were performed in sealed gloveboxes with
@@ -101,7 +100,14 @@
       >
       secretly released approximately 8,000 curies of iodine-131, dispersed
       directly into the air. The resulting levels of atmospheric radiation could
-      then be compared with those of Ozersk, half a world away, where the
+      then be compared with those of 
+      <span
+        class="maplink"
+        @click="
+        emit('set-map-view', { center: [60.802, 55.696], resolution: 1.5, minResolution: 0.5 })
+        "
+        >Ozersk</span
+      >, half a world away, where the
       Soviets' plutonium facilities were located. By poisoning the Hanford area,
       the military obtained a yardstick with which to measure the opposing
       side's production.
@@ -110,7 +116,14 @@
     <p>
       Although it decays very rapidly, iodine-131 is among the most feared
       fission products, because it causes thyroid cancer. Untold numbers of
-      people were exposed, with vegetation samples at nearby Kennewick showing
+      people were exposed, with vegetation samples at nearby 
+      <span
+        class="maplink"
+        @click="
+        emit('set-map-view', { center: [-119.27, 46.295], resolution: 100, minResolution: 0.5 })
+        "
+        >Kennewick</span
+      > showing
       levels a thousand times higher than the recommended daily limit. Hanford
       "downwinders" and their survivors rightly point to this callous open-air
       experiment to prove government responsibility for their later health
@@ -127,7 +140,14 @@
       Most of the atomic piles were shut down by 1971, with the final closure of
       N Reactor in 1987. Today the old cores have been shrouded with simple
       construction materials for a proposed thirty-to-fifty year "cool-down"
-      period, with the exception of B Reactor which has been turned into a kind
+      period, with the exception of 
+      <span
+        class="maplink"
+        @click="
+        emit('set-map-view', { center: [-119.6475, 46.6303], resolution: 0.25, minResolution: 0.25 })
+        "
+        >B Reactor</span
+      >, which has been turned into a kind
       of museum. Yet Hanford is still a highly active and radioactive place,
       with a civilian nuclear power plant and research facilities on the site,
       as well as a plethora of rusting storage tanks, crumbling buildings,
@@ -138,10 +158,10 @@
     <p>
       These same conditions ensure a profusion of coveted clean-up jobs
       providing exceptionally high wages for scientists, engineers, staff and
-      simple laborers. The engineers in the offices have it made. The dangers
+      simple laborers. The engineers in the offices have it made. The extreme dangers
       that the workers encounter—such as the accidental inhalation of
-      concentrated gasrs vented from corroded storage tanks—are generally not
-      understood until the incidents occur.
+      concentrated gasrs vented from corroded storage tanks—are typically
+      underestimated until the incidents occur.
     </p>
 
     <p>
@@ -152,19 +172,6 @@
       Anthropocene.
     </p>
     <br />
-    <Accordion>
-      <h3 slot="header">sources</h3>
-      <p>Data sources for this page include:</p>
-      <p>-- <a href="" target="_blank" rel="nofollow"></a></p>
-      <p>-- <a href="" target="_blank" rel="nofollow"></a></p>
-      <p>-- <a href="" target="_blank" rel="nofollow"></a></p>
-      <p>-- <a href="" target="_blank" rel="nofollow"></a></p>
-      <p>-- <a href="" target="__blank"></a></p>
-      <p>-- <a href="" target="_blank" rel="nofollow"></a></p>
-      <p>-- <a href="" target="_blank" rel="nofollow"></a></p>
-      <p>-- <a href="" target="_blank" rel="nofollow"></a></p>
-      <br />
-    </Accordion>
   </div>
 </template>
 <style scoped>
@@ -199,6 +206,11 @@ export default {
         },
       ],
     };
+  },
+  methods: {
+    emit: function (method, args) {
+      this.$eventBus.emit(method, args);
+    },
   },
 };
 </script>

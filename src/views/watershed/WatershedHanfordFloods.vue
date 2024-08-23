@@ -14,9 +14,8 @@
     <img src="images/HanfordReach.jpg" class="fullwidth" />
     <div class="caption">Hanford Reach Natural Monument</div>
     <br />
-
+    <div class="accordion_title">legends</div>
     <Accordion :open="false">
-      <h3 slot="header">legends</h3>
       <div class="flex">
         <h3>A parable of Plutopia</h3>
         <br />In a basement under one of the beautiful public buildings of
@@ -89,14 +88,7 @@
           >Ursula K. Le Guin</a
         >
       </div>
-    </Accordion>
-
-    <p>
-      <audio controls>
-        <source src="audio/Floods.mp3" type="audio/mpeg" />
-        Your browser does not support the audio element.</audio
-      ><br /><br />
-    </p>
+    </Accordion><br>
 
     <p>
       Like the dams and the fossil-fuel system, Hanford is a legacy of
@@ -130,14 +122,20 @@
 
     <p>
       Let's take a temporal landmark with which inhabitants of the Pacific
-      Northwest have become somewhat familiar: the Ice Age Floods, whose
+      Northwest have become somewhat familiar: the 
+        <span
+        class="maplink"
+        @click="
+          emit('set-map-view', { center: [-119.012, 46.3], resolution: 900 })
+        "
+        >Ice Age Floods</span
+      >, whose
       violently rushing waters carved the Willamette Valley and the impressive
       canyons, mesas, and dry waterfalls of Washington's Channeled Scablands.
       The floods were released by the periodic collapse of ice dams that held
       back the meltwaters of glacial Lake Missoula. The inundations occurred
       some thirteen to fifteen thousand years ago, well before the domestication
-      of animals or the invention of agriculture. Zoom out to see the vast
-      extent of these tumultuous floods which entirely covered the Hanford site,
+      of animals or the invention of agriculture. These tumultuous floods entirely covered the Hanford site,
       not once but many times. Can we imagine what might happen to the remaining
       nuclear wastes in the next fifteen millennia&mdash;or even in the next 150
       years?
@@ -182,9 +180,14 @@
       engineered fences and barriers that may not withstand the test of time.
       This fragility matters a great deal, because in the future, people will
       clearly want to use this land for many reasons. In the Columbia
-      Riverkeeper report, Dan Serres stresses the high value that large tracts
-      of cleared land along a free-flowing stretch of the Columbia River will
-      hold for Native Americans in particular, and indeed, for everyone. Will
+      Riverkeeper report, Dan Serres stresses the high value that 
+        <span
+        class="maplink"
+        @click="
+          emit('set-map-view', { center: [-119.516, 46.715], resolution: 7 })
+        "
+        >large tracts of cleared land along a free-flowing stretch of the Columbia River</span
+      > will hold for Native Americans in particular, and indeed, for everyone. Will
       guards be funded, will fences remain standing, will future users of the
       site even notice rusting signs that once read DANGER or KEEP OUT?
     </p>
@@ -247,26 +250,6 @@
       decades will be remembered and lived every day by the seventh generation.
     </p>
     <br />
-    <Accordion :open="false">
-      <h3 slot="header">Hanford Challenge</h3>
-      <div class="flex">
-        <div ref="twttrHanfordC"></div>
-      </div>
-    </Accordion>
-    <Accordion>
-      <h3 slot="header">sources</h3>
-
-      <p>Data sources for this page include:</p>
-      <p>-- <a href="" target="_blank" rel="nofollow"></a></p>
-      <p>-- <a href="" target="_blank" rel="nofollow"></a></p>
-      <p>-- <a href="" target="_blank" rel="nofollow"></a></p>
-      <p>-- <a href="" target="_blank" rel="nofollow"></a></p>
-      <p>-- <a href="" target="__blank"></a></p>
-      <p>-- <a href="" target="_blank" rel="nofollow"></a></p>
-      <p>-- <a href="" target="_blank" rel="nofollow"></a></p>
-      <p>-- <a href="" target="_blank" rel="nofollow"></a></p>
-      <br />
-    </Accordion>
   </div>
 </template>
 <style scoped>
@@ -306,15 +289,6 @@ export default {
     emit: function (method, args) {
       this.$eventBus.emit(method, args);
     },
-  },
-  mounted: function () {
-    window?.twttr?.widgets.createTimeline(
-      {
-        sourceType: "url",
-        url: "https://twitter.com/HanfordC",
-      },
-      this.$refs.twttrHanfordC
-    );
   },
 };
 </script>

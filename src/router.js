@@ -109,35 +109,10 @@ const routes = [
     },
   },
   {
-    path: "/megaregion/vanport/mosaic",
-    name: "megaregionVanportMosaic",
-    components: {
-      default: () => import("./views/megaregion/MegaregionVanportMosaic.vue"),
-      map: MapMegaregion,
-    },
-  },
-  {
     path: "/megaregion/willamette",
     name: "megaregionWillamette",
     components: {
       default: () => import("./views/megaregion/MegaregionWillamette.vue"),
-      map: MapMegaregion,
-    },
-  },
-  {
-    path: "/megaregion/willamette/drone",
-    name: "megaregionWillametteDrone",
-    components: {
-      default: () => import("./views/megaregion/MegaregionWillametteDrone.vue"),
-      map: MapMegaregion,
-    },
-  },
-  {
-    path: "/megaregion/willamette/slough",
-    name: "megaregionWillametteSlough",
-    components: {
-      default: () =>
-        import("./views/megaregion/MegaregionWillametteSlough.vue"),
       map: MapMegaregion,
     },
   },

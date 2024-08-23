@@ -205,22 +205,6 @@ export default {
             href: "/watershed/hanford/floods",
           },
         ],
-        vanport: [
-          {
-            name: "Vanport Mosaic",
-            href: "/megaregion/vanport/mosaic",
-          },
-        ],
-        willamette: [
-          {
-            name: "Parallels",
-            href: "/megaregion/willamette/drone",
-          },
-          {
-            name: "Columbia Slough",
-            href: "/megaregion/willamette/slough",
-          },
-        ],
         crops: [
           {
             name: "Columbia Basin Project",
@@ -290,10 +274,6 @@ export default {
         this.navSubItems = this.subItems.dams;
       } else if (/watershedHanford/.test(this.$route.name)) {
         this.navSubItems = this.subItems.hanford;
-      } else if (/megaregionVanport/.test(this.$route.name)) {
-        this.navSubItems = this.subItems.vanport;
-      } else if (/megaregionWillamette/.test(this.$route.name)) {
-        this.navSubItems = this.subItems.willamette;
       } else if (/megaregionCrops/.test(this.$route.name)) {
         this.navSubItems = this.subItems.crops;
       } else if (/bioregionSalmon/.test(this.$route.name)) {

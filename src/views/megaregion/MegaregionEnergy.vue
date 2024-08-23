@@ -13,9 +13,8 @@
       >)
     </div>
     <br />
-
+    <div class="accordion_title">legends</div>
     <Accordion :open="false">
-      <h3 slot="header">legends</h3>
       <div class="flex">
         <div>
           <img src="icons/coal.png" />
@@ -38,20 +37,24 @@
           Wind turbine
         </div>
         <div>
+          <img src="icons/solar2.png" />
+          Solar array
+        </div>
+        <div>
           <img src="icons/legends/BPAarea.png" />
-          BPA service area
+          Bonneville Power Administration
         </div>
       </div>
-    </Accordion>
+    </Accordion><br>
 
     <p>Do you know where your power comes from?</p>
 
     <p>
       This map locates all the major inputs to Cascadia's electric grid:
-      hydropower dams, natural gas generators, wind turbines, two coal plants
+      hydropower dams, natural gas generators, wind turbines, two remaining coal plants
       and one civilian nuke (though five were planned in the 1970s). Only
-      installations producing over 100 megawatts of power are shown, so there's
-      no solar power here&mdash;but these larger generating stations give a very
+      installations producing over 100 megawatts of power are shown, except for typically smaller solar
+      installations, where arrays above 50 megawatts are included. Together, these generating stations give a very
       good idea of what it takes to keep the lights on in the twenty-first
       century.
     </p>
@@ -77,26 +80,26 @@
       distribution network, the Bonneville Power Administration (BPA), outlined
       in bright blue dashes (see the whole service area
       <span
-        class="link"
+        class="maplink"
         @click="
-          emit('set-map-view', { center: [-118.105, 45.6], resolution: 2000 })
+          emit('set-map-view', { center: [-118.105, 45.6], resolution: 1500 })
         "
         >here</span
       >). The BPA owns no generators, no dams, no smokestacks, only transmission
       lines. It buys power from regional producers, sets prices for local
-      consumption and sells the surplus on high-tension lines reaching deep into
+      consumption and sells the surplus over high-tension lines reaching deep into
       California. So far, the BPA has been the largest single actor influencing
       the industrial and urban development of Cascadia.
     </p>
 
     <p>
-      Now look at the wind-power installations of the Columbia Gorge,
+      Now look at the 
       <span
-        class="link"
+        class="maplink"
         @click="
           emit('set-map-view', { center: [-120.6, 45.7], resolution: 150 })
         "
-        >here</span
+        >wind-power installations of the Columbia Gorge</span
       >. Each icon on the map represents upwards of a dozen towers, you can
       actually see them if you zoom way in. Near each group you'll see tiny red
       circles&mdash;electric substations&mdash;which link the wind generators to
@@ -108,7 +111,7 @@
 
     <p>
       Does the wind out in the Gorge blow through your screen? It might also be
-      hydro, or coal, or gas or nuclear all intermingled.
+      hydro, or coal, or gas, or nuclear or solar all intermingled.
     </p>
 
     <p>

@@ -32,31 +32,23 @@
       Echo of Water Against Rocks <br />Ian McCluskey &amp; Steve Mital
     </div>
     <br />
-
+    <div class="accordion_title">legends</div>
     <Accordion :open="false">
-      <h3 slot="header">legends</h3>
       <div class="flex">
         <img src="images/Tsagaglalal.png" class="fullwidth" />
         <div class="legendtext">
           <span style="text-align: center"
-            >Looking over The Narrows is Tsagaglalal, "She Who Watches."</span
+            ><br>Looking over The Narrows is an ancient rock effigy, Tsagaglalal, "She Who Watches."</span
           >
         </div>
       </div>
-    </Accordion>
-
-    <p>
-      <audio controls>
-        <source src="audio/Falls.mp3" type="audio/mpeg" />
-        Your browser does not support the audio element.</audio
-      ><br /><br />
-    </p>
+    </Accordion><br>
 
     <p>
       On May 10, 1957, the gates of the powerhouse at The Dalles Dam were
       lowered, blocking the flow of the Columbia River. In just a few hours, the
       rapids that had roared through The Long Narrows since time immemorial were
-      silenced by the rising waters.
+      drowned by the rising waters.
     </p>
 
     <p>What changed on that day?</p>
@@ -102,28 +94,28 @@
       Despite the disasters of first contact, the summertime convergence at the
       falls persisted into the middle of the twentieth century. The Yakama
       Nation, the Confederated Tribes of Warm Springs and the Walla Walla,
-      Umatilla, and Cayuse peoples retained their treaty rights to fish at
-      Celilo up to the date of the flooding. They still retain those rights
+      Umatilla, and Cayuse peoples exercised their treaty rights to fish at
+      Celilo right up to the date of the flooding. They still retain those rights
       today, but in a vastly different landscape.
     </p>
 
     <p>
       Before the dams turned the wild river into a series of slackwater pools,
-      rapids and waterfalls had been scattered the length of the Columbia and of
+      vigorous rapids and waterfalls were scattered along the length of the Columbia and
       its tributaries. Many were important fisheries and ceremonial sites, in
-      particular Kettle Falls, now underwater, drowned by the Grand Coulee Dam
-      (<span
-        class="link"
+      particular 
+      <span
+        class="maplink"
         @click="
           emit('set-map-view', { center: [-118.109, 48.639], resolution: 120 })
         "
-        >zoom to Kettle Falls</span
-      >). Only in rare cases do salmon still leap across a surging cascade,
+        >Kettle Falls</span
+      >, now underwater, drowned by the Grand Coulee Dam. Only in rare cases do salmon still leap across a surging cascade,
       notably at
       <span
-        class="link"
+        class="maplink"
         @click="
-          emit('set-map-view', { center: [-122.617, 45.352], resolution: 6 })
+          emit('set-map-view', { center: [-122.617, 45.352], resolution: 18 })
         "
         >Willamette Falls</span
       >
@@ -160,9 +152,6 @@
     </p>
 
     <br />
-    <Accordion>
-      <h3 slot="header">sources</h3>
-    </Accordion>
   </div>
 </template>
 <style scoped>

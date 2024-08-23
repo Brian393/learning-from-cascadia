@@ -24,7 +24,7 @@
 <template>
   <div class="aside-content">
     <div class="title">
-      <h1>Coal, Oil, Gas: None Shall Pass</h1>
+      <h1>Coal, Oil, Gas:<br>None Shall Pass</h1>
     </div>
     <img src="images/OilGas.jpg" />
     <br />
@@ -39,14 +39,6 @@
         Twitter feeds that show up when you click on the icons.
       </div>
     </Accordion>
-
-    <p>
-      <audio controls>
-        <source src="audio/Terminals.mp3" type="audio/mpeg" />
-        Your browser does not support the audio element.
-      </audio>
-      ><br /><br />
-    </p>
 
     <div class="justify">
       <p>
@@ -99,7 +91,14 @@
         of previously existing ones. Successful protest movements continue
         unfolding to this day. But on June 3, 2016, the fiery derailment of a
         Union Pacific train carrying explosive Bakken crude through the Columbia
-        Gorge town of Mosier, Oregon, showed just how dangerous the commerce in
+        Gorge town of 
+      <span
+        class="maplink"
+        @click="
+          emit('set-map-view', { center: [-121.406, 45.685], resolution: 20 })
+        "
+        >Mosier, Oregon</span
+      >, showed just how dangerous the commerce in
         energy still is. And despite the disaster, moves are again underway to
         increase oil-by-rail in the region. Success is always relative and
         almost everything is yet to be done in the struggle against climate

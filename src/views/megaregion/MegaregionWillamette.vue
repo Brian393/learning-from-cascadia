@@ -40,15 +40,11 @@
       ></iframe>
     </div>
     <div class="caption">
-      Portland Harbor Community Coalition<br />&mdash;source
-      <a href="http://ourfutureriver.org/" target="_blank" rel="nofollow"
-        >here&mdash;</a
-      >
+      Portland Harbor Community Coalition
     </div>
     <br />
-
+    <div class="accordion_title">legends</div>
     <Accordion :open="false">
-      <h3 slot="header">legends</h3>
       <div class="flex">
         <div>
           <img src="icons/legends/Uplands.png" />
@@ -58,13 +54,13 @@
           <img src="icons/legends/EPAtechnologies.png" />
           EPA in-river intervention sites
         </div>
-        <br />Labels appear on mouseover. EPA sites visible only at higher
-        zoom.<br /><br /><em
+        <br />Labels appear on click or mouseover. EPA sites visible only at higher
+        zoom. This map reflects the state of the cleanup in 2018.<br /><br /><em
           >It's said that on a clear night, earth's destiny is reflected in any
           pool of water.</em
         >
       </div>
-    </Accordion>
+    </Accordion><br>
     <br />
 
     <p>So much depends on a river.</p>
@@ -78,9 +74,9 @@
       for thousands of species who live in it, on it, above it and along its
       banks. It's a joy for the eye and the spirit. Plus it's the site of
       massive industries, still operating or in ruins, and of future public
-      parks rising out of the brownfields for everyone. Or maybe it'll just be a
-      nice view for the million-dollar apartments of a gentrified city? Anyway,
-      right now it's a current of clear cool water suffused with toxic
+      parks rising out of the brownfields for everyone. Maybe someday it'll be a
+      beautiful view for million-dollar apartments in a gentrified city?
+      Right now it's a current of clear cool water suffused with toxic
       substances that sink deep into layers of sediment and concentrate in the
       bodies of living organisms.
     </p>
@@ -107,12 +103,8 @@
       In 2000, after decades of struggle, the Portland Harbor was placed on the
       Environmental Protection Agency's National Priorities List, transforming
       it into what everyone still calls a Superfund site. As the 2000's rolled
-      on, the EPA helped organize "<a
-        href="http://www.willametterivercleanup.com/earlyactions/"
-        target="_blank"
-        rel="nofollow"
-        >early actions</a
-      >" to address some of the ongoing disasters at surface level. When that
+      on, the EPA helped organize so-called "early actions"
+      to address some of the ongoing disasters at surface level. When that
       was over, the waiting game began. The big questions were, what needs to be
       done, and who's gonna pay for it?
     </p>
@@ -126,10 +118,8 @@
       have to be struck with the devil, in order to get some of the over 150
       Potentially Reponsible Parties (PRPs) to step up and pay for preliminary
       operations. Ten of the major corporate entities did so, later joined by
-      four others, forming the
-      <a href="http://lwgportlandharbor.org/" target="_blank" rel="nofollow"
-        >Lower Willamette Group</a
-      >. In an extremely dubious scenario of "yes you can be judge and party on
+      four others, forming the Lower Willamette Group. 
+      In an extremely dubious scenario of "yes you can be judge and party on
       the same case," this group paid for and organized the initial scientific
       analysis that would later help determine its own cleanup responsibilities.
       As for those who did not step up, more backroom deals as well as extensive
@@ -188,7 +178,7 @@
       not-so-distant past.
     </p>
 
-    <p>Let's look at the map to see what all the hue and cry is about.</p>
+    <p>Let's look at the map to see what's in the works.</p>
 
     <p>
       The areas marked in dark red are the so-called "upland sites," where in
@@ -210,7 +200,7 @@
       various industrial processes, such as the creosote treatment operation at
       the McCormick & Baxter site on the eastern bank at RM-7. There are many
       other chemical pollutants and heavy metals on the banks of the Willamette,
-      but the list above is the worst of the worst: the super-death-stars of the
+      but the list above is the worst of the worst: the death-stars of the
       Superfund site.
     </p>
 
@@ -228,8 +218,14 @@
     </p>
 
     <p>
-      To go a little further, it might be worth reading the report on the former
-      GASCO oil-gasification site on the western bank between River Miles 6 and
+      To go a little further, it might be worth reading the DEQ report on the former 
+      <span
+        class="maplink"
+        @click="
+          emit('set-map-view', { center: [-122.758, 45.577], resolution: 3 })
+        "
+        >GASCO oil-gasification site</span
+      > on the western bank between River Miles 6 and
       7, now owned by a successor company that goes by the ironic name of
       Northwest Natural. Here an "early action" in 2005 dredged a 15,000
       cubic-yard tarball out of the river, in hopes of stanching the flow of
@@ -268,24 +264,7 @@
     <p>
       Finally, the most difficult question: how to deal with "potential threat
       waste" (chemicals and heavy metals) that has already made its way into the
-      riverbed? To see EPA's plans, you have to
-      <span
-        class="link"
-        @click="
-          emit('set-map-view', {
-            center: [-122.734, 45.572],
-            resolution: 5,
-            minResolution: 0.125,
-            maxResolution: 400,
-          })
-        "
-        >zoom in</span
-      >
-      a little.
-    </p>
-
-    <p>
-      Here's the thing: removal by dredging is the best option, except that
+      riverbed? Removal by dredging would be the best option, except that
       dredging risks releasing trapped toxins for fresh dispersal in the river.
       Every decision about what to do with particular pollutants under
       particular riverbed conditions must square this vicious circle.
@@ -402,7 +381,7 @@
           </p>
         </div>
       </div>
-    </Accordion>
+    </Accordion><br>
 
     <p></p>
   </div>

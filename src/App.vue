@@ -194,6 +194,15 @@ aside .fullwidth {
   margin-bottom: 8px;
 }
 
+.accordion_title {
+  text-align: center;
+  font-style: bold;
+  color: #800000;
+  font-size: 120%;
+  margin-top: 20px;
+  margin-bottom: 8px;
+}
+
 .quote {
   font-weight: bold;
   font-style: italic;

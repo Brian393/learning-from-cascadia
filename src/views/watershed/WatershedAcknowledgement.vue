@@ -6,14 +6,9 @@
     <img src="images/falls.jpg" class="fullwidth" />
     <div class="caption">first name still unknown</div>
 
-    <p>
-      <br /><audio controls>
-        <source src="audio/Acknowledgement.mp3" type="audio/mpeg" />
-        Your browser does not support the audio element.</audio
-      ><br /><br />
-    </p>
+    <p>&nbsp;</p>
 
-    <p><strong>We begin with respect:</strong></p>
+    <p><h3>We begin with respect:</h3></p>
 
     <p>
       All the land that is now called North America was inhabited for thousands
@@ -60,8 +55,9 @@
       colonization, may you now raise your voices.
     </p>
     <br />
+    <div class="accordion_title">sources</div>
     <Accordion :open="false">
-      <h3 slot="header">sources of this map</h3>
+      <h3 slot="header">sources of this page</h3>
       <div class="flex">
         <p>
           Language locations:
@@ -75,8 +71,9 @@
           >.
         </p>
       </div>
-    </Accordion>
+    </Accordion><br>
 
+    <div class="accordion_title">authorship</div>
     <Accordion :open="false">
       <h3 slot="header">authorship of this atlas</h3>
       <div class="flex">
@@ -88,7 +85,7 @@
           interviews<br /><br /><strong>Claire Pentecost</strong>: title
         </p>
       </div>
-    </Accordion>
+    </Accordion><br>
   </div>
 </template>
 <style scoped>

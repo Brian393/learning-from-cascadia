@@ -21,17 +21,10 @@
     <img src="images/Hanford/B_reactor.png" class="fullwidth" />
     <div class="caption">Workers inserting fuel rods to B Reactor</div>
     <br />
-
+    <div class="accordion_title">legends</div>
     <Accordion :open="false">
-      <h3 slot="header">legends</h3>
-      <div class="flex"></div>
-    </Accordion>
-    <p>
-      <audio controls>
-        <source src="audio/Legacy.mp3" type="audio/mpeg" />
-        Your browser does not support the audio element.</audio
-      ><br /><br />
-    </p>
+      <div class="flex">For the identification of each legacy infrastructure or waste release site, just roll the mouse over the feature, or click if using a mobile phone.</div>
+    </Accordion><br>
     <p>
       To understand the Hanford legacy, you have to know something about the
       production process.
@@ -41,8 +34,15 @@
       Cylinders of enriched uranium, each about 9 inches long and 1.5 inches
       wide, were encased in aluminum to facilitate handling. These relatively
       small slugs were inserted into the middle of long metal tubes set within a
-      graphite core, so as to spark a chain reaction. As the uranium atoms broke
-      apart into fragments—that's "nuclear fission"—multiple transuranic
+      graphite reactor core, so as to spark a chain reaction. As the uranium atoms broke
+      apart into fragments—that's 
+      <span
+        class="maplink"
+        @click="
+        emit('set-map-view', { center: [-119.653, 46.6303], resolution: 4 })
+        "
+        >"nuclear fission"</span
+      >—multiple transuranic
       products were formed, including small quantities of highly radioactive
       substances such as strontium-90, technetium-99, cesium-127, iodine-129 and
       plutonium-239.
@@ -60,8 +60,14 @@
     </p>
 
     <p>
-      A railroad car then conveyed the slugs to the processing plants on the
-      Central Plateau, three hundred feet above the river. There the aluminum
+      A railroad car then conveyed the slugs to the processing plants on the 
+      <span
+        class="maplink"
+        @click="
+        emit('set-map-view', { center: [-119.574, 46.545], resolution: 12 })
+        "
+        >Central Plateau</span
+      >, three hundred feet above the river. There the aluminum
       coating was dissolved in acid, exposing the radioactive materials. The
       initial acid bath was followed by a series of complex chemical treatments,
       each stripping away unwanted impurities, but also leaving behind hot
@@ -78,12 +84,19 @@
       buildings, collapsing tunnels, decaying pipes and equipment, rusting
       drums, dried pools, contaminated ditches, pits and burial grounds, as well
       as 177 leaking underground storage tanks holding roughly 56 million
-      gallons of radioactive waste. In recent years, the liquid component of
-      this waste has been transferred from the oldest single-shell tanks into 28
-      somewhat newer double-shell tanks. However, water has subsequently
+      gallons of radioactive waste. Over a period of roughly two decades (1968-1986) the liquid component of
+      this waste was transferred from the oldest single-shell tanks into 28
+      somewhat newer 
+      <span
+        class="maplink"
+        @click="
+        emit('set-map-view', { center: [-119.5207, 46.5535], resolution: 2 })
+        "
+        >double-shell tanks</span
+      >. However, water has subsequently
       infiltrated into the remaining sludge in some of the 149 older tanks,
       while leaks have been reported in the newer ones. In the most recent major
-      incident, a sealed underground railroad tunnel leading to a
+      incident (2017), a sealed underground railroad tunnel leading to a
       plutonium-uranium extraction plant located on the Central Plateau suddenly
       collapsed, leaving a hole open to the sky.
     </p>
@@ -103,14 +116,14 @@
     </p>
 
     <p>
-      Pan the map to the reactor sites along the river (or just click
-      <span
-        class="link"
+      Pan the map to the 
+        <span
+        class="maplink"
         @click="
-          emit('set-map-view', { center: [-119.542, 46.69], resolution: 5 })
+          emit('set-map-view', { center: [-119.542, 46.69], resolution: 10 })
         "
-        >here</span
-      >). Cooling water intakes and outfalls can be observed along the bank, as
+        >reactor sites along the river</span
+      >. Cooling water intakes and outfalls can be observed along the bank, as
       well as large retention ponds nearer to the reactors. Process sewers snake
       out in every direction, bearing witness to the large quantities of water
       that bathed all the phases of production. Dumping sites and unplanned
@@ -125,17 +138,10 @@
       river.
     </p>
     <br />
+    <div class="accordion_title">sources</div>
     <Accordion>
-      <h3 slot="header">sources</h3>
-      <p>Data sources for this page include:</p>
-      <p>-- <a href="" target="_blank" rel="nofollow"></a></p>
-      <p>-- <a href="" target="_blank" rel="nofollow"></a></p>
-      <p>-- <a href="" target="_blank" rel="nofollow"></a></p>
-      <p>-- <a href="" target="_blank" rel="nofollow"></a></p>
-      <p>-- <a href="" target="__blank"></a></p>
-      <p>-- <a href="" target="_blank" rel="nofollow"></a></p>
-      <p>-- <a href="" target="_blank" rel="nofollow"></a></p>
-      <p>-- <a href="" target="_blank" rel="nofollow"></a></p>
+      <p>Data for this page was retrieved from the Pacific Northwest National Laboratory's Phoenix viewer:</p>
+      <p><a href="https://phoenix.pnnl.gov/phoenix/apps/gallery/index.html" target="_blank" rel="nofollow">https://phoenix.pnnl.gov/phoenix/apps/<br>gallery/index.html</a></p>
       <br />
     </Accordion>
   </div>

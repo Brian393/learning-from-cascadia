@@ -91,8 +91,8 @@
       "type": "Feature",
       "properties": {
         "id": 10,
-        "vimeoTitle": "Evelyn Bolme",
-        "vimeoSrc": "https://player.vimeo.com/video/168125010"
+        "vimeoTitle": "How We Knew We Were Indian",
+        "vimeoSrc": "https://player.vimeo.com/video/168407405"
       },
       "geometry": { "type": "Point", "coordinates": [-122.687, 45.5979] }
     },
@@ -108,28 +108,36 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 12
+        "id": 12,
+        "vimeoTitle": "Life in Vanport through a child’s eyes",
+        "vimeoSrc": "https://player.vimeo.com/video/167815679"
       },
       "geometry": { "type": "Point", "coordinates": [-122.7069, 45.5984] }
     },
     {
       "type": "Feature",
       "properties": {
-        "id": 13
+        "id": 13,
+        "vimeoTitle": "We Took Care of Each Other",
+        "vimeoSrc": "https://player.vimeo.com/video/170635775"
       },
       "geometry": { "type": "Point", "coordinates": [-122.7013, 45.5966] }
     },
     {
       "type": "Feature",
       "properties": {
-        "id": 14
+        "id": 14,
+        "vimeoTitle": "Vanport Museum Historian in Residence",
+        "vimeoSrc": "https://player.vimeo.com/video/146470775"
       },
       "geometry": { "type": "Point", "coordinates": [-122.6957, 45.5949] }
     },
     {
       "type": "Feature",
       "properties": {
-        "id": 15
+        "id": 15,
+        "vimeoTitle": "Vanport is a story that will never fully be told",
+        "vimeoSrc": "https://player.vimeo.com/video/167205492"
       },
       "geometry": { "type": "Point", "coordinates": [-122.69, 45.5931] }
     }

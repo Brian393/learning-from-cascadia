@@ -25,10 +25,6 @@ export default {
           center: [-122.7, 45.601],
           resolution: 3,
         },
-        slough: {
-          center: [-122.73, 45.618],
-          resolution: 11,
-        },
         willamette: {
           center: [-122.718, 45.588],
           resolution: 22,
@@ -234,56 +230,6 @@ export default {
           1,
           2000
         ),
-      ];
-    },
-    mosaicLayers: function () {
-      return [
-        new Tile({
-          preload: Infinity,
-          source: new XYZ({
-            url: "https://{a-d}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}.png",
-          }),
-          opacity: 1,
-          minZoom: 11,
-          maxZoom: 20,
-          loadTilesWhileAnimating: true,
-          loadTilesWhileInteracting: true,
-        }),
-        new Tile({
-          preload: Infinity,
-          source: new XYZ({
-            url: "http://ecotopia.today/cascadia/Tiles/Crops/{z}/{x}/{y}.png",
-          }),
-          opacity: 0.4,
-          minZoom: 11,
-          maxZoom: 20,
-        }),
-        new Tile({
-          preload: Infinity,
-          source: new XYZ({
-            url: "http://ecotopia.today/cascadia/Tiles/PDX-new/{z}/{x}/{y}.png",
-          }),
-          opacity: 1,
-          minZoom: 11,
-          maxZoom: 20,
-        }),
-        this.makeGeoJSONFillVectorLayer(
-          "geojson/VanUnderlayer.geojson",
-          0.25,
-          160,
-          "rgba(0,0,0, 0.99)",
-          1,
-          "rgba(0,0,0, 0.99)"
-        ),
-        new Tile({
-          preload: Infinity,
-          source: new XYZ({
-            url: "http://ecotopia.today/cascadia/Tiles/Vanport/{z}/{x}/{y}.png",
-          }),
-          opacity: 1,
-          minZoom: 7,
-          maxZoom: 20,
-        }),
         this.makeGeoJSONPointVectorLayer(
           "geojson/VanportMosaic.geojson",
           "icons/Mosaic.png",
@@ -317,7 +263,7 @@ export default {
           }),
           opacity: 1,
           minZoom: 11,
-          maxZoom: 20,
+          maxZoom: 1200,
           loadTilesWhileAnimating: true,
           loadTilesWhileInteracting: true,
         }),
@@ -328,12 +274,12 @@ export default {
           }),
           opacity: 1,
           minZoom: 11,
-          maxZoom: 20,
+          maxZoom: 1200,
         }),
         this.makeGeoJSONFillVectorLayer(
           "geojson/UplandHighPriority.geojson",
           0.5,
-          23,
+          1200,
           "rgba(190, 141, 143, 0)",
           1,
           "rgba(209, 4, 4, 0)"
@@ -341,7 +287,7 @@ export default {
         this.makeGeoJSONFillVectorLayer(
           "geojson/UplandMedPriority.geojson",
           0.5,
-          23,
+          1200,
           "rgba(190, 141, 143, 0)",
           1,
           "rgba(209, 4, 4, 0)"
@@ -349,7 +295,7 @@ export default {
         this.makeGeoJSONFillVectorLayer(
           "geojson/UplandLowPriority.geojson",
           0.5,
-          23,
+          1200,
           "rgba(190, 141, 143, 0)",
           1,
           "rgba(209, 4, 4, 0"
@@ -357,7 +303,7 @@ export default {
         this.makeGeoJSONFillVectorLayer(
           "geojson/UplandNoPriority.geojson",
           0.5,
-          23,
+          1200,
           "rgba(190, 141, 143, 0)",
           1,
           "rgba(209, 4, 4, 0)"
@@ -365,7 +311,7 @@ export default {
         this.makeGeoJSONFillVectorLayer(
           "geojson/EnhancedNaturalRecovery.geojson",
           0.5,
-          16,
+          1200,
           "rgba(185, 12, 14, 0.0)",
           0.5,
           "rgba(255, 0, 0, 0.0)"
@@ -373,7 +319,7 @@ export default {
         this.makeGeoJSONFillVectorLayer(
           "geojson/DredgeWithCap.geojson",
           0.5,
-          16,
+          1200,
           "rgba(185, 12, 14, 0.0)",
           0.5,
           "rgba(255, 0, 0, 0.0)"
@@ -381,7 +327,7 @@ export default {
         this.makeGeoJSONFillVectorLayer(
           "geojson/DredgeFMD.geojson",
           0.5,
-          16,
+          1200,
           "rgba(185, 12, 14, 0.0)",
           0.5,
           "rgba(255, 0, 0, 0.0)"
@@ -389,7 +335,7 @@ export default {
         this.makeGeoJSONFillVectorLayer(
           "geojson/Dredge.geojson",
           0.5,
-          16,
+          1200,
           "rgba(185, 12, 14, 0.0)",
           0.5,
           "rgba(255, 0, 0, 0.0)"
@@ -397,7 +343,7 @@ export default {
         this.makeGeoJSONFillVectorLayer(
           "geojson/ContaminatedBanks.geojson",
           0.5,
-          16,
+          1200,
           "rgba(185, 12, 14, 0.0)",
           0.5,
           "rgba(255, 0, 0, 0.0)"
@@ -405,7 +351,7 @@ export default {
         this.makeGeoJSONFillVectorLayer(
           "geojson/Cap.geojson",
           0.5,
-          16,
+          1200,
           "rgba(185, 12, 14, 0.0)",
           0.5,
           "rgba(255, 0, 0, 0.0)"
@@ -413,91 +359,12 @@ export default {
         this.makeGeoJSONFillVectorLayer(
           "geojson/MCormick&BaxterCap2005.geojson",
           0.5,
-          16,
+          1200,
           "rgba(185, 12, 14, 0.0)",
           0.5,
           "rgba(255, 0, 0, 0.0)"
         ),
         bingMapTile,
-      ];
-    },
-    droneLayers: function () {
-      let bingMapTile = new Tile({
-        source: new BingMaps({
-          key: "Asxv26hh6HvBjw5idX-d8QS5vaJH1krMPBfZKjNmLjaQyr0Sc-BrHBoatyjwzc_k",
-          imagerySet: "Aerial",
-        }),
-        minResolution: 0.25,
-        maxResolution: 1,
-      });
-      bingMapTile.on("precompose", (e) => {
-        this.spyglass(e);
-      });
-      bingMapTile.on("postcompose", function (e) {
-        e.context.restore();
-      });
-
-      return [
-        new Tile({
-          preload: Infinity,
-          source: new XYZ({
-            url: "https://{a-d}.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}.png",
-          }),
-          opacity: 1,
-          minZoom: 11,
-          maxZoom: 20,
-          loadTilesWhileAnimating: true,
-          loadTilesWhileInteracting: true,
-        }),
-        new Tile({
-          preload: Infinity,
-          source: new XYZ({
-            url: "http://ecotopia.today/cascadia/Tiles/Willamette/{z}/{x}/{y}.png",
-          }),
-          opacity: 1,
-          minZoom: 11,
-          maxZoom: 20,
-        }),
-        this.makeGeoJSONFillVectorLayer(
-          "geojson/Upland_Sites.geojson",
-          0.5,
-          40,
-          "rgba(185, 12, 14, 0.70)",
-          0.5,
-          "rgba(185, 12, 14, 0.4)"
-        ),
-        bingMapTile,
-        this.makeGeoJSONPointVectorLayer(
-          "geojson/Drone.geojson",
-          "icons/Drone.png",
-          null,
-          1,
-          8000
-        ),
-      ];
-    },
-    sloughLayers: function () {
-      return [
-        new Tile({
-          preload: Infinity,
-          source: new XYZ({
-            url: "https://{a-d}.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}.png",
-          }),
-          opacity: 1,
-          minZoom: 11,
-          maxZoom: 20,
-          loadTilesWhileAnimating: true,
-          loadTilesWhileInteracting: true,
-        }),
-        new Tile({
-          preload: Infinity,
-          source: new XYZ({
-            url: "http://ecotopia.today/cascadia/Tiles/Slough/{z}/{x}/{y}.png",
-          }),
-          opacity: 1,
-          minZoom: 7,
-          maxZoom: 20,
-        }),
       ];
     },
     energyLayers: function () {
@@ -555,6 +422,14 @@ export default {
           "geojson/CascadiaCoal.geojson",
           "icons/coal.png",
           "Coal Power",
+          2,
+          4000
+        ),
+        // mega[11]
+        this.makeGeoJSONPointVectorLayer(
+          "geojson/CascadiaSolar.geojson",
+          "icons/solar.png",
+          "Solar Power",
           2,
           4000
         ),
@@ -632,7 +507,7 @@ export default {
           maxResolution: 16000,
         }),
         this.makeGeoJSONFillVectorLayer(
-          "geojson/CBP-Crops.geojson",
+          "geojson/cbp_irrigated.geojson",
           2,
           181,
           "rgba(189, 7, 97, 0)",
@@ -672,8 +547,8 @@ export default {
       });
       if (feature) {
         const props = feature.getProperties();
-        if (props.CropGroup && props.key) {
-          this.$refs.titletipContent.innerHTML = props.key;
+        if (props.cropkey) {
+          this.$refs.titletipContent.innerHTML = props.cropkey;
           this.titletip.setPosition(e.coordinate);
         } else if (props.title && props.image) {
           this.$refs.tooltip.innerHTML = props.image.replace("cascadia/", "");
@@ -708,17 +583,8 @@ export default {
         case "megaregionVanport":
           this.initMegaregionVanport();
           break;
-        case "megaregionVanportMosaic":
-          this.initMegaregionVanportMosaic();
-          break;
         case "megaregionWillamette":
           this.initMegaregionWillamette();
-          break;
-        case "megaregionWillametteDrone":
-          this.initMegaregionWillametteDrone();
-          break;
-        case "megaregionWillametteSlough":
-          this.initMegaregionWillametteSlough();
           break;
         case "megaregionEnergy":
           this.initMegaregionEnergy();
@@ -764,23 +630,6 @@ export default {
           rotation: -0.41,
         })
       );
-    },
-    initMegaregionVanportMosaic: function () {
-      this.initBaseMap();
-      this.olmap.setLayerGroup(
-        new Group({
-          layers: this.mosaicLayers,
-        })
-      );
-      this.olmap.setView(
-        new View({
-          center: fromLonLat(this.centerPoints.vanport.center),
-          resolution: this.centerPoints.vanport.resolution,
-          minZoom: 11,
-          maxZoom: 19,
-          rotation: -0.41,
-        })
-      );
       if (this.olmap) {
         this.olmap.on("singleclick", (e) => {
           const feature = this.olmap.forEachFeatureAtPixel(
@@ -811,56 +660,7 @@ export default {
           center: fromLonLat(this.centerPoints.willamette.center),
           resolution: this.centerPoints.willamette.resolution,
           minZoom: 9,
-          maxZoom: 20,
-        })
-      );
-    },
-    initMegaregionWillametteDrone: function () {
-      this.initBaseMap();
-      this.olmap.setLayerGroup(
-        new Group({
-          layers: this.droneLayers,
-        })
-      );
-      this.olmap.setView(
-        new View({
-          center: fromLonLat(this.centerPoints.willamette.center),
-          resolution: this.centerPoints.willamette.resolution,
-          minZoom: 11,
-          maxZoom: 19,
-        })
-      );
-      if (this.olmap) {
-        this.olmap.on("singleclick", (e) => {
-          const feature = this.olmap.forEachFeatureAtPixel(
-            e.pixel,
-            (feature) => {
-              return feature;
-            }
-          );
-          if (feature) {
-            const props = feature.getProperties();
-            if (props.vimeoSrc) {
-              const mediabox = new MediaLightBox(props.vimeoSrc);
-              mediabox.open();
-            }
-          }
-        });
-      }
-    },
-    initMegaregionWillametteSlough: function () {
-      this.initBaseMap();
-      this.olmap.setLayerGroup(
-        new Group({
-          layers: this.sloughLayers,
-        })
-      );
-      this.olmap.setView(
-        new View({
-          center: fromLonLat(this.centerPoints.slough.center),
-          resolution: this.centerPoints.slough.resolution,
-          minZoom: 11,
-          maxZoom: 19,
+          maxZoom: 1200,
         })
       );
     },

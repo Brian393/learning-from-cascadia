@@ -46,7 +46,7 @@
       <div class="flex">
         <img src="images/Coho_Salmon.png" class="fullwidth" />
       </div>
-    </Accordion>
+    </Accordion><br>
     <br />
 
     <p>
@@ -126,7 +126,7 @@
         Press and State of the Salmon, a joint project of the Wild Salmon Center
         and Ecotrust.
       </p>
-    </Accordion>
+    </Accordion><br>
   </div>
 </template>
 <style scoped>

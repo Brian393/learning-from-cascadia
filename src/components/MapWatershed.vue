@@ -251,8 +251,17 @@ export default {
             url: "http://ecotopia.today/cascadia/Tiles/Hanford/{z}/{x}/{y}.png",
           }),
           opacity: 1,
-          minResolution: 1,
+          minResolution: 0.25,
           maxResolution: 160,
+        }),
+        new Tile({
+          preload: Infinity,
+          source: new XYZ({
+            url: "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}",
+          }),
+          opacity: 0.8,
+          minResolution: 0.25,
+          maxResolution: 2,
         }),
       ];
     },
@@ -278,7 +287,7 @@ export default {
           maxResolution: 80,
         }),
         this.makeGeoJSONFillVectorLayer(
-          "geojson/HanfordLabels.geojson",
+          "geojson/HanfordLabelsNoPipes.geojson",
           1,
           80,
           "rgba(60, 20, 20, 0.0)",
@@ -328,7 +337,7 @@ export default {
             url: "http://ecotopia.today/cascadia/Tiles/Floods/{z}/{x}/{y}.png",
           }),
           opacity: 0.7,
-          minResolution: 2,
+          minResolution: 8,
           maxResolution: 16000,
         }),
       ];
@@ -587,7 +596,7 @@ export default {
         new View({
           center: fromLonLat(this.centerPoints.hanford1.center),
           resolution: this.centerPoints.hanford1.resolution,
-          minResolution: 1,
+          minResolution: 0.25,
         })
       );
     },

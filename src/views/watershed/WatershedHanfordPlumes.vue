@@ -16,9 +16,8 @@
     </div>
     <div class="caption">Inside a Hanford waste tank</div>
     <br />
-
+    <div class="accordion_title">legends</div>
     <Accordion :open="false">
-      <h3 slot="header">legends</h3>
       <div class="flex">
         <p style="height: 45px">
           <strong>Nitrate</strong><br /><img
@@ -77,20 +76,11 @@
         </p>
         <p style="height: 45px">
           <span style="font-size: 80%"
-            >All data is from 2015, except Iodine-129, which is from 2016. Since
-            then, only the volume of hexavalent chromium has decreased
-            significantly.</span
+            >All data is from 2015, except Iodine-129, from 2016.</span
           >
         </p>
       </div>
-    </Accordion>
-
-    <p>
-      <audio controls>
-        <source src="audio/Plumes.mp3" type="audio/mpeg" />
-        Your browser does not support the audio element.</audio
-      ><br /><br />
-    </p>
+    </Accordion><br>
 
     <p>
       What you see on the map are plumes of contaminated groundwater spreading
@@ -275,21 +265,12 @@
     <div class="caption">A Culture of Silence at the Hanford Nuclear Site</div>
 
     <br />
+    <div class="accordion_title">sources</div>
     <Accordion>
-      <h3 slot="header">sources</h3>
-
-      <p>Data sources for the plumes:</p>
-      <p>
-        --
-        <a
-          href="https://phoenix.pnnl.gov/apps/gisexplorer/index.html"
-          target="_blank"
-          rel="nofollow"
-          >Phoenix GIS Explorer</a
-        >
-      </p>
+      <p>Data for this page was retrieved from the Pacific Northwest National Laboratory's Phoenix viewer:</p>
+      <p><a href="https://phoenix.pnnl.gov/phoenix/apps/gallery/index.html" target="_blank" rel="nofollow">https://phoenix.pnnl.gov/phoenix/apps/<br>gallery/index.html</a></p>
       <br />
-    </Accordion>
+    </Accordion><br>
   </div>
 </template>
 <style scoped>

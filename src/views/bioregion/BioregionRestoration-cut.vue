@@ -75,7 +75,7 @@
       Further upstream was another massive engineering work, Glines Dam, you can
       see the site
       <span
-        class="link"
+        class="maplink"
         @click="
           emit('set-map-view', { center: [-123.605, 47.999], resolution: 4 })
         "

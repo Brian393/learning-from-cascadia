@@ -4,6 +4,7 @@
   padding-bottom: 74.88%;
   height: 0;
 }
+
 .video iframe {
   position: absolute;
   top: 0;
@@ -19,27 +20,26 @@
       <h1>Take 'em down</h1>
     </div>
     <div>
-      <iframe
-        width="350"
-        height="350"
+      <iframe width="350" height="350"
         src="https://www.youtube.com/embed/d7-I1ijSqbI?modestbranding=1&autohide=1&showinfo=0&controls=1&amp;autoplay=1&amp;mute=1&amp;loop=0&rel=0&amp;playlist=d7-I1ijSqbI"
-        frameborder="0"
-        allow="autoplay; encrypted-media; loop"
-        allowfullscreen
-      ></iframe>
+        frameborder="0" allow="autoplay; encrypted-media; loop" allowfullscreen></iframe>
     </div>
     <div class="caption">
       Spectacular Time Lapse Dam "Removal" Video<br />National Geographic (2011)
     </div>
     <br />
-
+    <div class="accordion_title">legends</div>
     <Accordion :open="false">
-      <h3 slot="header">legends</h3>
-      <div class="flex"></div>
-    </Accordion>
+      <div style="text-align: center;">
+        <img src="icons/undammed.png" alt="Bonneville Dam">
+      </div><br>
+      <div class="flex">In Cascadia, the scissors symbol has come to signify dam removal. Click each one for more
+        information.
+      </div>
+    </Accordion><br>
 
     <p>
-      Dam removal is no longer taboo. According to the 2022 report, Free Rivers,
+      Dam removal is no longer a taboo. According to the 2022 report, Free Rivers,
       1,956 dams have been removed in the US so far, with a high point in 2019
       of 90 dam takedowns in 26 states. Because of the large number of dans
       built in the US - the real number runs well over the 90 thousand
@@ -59,44 +59,32 @@
 
     <p>
       Of course, most of the removed dams are small barriers, not huge
-      hydropower structures like Bonneville Dam in the Columbia River Basin. Few
-      are proposing to take down the big electricity-producing dams, except the
+      hydropower structures like Bonneville. Few
+      are proposing to take down the big electricity-producing dams, except maybe the
       one at
-      <span
-        class="link"
-        @click="
-          emit('set-map-view', { center: [-121.133, 45.613], resolution: 4 })
-        "
-        >The Dalles</span
-      >
-      which dealt a cruel blow to all the indigenous peoples of the region, by
+      <span class="maplink" @click="
+      emit('set-map-view', { center: [-121.133, 45.613], resolution: 4 })
+      ">The Dalles</span>
+      which dealt such a cruel blow to indigenous people by
       drowning Celilo Falls. However, consider the case of
-      <span
-        class="link"
-        @click="
-          emit('set-map-view', { center: [-121.541, 45.75], resolution: 32 })
-        "
-        >Condit Dam on the White Salmon River</span
-      >, a 125-ft wall built in 1913. Its meager power output could easily be
-      replaced by three modern wind turbines. And its removal returned spawning
-      grounds to three salmon and steelhead runs, as well as wild Pacific
+      <span class="maplink" @click="
+      emit('set-map-view', { center: [-121.541, 45.75], resolution: 32 })
+      ">Condit Dam on the White Salmon River</span>, a 125-ft wall built in 1913. Its meager power output can easily
+      be
+      replaced by the output of three modern wind turbines. And its removal has restored spawning
+      grounds for three salmon and steelhead runs, as well as wild Pacific
       lamprey.
     </p>
 
-    <iframe
-      width="350"
-      height="197"
-      src="https://www.youtube.com/embed/4LxMHmw3Z-U?modestbranding=1&autohide=1&showinfo=0&controls=1"
-      frameborder="0"
-      allow="autoplay; encrypted-media; loop"
-      allowfullscreen
-    ></iframe>
+    <iframe width="350" height="197"
+      src="https://www.youtube.com/embed/4LxMHmw3Z-U?modestbranding=1&autohide=1&showinfo=0&controls=1" frameborder="0"
+      allow="autoplay; encrypted-media; loop" allowfullscreen></iframe>
 
     <p>
       Nature is not a clock, time cannot be reversed, and the past will not
       return. But we can move forward into a lighter and more just way of
-      living, in solidarity with other cultures and with all the other creatures
-      living on this earth.<br /><br />
+      living, in solidarity with other cultures and with all the fabulous creatures
+      surviving on this earth.<br /><br />
     </p>
   </div>
 </template>
@@ -105,11 +93,13 @@
   display: flex;
   flex-direction: column;
 }
+
 .flex div {
   display: flex;
   align-items: center;
   margin-bottom: 0.5em;
 }
+
 .flex img {
   margin-right: 0.5em;
 }

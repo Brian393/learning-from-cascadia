@@ -21,18 +21,14 @@
     <img src="images/BonnevilleConstruction.png" class="fullwidth" />
     <div class="caption">Construction of Bonneville Dam, 1936</div>
     <br />
-
+    <div class="accordion_title">legends</div>
     <Accordion :open="false">
-      <h3 slot="header">legends</h3>
-      <div class="flex"></div>
-    </Accordion>
-
-    <p>
-      <audio controls>
-        <source src="audio/Dams.mp3" type="audio/mpeg" />
-        Your browser does not support the audio element.</audio
-      ><br /><br />
-    </p>
+        <div style="text-align: center;">
+        <img src="images/Dams-crop/BonnevilleDam.png" alt="Bonneville Dam">
+        </div><br>
+        <div class="flex">Each marker represents a dam or an aluminum smelter powered by hydroelectricity. All appear in order of construction. Click the icon for the date, height, and a Wikipedia link.
+      </div>
+    </Accordion><br>
 
     <p>
       Anyone who longs for wild rivers is going to be disappointed by the
@@ -40,51 +36,53 @@
     </p>
 
     <p>
-      The construction of municipal dams for hydropower and flood control on the
-      Columbia and Snake rivers began as early as 1904. The far larger
+      The construction of small-scale dams for hydropower and flood control on the
+      Columbia and Snake rivers began in 1901. The far larger
       Bonneville and Grand Coulee dams were federal projects of the Roosevelt
       era, carried out by the Army Corps of Engineers and the Bueau of
-      Reclamation, and completed in 1937 and 1941 respectively.
+      Reclamation and completed in 1937 and 1941 respectively.
     </p>
 
     <p>
-      The hopes of the time were high. Bonneville would facilitate navigation
+      This was when the state dreamed big. Bonneville would facilitate navigation
       and provide a bounty of hydroelectric power for economic development,
-      while irrigation from the Grand Coulee would make the desert bloom. A
+      while irrigation water from the Grand Coulee would literally make the desert bloom. A
       federal agency, the Bonneville Power Administration, would distribute the
-      abundant electricity at low rates to all askers, via a system of
+      abundant electricity at low rates via a system of
       high-tension lines and substations stretching across the Columbia Basin.
-      And a new institution, the fish hatchery, would mitigate whatever damage
-      might be done to the natural world. All of this would provide jobs and
+      And a new institution, the fish hatchery, a kind of hospital or asylum for the ailing salmon, would mitigate whatever damage
+      might be done to the natural world. The aim was to provide jobs and
       prospects for thousands of people left stranded by the Great Depression.
-      In short, modernization and social progress would finally come to the
+      Modernization and social progress were finally going to make it to the
       Pacific Northwest.
     </p>
 
     <img src="images/Roosevelt.png" class="fullwidth" />
 
+    <div class="caption">Roosevelt inaugurates Bonneville, 1937</div>
+
     <p>
-      Yet the war had other plans. The electricity from Bonneville powered
+      But the war had other plans. Electricity from Bonneville powered
       massive bauxite reduction plants for the aluminum needs of the aviation
-      industry; while that of Grand Coulee flowed directly into plutonium
-      manufacturing at the Hanford Nuclear Reservation. What emerged from the
+      industry; while power from the Grand Coulee flowed directly into plutonium
+      production at Hanford Nuclear Reservation. What emerged from the
       Roosevelt era was not egalitarian development for the people, but instead,
       Cold War imperial America.
     </p>
 
     <p>
-      On Memorial Day, 1948, floods were allowed to entirely destroy the
+      On Memorial Day, 1948, floods were allowed to entirely destroy the multi-racial
       workers' metropolis of Vanport, located on the riverbank between Vancouver
-      and Portland. The flooding of Vanport became the justification for the
-      Columbia River Treaty with Canada. The aim was to turn the entire basin
+      and Portland. The flooding of Vanport then became the justification for the
+      Columbia River Treaty with Canada. That treaty would turn the entire basin
       into a single hydroelectric facility, featuring extensive storage
       reservoirs in the Canadian headwaters and multiple generating facilities
-      down the mainstem, as well as further impoundments on the Snake River and
+      down the mainstem, plus further impoundments on the Snake River and
       other tributaries.
     </p>
 
     <p>
-      As treaty negotiations dragged on, a veritable frenzy of dam-building
+      As treaty negotiations with Canada dragged on, a veritable frenzy of dam-building
       seized the Pacific Northwest, with the future prospects of aluminum
       production, aviation, river commerce and recreation all dependent on
       increased hydrological control. Finally in 1964 the details of
@@ -148,7 +146,7 @@
       indigenous treaty claims expanded along with environmentalism, the
       "organic machine" that had literally forged the region's prosperity began
       to look like an alien power that had locked itself upon the meanders of
-      the river: a dead hand of cement choking off the lifestream of Cascadia.
+      the river: a dead hand of cement choking off the lifeblood of Cascadia.
     </p>
 
     <p>
@@ -158,15 +156,14 @@
         target="_blank"
         rel="nofollow"
         >Salmon Nation</a
-      >. An entirely new goal had swum into view, which has rarely been
-      explicitly stated but nonetheless has become quite clear. By helping to
+      >. An entirely new cosmovision swam into view, one which is not always
+      explicitly described, but has nonetheless become quite tangible for an entire sector of the population. This new territorial identity was based on the practical experience of ecological restoration, and on the particular coalitions it involved. By helping to
       develop original forms of scientific expertise both within mainstream
       civil society and among the tribes, an expanded environmental movement
-      could gain fresh sources of agency within the legal and administrative
+      sought fresh sources of agency within the legal and administrative
       arenas opened up by the Endangered Species Act. The latter had the force
       of law, transforming citizens' convictions and scientists' biological
-      opinions into instruments of tangible change. Many of those changes have
-      already come into effect. What has emerged over the last two decades,
+      opinions into instruments of tangible change. What has emerged since the late 1990s,
       within and against the rigid machinery of the dams, are the lineaments of
       a new kind of governance&mdash;the upturned foundations of a future
       bioregional state.
@@ -219,26 +216,7 @@
     </p>
 
     <br />
-    <Accordion>
-      <h3 slot="header">sources</h3>
-      <p>
-        For a full-spectrum investigation of the civilizational transformations
-        leading up to and beyond climate change, see
-        <a href="https://www.anthropocene-curriculum.org" target="blank"
-          >The Anthropocene Curriculum</a
-        >, with which "Learning from Cascadia" is affiliated.
-      </p>
-      <p>Data sources for this page include:</p>
-      <p>-- <a href="" target="_blank" rel="nofollow"></a></p>
-      <p>-- <a href="" target="_blank" rel="nofollow"></a></p>
-      <p>-- <a href="" target="_blank" rel="nofollow"></a></p>
-      <p>-- <a href="" target="_blank" rel="nofollow"></a></p>
-      <p>-- <a href="" target="__blank"></a></p>
-      <p>-- <a href="" target="_blank" rel="nofollow"></a></p>
-      <p>-- <a href="" target="_blank" rel="nofollow"></a></p>
-      <p>-- <a href="" target="_blank" rel="nofollow"></a></p>
-      <br />
-    </Accordion>
+ 
   </div>
 </template>
 <style scoped>

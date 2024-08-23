@@ -32,9 +32,8 @@
       BENEATH OUR FEET <br />by Linda Wysong &amp; Pamela Chipman
     </div>
     <br />
-
+    <div class="accordion_title">legends</div>
     <Accordion :open="false">
-      <h3 slot="header">legends</h3>
       <div class="flex">
         <div>
           <img src="icons/legends/urbangrid.png" />
@@ -65,12 +64,12 @@
         </div>
         <em>Use SHIFT + vertical arrows to adjust the spyglass at max zoom.</em>
       </div>
-    </Accordion>
+    </Accordion><br>
 
     <p>
       The image to your left shows the Portland metro area, with streets in dark
       blue, railways in orange and automobile traffic in bright green (it'll
-      shift to yellow and red at rush hour). Underneath the traffic, a dendritic
+      shift to yellow and red at rush hour). Underneath the traffic, a nervous
       tangle of crimson filaments represents the regional electric
       grid&mdash;just one of the ways the metropolis reaches out to the
       countryside for resources.
@@ -99,30 +98,30 @@
     <p>
       Linked by Interstate 5&mdash;and maybe someday by high-speed
       rail&mdash;Eugene, Salem, Portland, Tacoma, Seattle, Everett, Bellingham,
-      Vancouver and half a dozen smaller conurbations make up the Cascadian
-      megaregion (see
-      <AppLightBox :images="megaImages">promotional map</AppLightBox>). In its
+      Vancouver and half a dozen smaller conurbations make up the 
+      <span
+        class="maplink"
+        @click="
+          emit('set-map-view', { center: [-122.301, 46.884], resolution: 1200 })
+        "
+        >Cascadian megaregion</span
+      >. In its
       turn, Cascadia is but one of eleven US megaregions, which themselves take
       their place among some forty global urban clusters, including such giants
-      as Hong Kong-Shenhzen-Guangzhou and Rio de Janeiro-Sao Paulo. The
-      megaregion has recently been defined as
+      as Hong Kong-Shenhzen-Guangzhou and Rio de Janeiro-Sao Paulo. Zoom out to see Cascadia's place in the network of 
+      <span
+        class="maplink"
+        @click="
+          emit('set-map-view', { center: [-98.201, 38.889], resolution: 6500 })
+        "
+        >US megaregions</span
+      >. The megaregion has recently been defined as
       <a
         href="https://books.google.com/books?id=jIEZBgAAQBAJ&lpg=PP1&dq=Megaregions&pg=PP1#v=onepage&q&f=false"
         target="_blank"
         rel="nofollow"
         >globalization's urban form</a
       >.
-    </p>
-
-    <p>
-      Zoom out to see Cascadia's place in the network of US megaregions, or
-      <span
-        class="link"
-        @click="
-          emit('set-map-view', { center: [-98.201, 38.889], resolution: 6000 })
-        "
-        >click here</span
-      >. Zoom further out for the entire global network.
     </p>
 
     <p>
@@ -138,21 +137,20 @@
     <p>
       Yet just as humans are an animal population, so Cascadia is part of the
       earth system. Its consumption of fossil fuels, its thirst for channeled
-      water and its dependence on industrial agriculture together constitute a
+      water and dependence on industrial agriculture together constitute a
       <a
-        href="https://www.anthropocene-curriculum.org/pages/root/campus-2016/techno-metabolism/"
+        href="https://www.anthropocene-curriculum.org/project/technosphere/campus-2016/seminar-techno-metabolism"
         target="_blank"
         >techno-metabolism</a
-      >, whose organic structure and temporal pulse remain obscure for the
-      majority of its inhabitants. Taking a cue from artists Lynda Wysong and
+      >, integrated to the regional ecology that it is changing beyond recognition. Taking a cue from artists Lynda Wysong and
       Pamela Chipman, we could all start exploring the ground beneath our feet.
     </p>
 
     <p>
       This section of <strong>Learning from Cascadia</strong> maps out what may
-      be called "the Anthropocene city"&mdash;its spatial contours, its
+      be called "Anthropocene urbanization"&mdash;its spatial contours, its
       historical legacies of colonialism and racism, its energy technologies and
-      its resource use, in short its capacity to reshape the surrounding
+      resource use, in short its capacity to reshape the surrounding
       environment and outselves at the same time. The idea is to lay bare the
       challenges of the climate-change era. Can we name the social matrix that
       all this emerged from? Can we represent and quantify a regional
@@ -162,26 +160,16 @@
       the unanswered questions of political ecology.
     </p>
     <br />
+    <div class="accordion_title">sources</div>
     <Accordion>
-      <h3 slot="header">sources</h3>
       <p>
         For a full-spectrum investigation of the civilizational transformations
         leading up to and beyond climate change, see
         <a href="https://www.anthropocene-curriculum.org" target="blank"
           >The Anthropocene Curriculum</a
-        >, with which "Learning from Cascadia" is affiliated.
+        >, with which this project is affiliated.
       </p>
-      <p>Data sources for this page include:</p>
-      <p>-- <a href="" target="_blank" rel="nofollow"></a></p>
-      <p>-- <a href="" target="_blank" rel="nofollow"></a></p>
-      <p>-- <a href="" target="_blank" rel="nofollow"></a></p>
-      <p>-- <a href="" target="_blank" rel="nofollow"></a></p>
-      <p>-- <a href="" target="__blank"></a></p>
-      <p>-- <a href="" target="_blank" rel="nofollow"></a></p>
-      <p>-- <a href="" target="_blank" rel="nofollow"></a></p>
-      <p>-- <a href="" target="_blank" rel="nofollow"></a></p>
-      <br />
-    </Accordion>
+    </Accordion><br>
   </div>
 </template>
 <style scoped>

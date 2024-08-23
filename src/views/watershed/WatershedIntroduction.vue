@@ -7,26 +7,6 @@
     <br />
     <div class="caption">Does the territory inhabit you?</div>
     <br />
-    <Accordion :open="false">
-      <h3 slot="header">Welcome</h3>
-      <div class="flex">
-        <p>
-          This is a work in progress. It's full of insights, but also gaps,
-          errors and hidden prejudices or distortions that the authors cannot
-          see. You're welcome to enjoy it and to help make it better. If you'd
-          like to see something here, or have comments or critiques or a
-          revelation to share, just send a message to learningfromcascadia AT
-          gmail.com.
-        </p>
-      </div>
-    </Accordion>
-
-    <p>
-      <audio controls>
-        <source src="audio/Introduction.mp3" type="audio/mpeg" />
-        Your browser does not support the audio element.</audio
-      ><br /><br />
-    </p>
 
     <p>
       The Columbia Gorge is one of the most beautiful sights on earth. But a
@@ -35,7 +15,11 @@
 
     <p>
       The Columbia River watershed is a far-flung territory including parts of
-      six US states and one Canadian province. Its border is traced, not by
+      six US states and one Canadian province. Its 
+      <span
+        class="maplink"
+        @click="
+          emit('set-map-view', { center: [-118.9306, 47.50], resolution: 2400 })">border</span> is traced, not by
       governments or treaties, but by every drop of water that finds a common
       path to the ocean.
     </p>
@@ -49,7 +33,7 @@
       circulation through a territory. What it takes from the clouds, it gives
       back to
       <span
-        class="link"
+        class="maplink"
         @click="
           emit('set-map-view', { center: [-123.435, 46.213], resolution: 120 })
         "
@@ -75,16 +59,7 @@
     </p>
 
     <p>
-      The main sections are accessed through the navigational bar at the top,
-      while specific locations and themes are reached by the panel at lower
-      left. Sometimes further buttons appear at the bottom of the map, to take
-      you through more complex stories. When in doubt, just click on any word or
-      marker or object that you see, and there's a good chance it will reveal
-      something.
-    </p>
-
-    <p>
-      Watershed is a scientific category that provides the frame for citizen
+      The name of this section, "Watershed," uses a standard scientific category that provides an adminstrative frame for resource exploitation, but also for citizen
       activism and advocacy. Two more speculative headings also appear at the
       top: Megaregion and Bioregion. They're like the red and the blue pill.
       Which one will you choose? Which one is which?
@@ -101,16 +76,33 @@
       quixotic hope of "Learning from Cascadia."
     </p>
     <br />
+    <div class="accordion_title">navigation</div>
+    <Accordion :open="false">
+      <h3 slot="header">how to use the map</h3>
+      <div class="flex">
+        <p>
+          The three main sections are accessed through the navigation bar at the top, while specific locations and themes are reached by clicking on the panel items at lower left. The "home" icon on the top bar takes you back to the start. In some cases further buttons appear at the bottom of the map, to guide you through more complex territories. If you see  
+      <span
+        class="maplink"
+        @click="
+          emit('set-map-view', { center: [-114.989, 44.117], resolution: 36 })
+        "
+        >a link colored purple</span
+      >, that will take you somewhere interesting. When in doubt, just click on any word or marker or object that looks significant, and there's a good chance it will reveal something.
+    </p>
 
+      </div>
+    </Accordion>
+    <div class="accordion_title">sources</div>
     <Accordion>
-      <h3 slot="header">sources</h3>
+      <h3 slot="header">code</h3>
       <p>
         This work is made with public data and free software. Code repository
-        <a href="https://github.com/Brian393/ecotopia-today" target="blank"
+        <a href="https://github.com/Brian393/learning-from-cascadia" target="blank"
           >here</a
         >.
       </p>
-      <p>Major sources for this page include:</p>
+      <h3 slot="header">sources of Watershed basemap:</h3>
       <p>
         --
         <a

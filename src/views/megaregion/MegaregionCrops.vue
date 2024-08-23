@@ -7,22 +7,28 @@
 <template>
   <div class="aside-content">
     <div class="title">
-      <div class="tighter"><h1>Water to the desert of the real</h1></div>
+      <div class="tighter"><h1>Water for the desert of the real</h1></div>
     </div>
     <img src="images/Irrigation.jpg" class="fullwidth" />
     <div class="caption">Center-pivot irrigation on the Columbia Plateau</div>
     <br />
-
+    <div class="accordion_title">legends</div>
     <Accordion :open="false">
-      <h3 slot="header">legends</h3>
       <div class="flex">
         <h3>Crops by frequency</h3>
         <img src="images/CropKey.png" class="fullwidth" />
       </div>
-    </Accordion>
+    </Accordion><br>
 
     <p>
-      Winter wheat is the most common crop on this map, shown in dark brown.
+      Winter wheat is the most common crop on this map, shown in 
+      <span
+        class="maplink"
+        @click="
+          emit('set-map-view', { center: [-118.656, 46.741], resolution: 26 })
+        "
+        >dark orange</span
+      >.
       It's typically cultivated without irrigation on fields that may receive
       less than 6 inches of rain a year. However, the majority of crops in the
       region require intensive irrigation, using water sourced from reservoirs
@@ -31,14 +37,14 @@
     </p>
 
     <p>
-      Any crop whose footprint appears as a circle is irrigated with a
+      Any crop whose footprint appears as a circle is likely irrigated with a
       center-pivot system like the one pictured above. Other techniques such a
       drip lines or conventional sprinklers are frequently employed. A glance at
       the map shows that the highly valuable inland agriculture of Washington,
       Oregon and Idaho hugs close to the Columbia River and its tributaries,
       particularly
       <span
-        class="link"
+        class="maplink"
         @click="
           emit('set-map-view', { center: [-114.8, 43.5], resolution: 650 })
         "
@@ -54,6 +60,15 @@
       River, click the button entitled Columbia Basin Project at the bottom of
       the page.
     </p>
+    <div class="accordion_title">sources</div>
+    <Accordion>
+      <p>
+       The agricultural data on this page come from the USDA's
+        <a href="https://www.nass.usda.gov/Research_and_Science/Cropland/Release/index.php" target="blank"
+          >Cropland Data Layer</a
+        > (2017).
+      </p>
+    </Accordion><br>
   </div>
 </template>
 <style scoped>

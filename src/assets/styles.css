@@ -1,6 +1,6 @@
 
 aside a, .link {
-	color: #008080;
+	color: #008000;
 	text-decoration: none;
 }
 
@@ -9,8 +9,18 @@ aside a, .link {
 }
 
 aside a:visited, .link {
-	color: #004d4d;
+	color: #008000;
 }
+
+.maplink {
+	color: #63097f;
+	text-decoration: none;
+}
+
+.maplink:hover {
+	cursor: pointer;
+}
+
 
 
 /* OpenLayers styling in Map* components */
