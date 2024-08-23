@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "CascadiaSolar",
+"features": [
+{ "type": "Feature", "properties": {"image": "<img src='cascadia/images/Solar/GrandView.jpg'>", "title": "Grand View Solar Two", "text1": "Primary source: Solar PV", "text2":  "Maximum  output: 80 megawatts", "text3": "Owner: Clenera LLC" }, "geometry": { "type": "Point", "coordinates": [ -116.0140192, 43.0180806 ] } },
+{ "type": "Feature", "properties": {"image": "<img src='cascadia/images/Solar/Jackpot.jpg'>", "title": "Jackpot Solar, LLC", "text1": "Primary source: Solar PV", "text2":  "Maximum  output: 120 megawatts", "text3": "Owner: Duke Energy Corp" }, "geometry": { "type": "Point", "coordinates": [ -114.6309732, 42.2009415 ] } },
+{ "type": "Feature", "properties": {"image": "<img src='cascadia/images/Solar/Gaia.jpg'>", "title": "Gaia Solar", "text1": "Primary source: Solar PV", "text2":  "Maximum  output: 56 megawatts", "text3": "Owner: Avangrid Renewables" }, "geometry": { "type": "Point", "coordinates": [ -120.916559, 44.1838528 ] } },
+{ "type": "Feature", "properties": {"image": "<img src='cascadia/images/Solar/Wheatridge.jpg'>", "title": "Wheatridge Hybrid", "text1": "Primary source: Solar PV", "text2":  "Maximum  output: 50 megawatts", "text3": "Owner: NextEra Energy Inc" }, "geometry": { "type": "Point", "coordinates": [ -119.609863, 45.5596976 ] } },
+{ "type": "Feature", "properties": {"image": "<img src='cascadia/images/Solar/Montague.jpg'>", "title": "Montague Solar-Pachwáywit Fields", "text1": "Primary source: Solar PV", "text2":  "Maximum  output: 162 megawatts", "text3": "Owner: Avangrid Renewables" }, "geometry": { "type": "Point", "coordinates": [ -120.1753732, 45.5363122 ] } }
+]
+}
