@@ -650,7 +650,7 @@ export default {
       const featureDate = feature.values_["date"] || "";
       const iconSrc = feature.values_["icon"] || "";
       const start = new Date().getTime();
-      const listenerKey = this.olmap.on("postcompose", (event) => {
+      const listenerKey = this.olmap.on("postrender", (event) => {
         const duration = 2500;
         const elapsed = event.frameState.time - start;
         const elapsedRatio = elapsed / duration;
@@ -687,7 +687,7 @@ export default {
           unByKey(listenerKey);
           return;
         }
-        // tell OpenLayers to continue postcompose animation
+        // tell OpenLayers to continue postrender animation
         this.olmap.render();
       });
       this.listenerKeys.push(listenerKey);

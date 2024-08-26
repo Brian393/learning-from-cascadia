@@ -36,7 +36,7 @@
     <div class="accordion_title">legends</div>
     <Accordion :open="false">
       <div class="flex">Roll the mouse over the map, or touch any feature, to see which kinds of crops are being grown and kind of irrigation is used.</div>
-    </Accordion><br>
+    </Accordion><br><br>
 
     <p>
       The blue splash at the center of this page is called Potholes

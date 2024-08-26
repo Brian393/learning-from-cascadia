@@ -194,10 +194,10 @@ export default {
         maxResolution: 4,
       });
 
-      USGStopoTile.on("precompose", (e) => {
+      USGStopoTile.on("prerender", (e) => {
         this.spyglass(e);
       });
-      USGStopoTile.on("postcompose", function (e) {
+      USGStopoTile.on("postrender", function (e) {
         e.context.restore();
       });
 
@@ -615,7 +615,7 @@ export default {
       // const colorIndex = Math.ceil(Math.random()*16)
       colIndex = (colIndex + 1) % 32;
       const colorIndex = colIndex;
-      const listenerKey = this.olmap.on("postcompose", (event) => {
+      const listenerKey = this.olmap.on("postrender", (event) => {
         const duration = 1800;
         const elapsed = event.frameState.time - start;
         const elapsedRatio = elapsed / duration;
@@ -630,7 +630,7 @@ export default {
             stroke: new Stroke({
               // color: 'rgba(255, 0, 0, 1)',
               color: this.colors[colorIndex],
-              width: 3.8,
+              width: 4,
             }),
           }),
         ]);

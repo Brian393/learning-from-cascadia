@@ -21,13 +21,12 @@
     <br />
     <div class="caption">Falling water, Olympic Peninsula</div>
     <br />
+    <div class="accordion_title">legends</div>
     <Accordion :open="false">
-      <h3 slot="header">legends</h3>
       <div class="flex">
-        <p></p>
+      <img src="images/orcas_spyhopping.png" class="fullwidth" />
       </div>
-    </Accordion>
-    <br />
+    </Accordion><br><br>
 
     <p class="quote">
       "Living-in-place means following the necessities and pleasures of life as

@@ -60,10 +60,10 @@ export default {
         minResolution: 1,
         maxResolution: 10,
       });
-      bingMapTile.on("precompose", (e) => {
+      bingMapTile.on("prerender", (e) => {
         this.spyglass(e);
       });
-      bingMapTile.on("postcompose", function (e) {
+      bingMapTile.on("postrender", function (e) {
         e.context.restore();
       });
 
@@ -248,10 +248,10 @@ export default {
         minResolution: 0.125,
         maxResolution: 1,
       });
-      bingMapTile.on("precompose", (e) => {
+      bingMapTile.on("prerender", (e) => {
         this.spyglass(e);
       });
-      bingMapTile.on("postcompose", function (e) {
+      bingMapTile.on("postrender", function (e) {
         e.context.restore();
       });
 
@@ -468,10 +468,10 @@ export default {
         minResolution: 1,
         maxResolution: 10,
       });
-      bingMapTile.on("precompose", (e) => {
+      bingMapTile.on("prerender", (e) => {
         this.spyglass(e);
       });
-      bingMapTile.on("postcompose", function (e) {
+      bingMapTile.on("postrender", function (e) {
         e.context.restore();
       });
 

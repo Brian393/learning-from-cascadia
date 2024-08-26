@@ -64,7 +64,7 @@
 #app {
   /* Steven 1/18 */
   /* font-family: 'Avenir', Helvetica, Arial, sans-serif; */
-  font-family: "Garamond", Arial, and Monospace;
+  font-family: "Roboto", Arial, and Monospace;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   display: flex;
