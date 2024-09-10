@@ -45,8 +45,8 @@
       >&mdash;
     </div>
     <br />
+    <div class="accordion_title">legends</div>
     <Accordion :open="false">
-      <h3 slot="header">legends</h3>
       <div class="flex">
         <img src="images/ChinookAlevin.png" class="fullwidth" /><br />Chinook
         alevin,
@@ -61,27 +61,27 @@
     <p>
       The Pacific Northwest has always been about fish. Fish nets, fish wheels,
       fish canneries, fish hatcheries, fly fishing, fish tales. But how did
-      later generations of settlers come to experience salmon as an entire range
-      of autonomous beings, divided into mysterious creaturely clans, each with
-      their own sense of home? Such an encounter, placed under the tragic sign
+      later generations of settlers come to experience salmon as
+      autonomous beings divided into mysterious creaturely clans, each with
+      their own keen sense of home? How did they come to recognize their own fate in that of another species? Such an encounter, placed under the tragic sign
       of possible extinction and mediated by the very particular fishing demands
-      of Native Americans, is definitely among the wellsprings of Cascadia.
+      of Native Americans, is clearly among the wellsprings of Cascadian bioregionalism.
     </p>
 
     <p>
       What you see on the map are the critical habitat areas of chinook, coho,
       chum and sockeye salmon in the US Pacific Northwest. Critical habitat
       means, not just anywhere the fish go, but stream reaches that have been
-      determined essential to the continuing existence of unique wild
+      determined essential to the continuing reproduction of unique wild
       populations. The health of a stream depends on the watershed surrounding
-      it, so what's really at issue in the map is the terrestial ecology of the
-      ocean-going fish. But since the our own health depends on that of the
+      it, so what's really at issue is the terrestial ecology of the
+      ocean-going fish. And since the our own health depends on that of the
       watersheds, it's also about the terrestrial ecology of world-traveling
       humans.
     </p>
 
     <p>
-      The cartographic image simplifies their movements through the territory,
+      The cartographic image simplifies the movements of the salmon through the territory,
       condensing the migrations of all the different species into streams of a
       single color: survival lines. These life-lines ask you how the salmon
       maintain a generational bond between the mountains and the sea&mdash;and
@@ -103,7 +103,7 @@
       In effect, any stream reach can be home to multiple stocks of fish, or
       "evolutionarily significant units" (ESUs), which is the term used under
       the Endangered Species Act. This concept of ESUs, or localized inbreeding
-      populations, allows us to think of salmon, not just as a tasty catch, but
+      populations, allows us to think of salmon not just as a tasty catch, but
       instead as distinct communities of fate, each of which struggles to
       survive and reproduce under very particular conditions. Something of the
       Indigenous respect for the integrity of each living species resurfaces
@@ -138,9 +138,6 @@
       help keep this incredible connection alive?
     </p>
     <br />
-    <Accordion>
-      <h3 slot="header">sources</h3>
-    </Accordion>
   </div>
 </template>
 <style scoped>

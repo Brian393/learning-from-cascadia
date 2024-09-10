@@ -21,10 +21,11 @@
     <br />
     <div class="caption">Pink salmon fry</div>
     <br />
+    <div class="accordion_title">legends</div>
     <Accordion :open="false">
-      <h3 slot="header">legends</h3>
       <div class="flex">
         <img src="images/Pink_Salmon.png" class="fullwidth" />
+        Pink Salmon
       </div>
     </Accordion><br>
     <br />
@@ -52,9 +53,8 @@
       be a good thing.
     </p>
     <br />
-
+    <div class="accordion_title">sources</div>
     <Accordion>
-      <h3 slot="header">sources</h3>
       <p>
         The data used here record any stream reach where the species has been
         observed over the past three decades, and therefore cover much more

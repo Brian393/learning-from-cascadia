@@ -21,10 +21,11 @@
     <br />
     <div class="caption">Chum salmon brings ocean nutrients to the forest</div>
     <br />
+    <div class="accordion_title">legends</div>
     <Accordion :open="false">
-      <h3 slot="header">legends</h3>
       <div class="flex">
         <img src="images/Chum_Salmon.png" class="fullwidth" />
+        Chum Salmon
       </div>
     </Accordion><br>
     <br />
@@ -53,16 +54,15 @@
       by the EPA as Threatened. Twenty-two percent of the chum populations in
       the Salish Sea have gone extinct, and yet surprisingly, only two percent
       have disappeared from the Columbia River Basin. The fish used to make it a
-      short way up the Snake River, but they now stop short at the Bonneville
+      short way up the Snake River, but they now stop at the Bonneville
       Dam. However, the <em>Atlas of Pacific Salmon</em>, published in 2005,
       puts 67% of the Columbia River chum communities at moderate risk of
       extinction, and 33% at high risk. You will know things are getting better
       when large numbers of chum start returning to the Columbia.
     </p>
     <br />
-
+    <div class="accordion_title">sources</div>
     <Accordion>
-      <h3 slot="header">sources</h3>
       <p>
         The data used here record any stream reach where the species has been
         observed over the past three decades, and therefore cover much more

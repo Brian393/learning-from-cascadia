@@ -46,10 +46,12 @@
       <a href="https://vimeo.com/44999906">here</a>&mdash;
     </div>
     <br />
+    <div class="accordion_title">sources</div>
     <Accordion :open="false">
       <h3 slot="header">legends</h3>
       <div class="flex">
         <img src="images/Chinook_Salmon.png" class="fullwidth" />
+        Chinook Salmon
       </div>
     </Accordion>
     <br />
@@ -63,7 +65,7 @@
     </p>
 
     <p>
-      Roll the mouse across the map to discover where chinook have been seen
+      Roll the mouse across the map, or just tap some of the riverbeds with your finger, to discover where chinook have been seen
       over the last three decades. Maybe you know some of these places? Find the
       streams where they still spawn, and trace their survival lines back
       through the Columbia to the ocean. Notice the precise spot on the Snake
@@ -83,7 +85,7 @@
       have been devastating for the chinooks.
     </p>
     <br />
-
+    <div class="accordion_title">sources</div>
     <Accordion>
       <h3 slot="header">sources</h3>
       <p>

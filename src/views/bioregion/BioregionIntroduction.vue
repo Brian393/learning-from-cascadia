@@ -36,10 +36,13 @@
     </p>
 
     <p>
-      With these words, Peter Berg and Raymond Dasmann invented bioregionalism.
+      In a 1977 essay called 
+      <a href="https://reader.exacteditions.com/issues/5704/page/29" target="_blank" rel="nofollow"
+        >Reinhabiting California</a
+      >, Peter Berg and Raymond Dasmann coined the term <em>bioregionalism</em>.
       They conceived it not as starting fresh but as returning to things
       forgotten, with an awareness of past mistakes and a particular respect for
-      the earliest inhabitants of North America. That was forty years ago. The
+      the earliest inhabitants of North America. That was almost fifty years ago. The
       inspiration was poetic, scientific and political.
     </p>
 
@@ -50,7 +53,7 @@
       <a href="http://cascadia-institute.org" target="_blank" rel="nofollow"
         >David McCloskey</a
       >, the outline of Cascadia is recognized across national boundaries. Some
-      movements call for its independence. But for everyone, interdependence is
+      movements call for its independence. But interdependence is
       the crucial thing.
     </p>
 
@@ -91,14 +94,13 @@
       process, while attending to the conflicts and divergences that real
       encounters bring. No attempt has been made here to avoid science,
       technology, politics, capitalism or least of all, the emergent bioregional
-      state. But where Megaregion presents itself as a destiny, Bioregion is
-      clearly a search for a different way of living.
+      state. But where Megaregion presents itself as a modernist destiny, Bioregion is
+      clearly a search for an alternative way of living.
     </p>
 
     <br />
 
     <Accordion>
-      <h3 slot="header">sources</h3>
     </Accordion>
   </div>
 </template>

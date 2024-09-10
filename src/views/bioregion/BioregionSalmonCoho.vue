@@ -41,10 +41,11 @@
     </div>
     <div class="caption">Coho salmon on Eagle Creek</div>
     <br />
+    <div class="accordion_title">legends</div>
     <Accordion :open="false">
-      <h3 slot="header">legends</h3>
       <div class="flex">
         <img src="images/Coho_Salmon.png" class="fullwidth" />
+        Coho Salmon
       </div>
     </Accordion><br>
     <br />
@@ -72,9 +73,8 @@
       weedkiller or dam that stream.
     </p>
     <br />
-
+    <div class="accordion_title">sources</div>
     <Accordion>
-      <h3 slot="header">sources</h3>
       <p>
         The data used here record any stream reach where the species has been
         observed over the past three decades, and therefore cover much more
