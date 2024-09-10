@@ -84,7 +84,7 @@ export default {
       return [
         new Tile({
           source: new XYZ({
-            url: "http://server.arcgisonline.com/ArcGIS/rest/services/World_Physical_Map/MapServer/tile/{z}/{y}/{x}.png",
+            url: "https://geo.timetochange.today/geoserver/gwc/service/tms/1.0.0/osm%3AWorld_Physical_Map@EPSG%3A900913@png/{z}/{x}/{-y}.png",
           }),
           opacity: 0.9,
           minResolution: 5,
@@ -95,14 +95,14 @@ export default {
             url: "http://ecotopia.today/cascadia/Tiles/Cascadia-new/{z}/{x}/{y}.png",
           }),
           opacity: 1,
-          minResolution: 5,
+          minResolution: 2,
         }),
         new Tile({
           source: new XYZ({
             url: "https://services.arcgisonline.com/arcgis/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}",
           }),
-          opacity: 0.7,
-          minResolution: 2,
+          opacity: 0.9,
+          minResolution: 1,
           maxResolution: 16,
         }),
       ];
@@ -238,15 +238,6 @@ export default {
           }),
           opacity: 1,
           minResolution: 2,
-        }),
-        new Tile({
-          source: new BingMaps({
-            key: "Asxv26hh6HvBjw5idX-d8QS5vaJH1krMPBfZKjNmLjaQyr0Sc-BrHBoatyjwzc_k",
-            imagerySet: "Aerial",
-          }),
-          opacity: 0.2,
-          minResolution: 2,
-          maxResolution: 10,
         }),
         new Tile({
           source: new XYZ({
@@ -630,7 +621,7 @@ export default {
             stroke: new Stroke({
               // color: 'rgba(255, 0, 0, 1)',
               color: this.colors[colorIndex],
-              width: 4,
+              width: 3.8,
             }),
           }),
         ]);

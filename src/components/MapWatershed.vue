@@ -16,7 +16,6 @@ export default {
   data: function () {
     return {
       centerPoints: {
-        // #TODO: these probably could have better names like watershedIntroduction, watershedHanford, watershedHanfordLegacy to be a bit more semantically obvious
         acknowledgement: {
           center: [-121.36, 47.7],
           resolution: 2000,
@@ -77,10 +76,10 @@ export default {
       return [
         new Tile({
           source: new XYZ({
-            url: "http://server.arcgisonline.com/ArcGIS/rest/services/World_Physical_Map/MapServer/tile/{z}/{y}/{x}.png",
+            url: "https://geo.timetochange.today/geoserver/gwc/service/tms/1.0.0/osm%3AWorld_Physical_Map@EPSG%3A900913@png/{z}/{x}/{-y}.png",
           }),
           opacity: 1,
-          minResolution: 5,
+          minResolution: 40,
         }),
         new Tile({
           preload: Infinity,
@@ -89,14 +88,6 @@ export default {
           }),
           opacity: 1,
           minResolution: 2,
-        }),
-        new Tile({
-          source: new XYZ({
-            url: "https://services.arcgisonline.com/arcgis/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}",
-          }),
-          opacity: 0.7,
-          minResolution: 2,
-          maxResolution: 8,
         }),
         new Tile({
           preload: Infinity,
@@ -115,9 +106,9 @@ export default {
           source: new XYZ({
             url: "https://server.arcgisonline.com/ArcGIS/rest/services/NatGeo_World_Map/MapServer/tile/{z}/{y}/{x}",
           }),
-          opacity: 0.9,
-          minResolution: 2,
-          maxResolution: 16000,
+          opacity: 1,
+          minResolution: 8,
+          maxResolution: 26000,
         }),
         new Tile({
           preload: Infinity,
@@ -125,16 +116,16 @@ export default {
             url: "http://ecotopia.today/cascadia/Tiles/Columbia/{z}/{x}/{y}.png",
           }),
           opacity: 1,
-          minResolution: 2,
-          maxResolution: 16000,
+          minResolution: 4,
+          maxResolution: 26000,
         }),
         new Tile({
           source: new XYZ({
             url: "https://basemap.nationalmap.gov/arcgis/rest/services/USGSTopo/MapServer/tile/{z}/{y}/{x}",
           }),
-          opacity: 0.7,
+          opacity: 0.9,
           minResolution: 1,
-          maxResolution: 8,
+          maxResolution: 10,
         }),
       ];
     },
@@ -433,7 +424,7 @@ export default {
           center: fromLonLat(this.centerPoints.introductionwater.center),
           resolution: this.centerPoints.introductionwater.resolution,
           minResolution: 2,
-          maxResolution: 2000,
+          maxResolution: 40000,
         })
       );
     },
