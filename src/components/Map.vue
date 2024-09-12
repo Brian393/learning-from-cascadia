@@ -62,6 +62,7 @@ import { Vector as VectorSource } from "ol/source"; // OSM
 import { GeoJSON } from "ol/format";
 import { Style, Stroke, Fill, Icon } from "ol/style";
 import { ScaleLine, defaults as defaultControls } from "ol/control";
+import { defaults as defaultInteractions } from 'ol/interaction';
 import { fromLonLat } from "ol/proj";
 
 export default {
@@ -193,8 +194,14 @@ export default {
               minWidth: 150,
             }),
           ]),
+      interactions: defaultInteractions({
+        altShiftDragRotate: false, // Disable rotation with Alt+Shift+Drag
+        pinchRotate: false, // Disable rotation with pinch on touch screens
+           }),
         });
+
         this.toggleScaleLine();
+
         this.olmap.on("singleclick", (e) => {
           const feature = this.olmap.forEachFeatureAtPixel(
             e.pixel,
