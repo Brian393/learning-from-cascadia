@@ -4,6 +4,7 @@ import { createStore } from "vuex";
 // each Vuex instance is just a single state tree.
 const state = {
   asideHidden: false,
+  animTimeouts: [],
 };
 
 // mutations are operations that actually mutates the state.
@@ -16,17 +17,24 @@ const mutations = {
     // console.log('store toggle!!')
     state.asideHidden = !state.asideHidden;
   },
+  clearAnimTimeouts(state) {
+    state.animTimeouts = [];
+  },
 };
 
 const actions = {
   toggle(context) {
     context.commit("toggle");
   },
+  clearAnimTimeouts(context) {
+    context.commit("clearAnimTimeouts");
+  },
 };
 
 // getters are functions
 const getters = {
   asideHidden: (state) => state.asideHidden,
+  animTimeouts: (state) => state.animTimeouts,
 };
 
 // A Vuex instance is created by combining the state, mutations, actions,
@@ -42,6 +50,7 @@ const store = createStore({
   state() {
     return {
       asideHidden: false,
+      animTimeouts: [],
     };
   },
   getters,
