@@ -12,6 +12,8 @@ import { easeOut } from "ol/easing.js";
 // import VideoLightBox from './VideoLightBox.vue'
 import MediaLightBox from "./MediaLightBox.js";
 import $ from "jquery";
+import { mapGetters } from "vuex";
+
 let colormap = require("colormap");
 let colIndex = 0;
 
@@ -73,13 +75,13 @@ export default {
       bioregionDancingIsAnimating: true,
       didSetSingleclickEvent: false,
       listenerKeys: [],
-      animTimeouts: [],
       radius: 150,
       mousePosition: undefined,
       colors: [],
     };
   },
   computed: {
+    ...mapGetters(["animTimeouts"]),
     baseLayers: function () {
       return [
         new Tile({
@@ -343,6 +345,7 @@ export default {
   methods: {
     initMap: function () {
       this.bioregionDancingIsAnimating = true;
+      this.clearFlash();
       switch (this.$route.name) {
         case "bioregionIntroduction":
           this.initBioregionIntro();
@@ -597,35 +600,36 @@ export default {
       }
       ctx.clip();
     },
+    clearFlash() {
+      this.animTimeouts.forEach((timeout) => {
+        clearTimeout(timeout);
+      });
+      this.$store.dispatch("clearAnimTimeouts");
+      $(".mapInfo-section1").text("");
+      $(".mapInfo-section2").text("");
+      $(".mapInfo-section3").text("");
+      $(".mapInfo-section4").text("");
+    },
     flash: function (feature) {
       const featureTitle = feature.values_["title"] || "";
       const featureDate = feature.values_["date"] || "";
       const featureRoute = feature.values_["route"] || "";
       const featurePurpose = feature.values_["purpose"] || "";
-      const start = new Date().getTime();
-      // const colorIndex = Math.ceil(Math.random()*16)
       colIndex = (colIndex + 1) % 32;
       const colorIndex = colIndex;
-      const listenerKey = this.olmap.on("postrender", (event) => {
-        const duration = 1800;
-        const elapsed = event.frameState.time - start;
-        const elapsedRatio = elapsed / duration;
-        const opacity = easeOut(1.2 - elapsedRatio);
-        // Steven 1/18
-        $("div.mapInfo-section1").text(featureTitle);
-        $("div.mapInfo-section2").text(featureDate);
-        $("div.mapInfo-section3").text(featureRoute);
-        $("div.mapInfo-section4").text(featurePurpose);
-        feature.setStyle([
-          new Style({
-            stroke: new Stroke({
-              // color: 'rgba(255, 0, 0, 1)',
-              color: this.colors[colorIndex],
-              width: 3.8,
-            }),
+      $("div.mapInfo-section1").text(featureTitle);
+      $("div.mapInfo-section2").text(featureDate);
+      $("div.mapInfo-section3").text(featureRoute);
+      $("div.mapInfo-section4").text(featurePurpose);
+      feature.setStyle([
+        new Style({
+          stroke: new Stroke({
+            // color: 'rgba(255, 0, 0, 1)',
+            color: this.colors[colorIndex],
+            width: 3.8,
           }),
-        ]);
-      });
+        }),
+      ]);
     },
   },
 };
