@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "yellow",
+"features": [
+{ "type": "Feature", "properties": { "Title": "Kalama Methanol Plant\n", "Description": "Status: Active proposal<br>Output: Methanol<br>Annual Capacity: 3.6 million metric tons<br>Backer Corporation: NW Innovation Works<br>Location: Kalama, WA<br>Sightline research: <a href='http://www.sightline.org/2016/10/28/kalamas-methanol-refinery-by-the-numbers/' target='_blank'>here.</a>", "Type": "Fracking & petrochem", "status": "in play" }, "geometry": { "type": "Point", "coordinates": [ -122.8689909, 46.0462878, 0.0 ] } },
+{ "type": "Feature", "properties": { "Title": "Columbia Pacific Bio-Refinery oil-by-rail\n", "Description": "Status: Active<br>Output: Crude oil<br>Capacity: 120,000 barrels per day<br>Backer: Global Partners<br>Location: Clatskanie, OR<br>Sightline research: <a href='http://www.sightline.org/2017/06/07/another-columbia-river-oil-trains-proposal/' target='_blank'>here.</a>", "Type": "Oil project", "status": "in play" }, "geometry": { "type": "Point", "coordinates": [ -123.170337, 46.176479, 0.0 ] } },
+{ "type": "Feature", "properties": { "Title": "NEXT Renewable Fuels", "Description": "Status: Active<br>Output: Renewable diesel; LPGs<br>Capacity: 36,500 barrels per day<br>Backer: NEXT Energy<br>Location: Clatskanie, OR<br>Sightline research: Forthcoming", "Type": "Oil project", "status": "in play" }, "geometry": { "type": "Point", "coordinates": [ -123.1762101, 46.1786482, 0.0 ] } }
+]
+}

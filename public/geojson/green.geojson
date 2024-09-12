@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"name": "green",
+"features": [
+{ "type": "Feature", "properties": { "Title": "Zenith oil-by-rail", "Description": "Status: Operational<br>Output: Crude oil<br>Capacity: 16,250 barrels per day<br>Backer Corporation: Zenith<br>Location: Portland, OR <br>Sightline research: <a href='https://www.sightline.org/2015/07/06/1-million-barrels-a-day-100-trains-a-week/' target='_blank'>here.</a><br>https://www.opb.org/news/article/crude-oil-rail-portland-oregon-canada-ship-china/ ", "Type": "Oil project", "status": "operational" }, "geometry": { "type": "Point", "coordinates": [ -122.7382534, 45.5621522, 0.0 ] } }
+]
+}
