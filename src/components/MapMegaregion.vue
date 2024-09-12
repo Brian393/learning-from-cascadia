@@ -7,9 +7,48 @@ import { XYZ, Vector as VectorSource, BingMaps } from "ol/source";
 import { GeoJSON } from "ol/format";
 import { Style, Stroke, Fill } from "ol/style";
 import { fromLonLat } from "ol/proj";
+import VectorTileLayer from "ol/layer/VectorTile";
+import VectorTile from "ol/source/VectorTile";
+import MVT from "ol/format/MVT";
 
 import VideoLightBox from "./VideoLightBox.vue";
 import MediaLightBox from "./MediaLightBox.js";
+
+const congestionStyles = {
+  low: new Style({
+    stroke: new Stroke({
+      color: '#66d71f', // Color for low congestion
+      width: 2,
+    }),
+  }),
+  moderate: new Style({
+    stroke: new Stroke({
+      color: '#acd71f', // Color for moderate congestion
+      width: 2,
+    }),
+  }),
+  heavy: new Style({
+    stroke: new Stroke({
+      color: '#e3cc3e', // Color for heavy congestion
+      width: 2,
+    }),
+  }),
+  severe: new Style({
+    stroke: new Stroke({
+      color: '#ff0126', // Color for severe congestion
+      width: 2,
+    }),
+  }),
+};
+
+const trafficStyleFunction = (feature) => {
+  const properties = feature.getProperties(); // Inspect the properties of the feature
+  console.log(properties); // Debug: Log properties to console
+  const congestionClass = properties['congestion']; // Adjust the property name based on your data
+
+  // Return the corresponding style based on congestion or default to low
+  return congestionStyles[congestionClass] || congestionStyles['low'];
+};
 
 export default {
   name: "MapMegaregion",
@@ -46,7 +85,7 @@ export default {
           resolution: 140,
         },
       }, // end centerPoints
-      radius: 300,
+      radius: 250,
       mousePosition: undefined,
     };
   },
@@ -58,7 +97,7 @@ export default {
           imagerySet: "Aerial",
         }),
         minResolution: 1,
-        maxResolution: 10,
+        maxResolution: 8,
       });
       bingMapTile.on("prerender", (e) => {
         this.spyglass(e);
@@ -134,6 +173,16 @@ export default {
             loadTilesWhileInteracting: true,
           }),
         }),
+        new VectorTileLayer({
+    source: new VectorTile({
+      format: new MVT(),
+      url: "https://api.mapbox.com/v4/mapbox.mapbox-traffic-v1/{z}/{x}/{y}.vector.pbf?access_token=pk.eyJ1IjoiYmtob2xtZXMiLCJhIjoiNjlkYjI4MDUyYTRlZWEyYzkwYTdmOTgxNmMzOGYwMTUifQ.VSUo52PYOUzS60NR6jqXTw"
+    }),
+    style: trafficStyleFunction,
+    opacity: 0.8,
+    minResolution: 8,
+    maxResolution: 200,
+  }),
         // quadKeyLayer
         new Tile({
           minResolution: 20,

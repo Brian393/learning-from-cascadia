@@ -264,6 +264,11 @@ export default {
                 ? `<br>Cleanup progress <a href='${props.Cleanup_progress}' target='_blank'>here</a>`
                 : "";
               this.popup.setPosition(e.coordinate);
+            } else if (props.Title) {
+              this.$refs.popupContent.innerHTML =
+                "<h3>" + props.Title +"</h3>" + "<br>";
+              this.$refs.popupContent.innerHTML += props.Description;
+              this.popup.setPosition(e.coordinate);
             } else if (props.title) {
               this.$refs.popupContent.innerHTML = props.title;
               this.popup.setPosition(e.coordinate);
@@ -380,6 +385,7 @@ export default {
         maxResolution: maxResolution,
         style: this.geoJSONPointVectorLayerStyle,
         label: label,
+        opacity: opacity
       });
     },
     makeGeoJSONPointVectorLayer: function (

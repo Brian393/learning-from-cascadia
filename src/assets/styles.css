@@ -126,6 +126,17 @@ aside a:visited, .link {
   max-width: 350px;
 }
 
+.textitletip {
+  position: relative;
+  left: 18px;
+  padding: 3px;
+  width: 190px;
+  color: white;
+  text-align: center;
+  opacity: 1;
+  font-size: 14pt;
+}
+
 .titletip {
   position: relative;
   left: 18px;

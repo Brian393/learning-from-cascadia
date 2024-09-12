@@ -133,18 +133,27 @@ export default {
       return [
         ...this.watershedBaseLayers,
         this.makeGeoJSONPointVectorLayer(
-          "geojson/stopped.geojson",
+          "geojson/red.geojson",
           "icons/stop.png",
           null,
           2,
           32000
         ),
         this.makeGeoJSONPointVectorLayer(
-          "geojson/planned.geojson",
-          "icons/stopit.png",
+          "geojson/yellow.geojson",
+          "icons/yellow.png",
           null,
           2,
-          32000
+          32000,
+          0.9
+        ),
+        this.makeGeoJSONPointVectorLayer(
+          "geojson/green.geojson",
+          "icons/green.png",
+          null,
+          2,
+          32000,
+          0.9
         ),
       ];
     },
