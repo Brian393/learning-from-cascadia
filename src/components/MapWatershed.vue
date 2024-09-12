@@ -9,6 +9,7 @@ import { fromLonLat } from "ol/proj";
 import { easeOut } from "ol/easing.js";
 import { Style, Icon, Text, Fill, Stroke } from "ol/style";
 import { unByKey } from "ol/Observable.js";
+import MediaLightBox from "./MediaLightBox.js";
 
 export default {
   name: "MapWatershed",
@@ -134,7 +135,7 @@ export default {
         ...this.watershedBaseLayers,
         this.makeGeoJSONPointVectorLayer(
           "geojson/red.geojson",
-          "icons/stop.png",
+          "icons/red.png",
           null,
           2,
           32000
@@ -144,16 +145,21 @@ export default {
           "icons/yellow.png",
           null,
           2,
-          32000,
-          0.9
+          32000
         ),
         this.makeGeoJSONPointVectorLayer(
           "geojson/green.geojson",
-          "icons/green.png",
+          "icons/black.png",
           null,
           2,
-          32000,
-          0.9
+          32000
+        ),
+        this.makeGeoJSONPointVectorLayer(
+          "geojson/mosier.geojson",
+          "icons/derailment.png",
+          null,
+          2,
+          32000
         ),
       ];
     },
@@ -451,6 +457,23 @@ export default {
           minResolution: 2,
         })
       );
+      if (this.olmap) {
+        this.olmap.on("singleclick", (e) => {
+          const feature = this.olmap.forEachFeatureAtPixel(
+            e.pixel,
+            (feature) => {
+              return feature;
+            }
+          );
+          if (feature) {
+            const props = feature.getProperties();
+            if (props.vimeoSrc) {
+              const mediabox = new MediaLightBox(props.vimeoSrc);
+              mediabox.open();
+            }
+          }
+        });
+      }
     },
     initWatershedDams: function () {
       this.initBaseMap();

@@ -30,20 +30,17 @@
     <br />
     <div class="caption">Portland City Hall, Nov. 4, 2015</div>
     <br />
+    <div class="accordion_title">legends</div>
     <Accordion :open="false">
-      <h3 slot="header">legends</h3>
       <div class="flex">
-        <img src="icons/stop.png" />&nbsp;Each marker locates one of the
-        fossil-fuel terminals that has been stopped by citizen activism. A
-        history of the movement, by its participants, is contained in the
-        Twitter feeds that show up when you click on the icons.
+        <img src="icons/red.png" style="vertical-align: middle;" />&nbsp;Fossil terminal stopped<br><br><img src="icons/yellow.png" style="vertical-align: middle;" />&nbsp;Fossil terminal suspended<br><br><img src="icons/black.png" style="vertical-align: middle;" />&nbsp;Fossil terminal operational
       </div>
-    </Accordion>
+    </Accordion><br>
 
     <div class="justify">
       <p>
         One thing Cascadia has to teach is activism&mdash;successful activism.
-        Success takes organized groups and spontaneous grassroots movements. The
+        Success takes professional organizations and spontaneous grassroots movements. The
         following sections of the map have been developed with an advocacy
         group,
         <a href="https://columbiariverkeeper.org" target="_blank" rel="nofollow"
@@ -62,23 +59,29 @@
         or too dirty for the energy tycoons exploiting North Dakota's Bakken and
         Canada's Tar Sands. But all that dinosaur blood needed deepwater ports
         on the Pacific Ocean in order to reach the world's thirstiest markets in
-        Asia. Fortunateely there was something between the devil and the deep
-        blue sea: the environmentalists of Oregon, Washington and British
-        Columbia.
+        Asia.
       </p>
 
       <p>
-        The Lower Columbia River, from Portland to the mouth of the estuary,
+
+        Fortunately there was something between the devil and the deep
+        blue sea: namely, the environmental activists of Oregon, Washington and British
+        Columbia.
+
+      </p>
+
+      <p>
+        As these river defenders are well aware, the Lower Columbia, from Portland to the mouth of the estuary,
         remains the multi-billion-dollar prize for the export industry. Here,
-        climate-wrecking energy can flow in by pipeline, or even worse, by rail,
+        climate-wrecking energy can flow in by pipeline, or even worse from the safety standpoint, by rail,
         and ocean-going tankers can carry it away from numerous underused ports
-        in two different states. Or at least, they could carry it away, if the
-        region's inhabitants would let that happen.
+        on either side of the Washington-Oregon border. Or at least, they could carry it away, if the
+        region's inhabitants would let them.
       </p>
 
       <p>
         Over the last decade, a dozen proposed oil, coal and liquified natural
-        gas terminals have been stopped dead in the water. Taking a remarkable
+        gas terminals have been stopped dead in the Columbia River alone. Taking a remarkable
         step forward in December 2015, Portland's city council used zoning
         regulations to pass a
         <a
@@ -100,10 +103,17 @@
         >Mosier, Oregon</span
       >, showed just how dangerous the commerce in
         energy still is. And despite the disaster, moves are again underway to
-        increase oil-by-rail in the region. Success is always relative and
-        almost everything is yet to be done in the struggle against climate
-        change.
+        increase oil-by-rail in the region.
       </p>
+
+      <img src="images/tar_sands_route.png" style="width: 100%; height: auto;">
+      <div class="caption">source: 
+        <a
+          href="https://www.nrdc.org/stories/bomb-train-derailment-sparked-resistance-columbia-river-gorge"
+          target="_blank"
+          rel="nofollow"
+          >NRDC</a
+        ></div>
 
       <p>
         Click on the markers to see how an unprecedented spectrum of grassroots
@@ -111,44 +121,26 @@
         unions, social-justice movements, tribes, environmentalists, NGOs and
         principled public officials have held the
         <a
-          href="https://www.sightline.org/research/thin-green-line"
+          href="https://www.sightline.org/?s=Thin+Green+Line&args%5Byear%5D=&args%5Bregion%5D=&args%5Bcategory%5D=&args%5Bauthor%5D="
           target="_blank"
           rel="nofollow"
           >Thin Green Line</a
         >, blocking the implementation of some of the world's most devastating
-        energy plans. Each click shows a Twitter feed next to the site of an
-        abandoned terminal project. An extraordinary range of people tell the
-        story in their own words and images, with links to important press
-        accounts and to the websites of those who are directly defending the
-        river itself and the health of everyone on its shores.
+        energy plans - in particular, the full exploitation of Canada's Tar Sands, know as the most destructive extraction project on earth.
       </p>
 
       <p>
-        This story is hardly over. Here's one last example. The orange markers
-        show two proposed sites for a methanol plant that would turn a flood of
-        fracked natural gas into useless plastic, polluting the air, the water
-        and the quality of all our lives. So it's time to take action again:
-      </p>
-
-      <div class="quote">
-        <p>No methanol on the Columbia!</p>
-        <br />
-      </div>
-
-      <div class="video">
-        <iframe
-          width="375"
-          height="211"
-          src="https://www.youtube.com/embed/rNCb-1cDxUE?rel=0&amp;showinfo=0"
-          frameborder="0"
-          allow="autoplay; encrypted-media"
-          allowfullscreen
-          >></iframe
-        >
-      </div>
+        This story is hardly over. The yellow markers represent projects that have been halted, but not abandoned; and the black marker shows an operational terminal used for the transfer from railcars to freighters. Going forward, it will take a lot of solidarity to hold that vital line.
+        </p>
       <br />
+    <div class="accordion_title">sources</div>
+    <Accordion>
+      <p>The information displayed here has been provided by the Sightline Institute:</p>
+      <p><a href="https://www.sightline.org/2017/06/20/mapping-the-thin-green-line/" target="_blank" rel="nofollow">https://www.sightline.org/2017/06/20/mapping-the-thin-green-line/</a><br><br>Click the link to explore the resistance to fossil-fuel terminals across Cascadia.</p>
+      <br />
+    </Accordion><br>
+      </div>
     </div>
-  </div>
 </template>
 
 <script>

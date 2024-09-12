@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "category": "Derailment", "vimeoSrc": "https://www.kgw.com/embeds/video/responsive/283-2212783/iframe", "caption": "Oil train derailment in Mosier, Oregon<br>June 3, 2016" }, "geometry": { "type": "Point", "coordinates": [ -121.4024, 45.6849 ] } }
+]
+}
