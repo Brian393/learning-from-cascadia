@@ -1,6 +1,6 @@
 
 aside a, .link {
-	color: #008000;
+	color: #0b82bd;
 	text-decoration: none;
 }
 
@@ -9,11 +9,11 @@ aside a, .link {
 }
 
 aside a:visited, .link {
-	color: #008000;
+	color: #0b82bd;
 }
 
 .maplink {
-	color: #63097f;
+	color: #008000;
 	text-decoration: none;
 }
 

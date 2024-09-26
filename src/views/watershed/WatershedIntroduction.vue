@@ -81,14 +81,14 @@
       <h3 slot="header">how to use the map</h3>
       <div class="flex">
         <p>
-          The three main sections are accessed through the navigation bar at the top, while specific locations and themes are reached by clicking on the panel items at lower left. The "home" icon on the top bar takes you back to the start. In some cases further buttons appear at the bottom of the map, to guide you through more complex territories. If you see  
+          The three main sections are accessed through the navigation bar at the top, while specific locations and themes are reached by clicking on the panel items at lower left. The "home" icon on the top bar takes you back to the start. In some cases further buttons appear at the bottom of the map, to guide you through more complex territories. If you see a link that's not blue, but  
       <span
         class="maplink"
         @click="
           emit('set-map-view', { center: [-114.989, 44.117], resolution: 36 })
         "
-        >a link colored purple</span
-      >, that will take you somewhere interesting. When in doubt, just click on any word or marker or object that looks significant, and there's a good chance it will reveal something.
+        >green</span
+      >, that's a map link, it will take you somewhere interesting. When in doubt, just click on any word or marker or object that looks significant, and there's a good chance it will reveal something.
     </p>
 
       </div>
