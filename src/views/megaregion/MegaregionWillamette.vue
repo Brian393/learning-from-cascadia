@@ -341,8 +341,8 @@
       ></iframe>
     </div>
     <br />
+    <div class="accordion_title">sources</div>
     <Accordion :open="false">
-      <h3 slot="header">sources</h3>
       <div class="flex">
         <div>
           <p>

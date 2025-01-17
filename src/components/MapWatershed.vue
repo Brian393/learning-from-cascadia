@@ -77,7 +77,7 @@ export default {
       return [
         new Tile({
           source: new XYZ({
-            url: "https://geo.timetochange.today/geoserver/gwc/service/tms/1.0.0/osm%3AWorld_Physical_Map@EPSG%3A900913@png/{z}/{x}/{-y}.png",
+            url: "https://services.arcgisonline.com/ArcGIS/rest/services/World_Physical_Map/MapServer",
           }),
           opacity: 1,
           minResolution: 40,
